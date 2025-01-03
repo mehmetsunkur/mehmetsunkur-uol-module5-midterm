@@ -1,0 +1,21 @@
+# Track Characteristics   Streaming Statistics   Artist Attributes
+0  # Data Source: Spotify 2024 Most Streamed Songs                    NaN                 NaN
+1                                     ## Variables                    NaN                 NaN
+2                                   - danceability                    NaN                 NaN
+3                                         - energy                    NaN                 NaN
+4                                          - tempo                    NaN                 NaN
+# Track Characteristics, Streaming Statistics, Artist Attributes
+
+# Data Source: Spotify 2024 Most Streamed Songs
+
+## Variables
+- danceability
+- energy
+- tempo
+- ... (other track characteristics)
+- spotify_streams
+- youtube_views
+- tiktok_posts
+- artist_name
+- album_name
+- release_date

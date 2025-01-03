@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Data Science Assignment</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .metadata {
+            color: #666;
+            font-style: italic;
+        }
+        .variable {
+            margin-bottom: 10px;
+        }
+        .note {
+            background-color: #f9f9f9;
+            padding: 10px;
+            border-left: 4px solid #666;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Data Science Assignment</h1>
+
+    <h2>Domain-specific area and objectives of the project</h2>
+
+    <p><strong>Domain-specific Area</strong>: Music Streaming Analytics and Revenue Prediction</p>
+    
+    <p>The music streaming industry has transformed the economics of music consumption and artist compensation, presenting a rich domain for linear regression analysis. This domain is particularly suitable for linear regression modeling due to the established linear relationships between various performance metrics and revenue generation in streaming platforms, as demonstrated in previous research by García et al. (2023) and Zhang & Smith (2024).</p>
+
+    <h2>Dataset Description</h2>
+    <p>Dataset: Spotify_Youtube.csv (30.78 MB)</p>
+    <p>Collection Date: February 7th, 2023</p>
+
+    <h3>About Dataset</h3>
+    <p>This dataset contains songs from various artists worldwide, including:</p>
+    <ul>
+        <li>Spotify streaming statistics</li>
+        <li>YouTube official music video statistics</li>
+    </ul>
+
+    <h3>Variables</h3>
+    <div class="variable">
+        <p><strong>Track:</strong> Name of the song, as visible on the Spotify platform</p>
+        <p><strong>Artist:</strong> Name of the artist</p>
+        <p><strong>Url_spotify:</strong> The URL of the artist</p>
+        <p><strong>Album:</strong> The album in which the song is contained on Spotify</p>
+        <p><strong>Album_type:</strong> Indicates if the song is released on Spotify as a single or contained in an album</p>
+        <p><strong>Uri:</strong> A Spotify link used to find the song through the API</p>
+        <p><strong>Danceability:</strong> (0.0-1.0) Describes how suitable a track is for dancing</p>
+        <p><strong>Energy:</strong> (0.0-1.0) Represents intensity and activity</p>
+        <p><strong>Key:</strong> The musical key of the track (integers mapping to pitch class notation)</p>
+        <p><strong>Loudness:</strong> Overall loudness in decibels (dB)</p>
+        <p><strong>Speechiness:</strong> (0.0-1.0) Detects presence of spoken words</p>
+        <p><strong>Acousticness:</strong> (0.0-1.0) Confidence measure of acoustic nature</p>
+        <p><strong>Instrumentalness:</strong> (0.0-1.0) Predicts vocal content</p>
+        <p><strong>Liveness:</strong> (0.0-1.0) Detects audience presence</p>
+        <p><strong>Valence:</strong> (0.0-1.0) Musical positiveness measure</p>
+        <p><strong>Tempo:</strong> Estimated tempo in BPM</p>
+        <p><strong>Duration_ms:</strong> Track duration in milliseconds</p>
+        <p><strong>Stream:</strong> Number of Spotify streams</p>
+        <p><strong>Url_youtube:</strong> YouTube video URL</p>
+        <p><strong>Title:</strong> YouTube video title</p>
+        <p><strong>Channel:</strong> YouTube channel name</p>
+        <p><strong>Views:</strong> YouTube view count</p>
+        <p><strong>Likes:</strong> YouTube like count</p>
+        <p><strong>Comments:</strong> YouTube comment count</p>
+        <p><strong>Description:</strong> YouTube video description</p>
+        <p><strong>Licensed:</strong> YouTube content partner status</p>
+        <p><strong>official_video:</strong> Boolean indicating if it's the official video</p>
+    </div>
+
+    <div class="note">
+        <strong>Note:</strong> These data are heavily dependent on the time they were collected, which is in this case the 7th of February, 2023.
+    </div>
+</body>
+</html>

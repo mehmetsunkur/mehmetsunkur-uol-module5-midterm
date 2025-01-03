@@ -1,0 +1,5 @@
+{
+    "genaiscript.languageChatModels": {
+        "client:gpt-4o": "gpt-3.5-turbo"
+    }
+}

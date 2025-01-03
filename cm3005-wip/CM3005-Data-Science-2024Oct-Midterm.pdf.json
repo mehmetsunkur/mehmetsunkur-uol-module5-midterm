@@ -1,0 +1,4350 @@
+[
+    {
+        "element_id": "c3d28860dfe7bc5f649405f33ac8d1a5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        200.0
+                    ],
+                    [
+                        200.0,
+                        379.4
+                    ],
+                    [
+                        733.3,
+                        379.4
+                    ],
+                    [
+                        733.3,
+                        200.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "image_path": "/home/msunkur/dev/projects/uol/Module5/midterm/CM3020_Artificial_Intelligence/parta/docs/tmp/tmp_ingest/output/figure-1-1.jpg",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 1
+        },
+        "text": "        ",
+        "type": "Image"
+    },
+    {
+        "element_id": "e6e01bd65c3cfcf57ce9d7e74128657a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        610.4,
+                        472.7
+                    ],
+                    [
+                        610.4,
+                        523.6
+                    ],
+                    [
+                        1051.5,
+                        523.6
+                    ],
+                    [
+                        1051.5,
+                        472.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.55015,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 1
+        },
+        "text": "BSc Computer Science",
+        "type": "Title"
+    },
+    {
+        "element_id": "3747aea990a633f5c037913dd0d48879",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        197.3,
+                        599.7
+                    ],
+                    [
+                        197.3,
+                        648.1
+                    ],
+                    [
+                        792.8,
+                        648.1
+                    ],
+                    [
+                        792.8,
+                        599.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.54581,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 1
+        },
+        "text": "Module: CM3005 - Data Science",
+        "type": "Title"
+    },
+    {
+        "element_id": "0b370962552e07e45c8ad87f844a127f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        198.1,
+                        690.4
+                    ],
+                    [
+                        198.1,
+                        742.6
+                    ],
+                    [
+                        444.7,
+                        742.6
+                    ],
+                    [
+                        444.7,
+                        690.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.48032,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 1
+        },
+        "text": "Introduction",
+        "type": "Title"
+    },
+    {
+        "element_id": "ec307accb6ead9ed54427bb08f860232",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        197.7,
+                        796.0
+                    ],
+                    [
+                        197.7,
+                        1067.3
+                    ],
+                    [
+                        1472.3,
+                        1067.3
+                    ],
+                    [
+                        1472.3,
+                        796.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.956,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 1,
+            "parent_id": "0b370962552e07e45c8ad87f844a127f"
+        },
+        "text": "This coursework requires you to utilise a linear regression algorithm and to apply techniques from data visualisation tools and statistical analysis. You will need to identify a suitable domain-specific problem area and an associated data set. This implies that the selected domain is expected to have data with a linear trendline. Hint. You will need to visualise data as your first step before deciding the domain/dataset. Also, it is advisable to select a dataset which has less than 10,000 entries so you can load and process it faster.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ca290ab17777e4e814e6cfb9a5da28b0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        1104.3
+                    ],
+                    [
+                        200.0,
+                        1258.8
+                    ],
+                    [
+                        1463.0,
+                        1258.8
+                    ],
+                    [
+                        1463.0,
+                        1104.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94787,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 1,
+            "parent_id": "0b370962552e07e45c8ad87f844a127f"
+        },
+        "text": "When you have your dataset selected you will then proceed with the preprocessing of data where you check for imperfections and perform normalisation. Remember that your dataset should have missing data, come in several csv files etc., to make use of the preprocessing step. Do not choose a dataset which is in 1NF.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "bdc35aae221af381ae3d4f837104ca64",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        1294.9
+                    ],
+                    [
+                        200.0,
+                        1565.5
+                    ],
+                    [
+                        1463.0,
+                        1565.5
+                    ],
+                    [
+                        1463.0,
+                        1294.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95636,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 1,
+            "parent_id": "0b370962552e07e45c8ad87f844a127f"
+        },
+        "text": "When your dataset is ready you can proceed with the implementation process. That involves building and testing the model and obtaining and evaluating the results. We will award some extra points for those who choose to implement this assignment further. Discuss any additional work clearly in your Jupyter notebook i.e. Additional work section or similar. The project is expected to be developed by using the Python programming language and Jupyter notebook. Provide well-commented Python code accompanied by documentation describing the following steps:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ba9f720102b8033ccb8ae013570a2d20",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        198.9,
+                        1642.5
+                    ],
+                    [
+                        198.9,
+                        1694.5
+                    ],
+                    [
+                        427.4,
+                        1694.5
+                    ],
+                    [
+                        427.4,
+                        1642.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.82003,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 1
+        },
+        "text": "Task/steps",
+        "type": "Title"
+    },
+    {
+        "element_id": "be4100713de621680fd9f1ec7ad6940d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        193.2,
+                        1729.8
+                    ],
+                    [
+                        193.2,
+                        1770.0
+                    ],
+                    [
+                        1238.2,
+                        1770.0
+                    ],
+                    [
+                        1238.2,
+                        1729.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84991,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 1,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "1. Domain-specific area and objectives of the project (200-500 words)",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "83c81ccf850d3d32f14fa7ffaf6818f7",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        198.8,
+                        1805.2
+                    ],
+                    [
+                        198.8,
+                        2038.3
+                    ],
+                    [
+                        1463.0,
+                        2038.3
+                    ],
+                    [
+                        1463.0,
+                        1805.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95216,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 1,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "The first step of the coursework is to identify and describe the domain-specific area. This is an area of industry or science where a linear regression model will contribute. It can be any field which can benefit from machine learning. Then state and justify the objectives of the project. Discuss its impact and contribution to the domain- specific area. State any contribution which the results may make to the challenge addressed.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f1f776fa3d1b15334bdcb40312987a97",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        200.3
+                    ],
+                    [
+                        200.0,
+                        318.8
+                    ],
+                    [
+                        1465.6,
+                        318.8
+                    ],
+                    [
+                        1465.6,
+                        200.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92696,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "Examples: Housing prices in the UK (United Kingdom). To show how prices were affected by Brexit in London and Manchester. Life expectancy globally. To show the effect of GDP per capita.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d23d0cf8839141ca54d715d50e35a346",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        198.8,
+                        353.7
+                    ],
+                    [
+                        198.8,
+                        395.5
+                    ],
+                    [
+                        783.8,
+                        395.5
+                    ],
+                    [
+                        783.8,
+                        353.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84046,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "2. Dataset description (200-500 words)",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7a3c4edc3ad3e87c2f60d5f5f3b1add7",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        198.2,
+                        431.0
+                    ],
+                    [
+                        198.2,
+                        625.5
+                    ],
+                    [
+                        1465.3,
+                        625.5
+                    ],
+                    [
+                        1465.3,
+                        431.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95011,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "The next step is to identify a suitable dataset representative for the coursework's domain. The use of a suitable dataset can address all the steps outlined in this assignment. Provide a description of the dataset, its size, data types, the way the data was acquired. State clearly the source of the dataset. Kaggle.com provides a wide variety of datasets.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ec99ef2c09c847e3a923608eb5caa495",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        661.1
+                    ],
+                    [
+                        200.0,
+                        778.8
+                    ],
+                    [
+                        1464.4,
+                        778.8
+                    ],
+                    [
+                        1464.4,
+                        661.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92934,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "Example: Housing market dataset, collected by the US Census Bureau providing information about real estate in California. The dataset can be accessed via the Kaggle official website.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0b259ffe959cb7bc48a2eab78de806a6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        188.0,
+                        813.7
+                    ],
+                    [
+                        188.0,
+                        855.5
+                    ],
+                    [
+                        1203.0,
+                        855.5
+                    ],
+                    [
+                        1203.0,
+                        813.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.8427,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "3. Data preparation (acquisition/cleaning/sanitisation/normalisation)",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b81e211e572d394105485cf75dc43d63",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        195.4,
+                        890.1
+                    ],
+                    [
+                        195.4,
+                        1085.5
+                    ],
+                    [
+                        1444.6,
+                        1085.5
+                    ],
+                    [
+                        1444.6,
+                        890.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94986,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "Convert/store the dataset locally and preprocess the data. This is usually equivalent to transforming a table from a database into First Normal Form (1NF). Describe the preprocessing steps and why they were needed. Describe the file type/format, for example CSV file. Process the dataset for missing data if needed. For this part use Pandas DataFrame.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9a4c648567046c4c53429f40e84699a0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        197.4,
+                        1119.4
+                    ],
+                    [
+                        197.4,
+                        1162.2
+                    ],
+                    [
+                        518.8,
+                        1162.2
+                    ],
+                    [
+                        518.8,
+                        1119.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.85483,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "4. Statistical analysis",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7b231d2a1eff546b63330f23bd3d6be8",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        192.3,
+                        1197.8
+                    ],
+                    [
+                        192.3,
+                        1268.1
+                    ],
+                    [
+                        1462.9,
+                        1268.1
+                    ],
+                    [
+                        1462.9,
+                        1197.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90013,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "Identify key series of the dataset and provide statistical summary of the data,",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d43bc1d006b14cd4b5ef0e8135775f42",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        1243.7
+                    ],
+                    [
+                        200.0,
+                        1277.0
+                    ],
+                    [
+                        350.1,
+                        1277.0
+                    ],
+                    [
+                        350.1,
+                        1243.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "including:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b8c94b26548e3c5e78508fce4a7099d2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        296.1,
+                        1275.2
+                    ],
+                    [
+                        296.1,
+                        1315.3
+                    ],
+                    [
+                        766.8,
+                        1315.3
+                    ],
+                    [
+                        766.8,
+                        1275.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.80817,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "- Measures of central tendency",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "e888663533f9539d750765f8f8ab9c9e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        297.8,
+                        1314.6
+                    ],
+                    [
+                        297.8,
+                        1353.7
+                    ],
+                    [
+                        624.1,
+                        1353.7
+                    ],
+                    [
+                        624.1,
+                        1314.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.75609,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "- Measures of spread",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "0137d130042529359cf1a90ce900f001",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        294.0,
+                        1352.1
+                    ],
+                    [
+                        294.0,
+                        1392.0
+                    ],
+                    [
+                        611.2,
+                        1392.0
+                    ],
+                    [
+                        611.2,
+                        1352.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.75392,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "- Type of distribution",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "1dd1a5ed099145299ca0b7231f062aeb",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        190.7,
+                        1389.8
+                    ],
+                    [
+                        190.7,
+                        1468.7
+                    ],
+                    [
+                        1432.4,
+                        1468.7
+                    ],
+                    [
+                        1432.4,
+                        1389.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.89819,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "This can be done by using libraries such as NumPy, pandas and SciPy. Most likely the dataset will consist of multiple series.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "868f05dda749297fadb77e4a77a18800",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        1502.5
+                    ],
+                    [
+                        200.0,
+                        1545.3
+                    ],
+                    [
+                        433.4,
+                        1545.3
+                    ],
+                    [
+                        433.4,
+                        1502.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.78183,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "5. Visualisation",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0c7fb599c77ba056a6a5d67cfb2d796e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        197.9,
+                        1580.4
+                    ],
+                    [
+                        197.9,
+                        1813.7
+                    ],
+                    [
+                        1464.2,
+                        1813.7
+                    ],
+                    [
+                        1464.2,
+                        1580.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95493,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "Visualise key data series within the dataset by using the appropriate graphs. This can be done by using Python libraries, such as Matplotlib. Accompany any diagram with explanations - we will not award any points if you do not. Draw conclusions based on the diagrams, which otherwise, without visualisation would be difficult or impossible. Which visualisation (of the ones you prepared) is most important and why?",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a6cd31a735ecaf6897d62057a98836d6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        1848.6
+                    ],
+                    [
+                        200.0,
+                        1890.3
+                    ],
+                    [
+                        846.6,
+                        1890.3
+                    ],
+                    [
+                        846.6,
+                        1848.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.86068,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "6. Build your ML (Machine Learning) model",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "836dbf42aaa166ad6f28424359727567",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        237.6,
+                        1888.1
+                    ],
+                    [
+                        237.6,
+                        1969.3
+                    ],
+                    [
+                        1462.9,
+                        1969.3
+                    ],
+                    [
+                        1462.9,
+                        1888.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90302,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "\u2022 Identify the features and the labels which will be used in the data regression model and justify why they were selected",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "3c4e31602f3ca0c349e0ec3a85b10a3b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        241.2,
+                        1970.3
+                    ],
+                    [
+                        241.2,
+                        2048.2
+                    ],
+                    [
+                        1463.5,
+                        2048.2
+                    ],
+                    [
+                        1463.5,
+                        1970.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90829,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "\u2022 Explain their (i.e. features) importance for the process of building the ML model",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "fcb73f35a85afb67f1a8913b72f6c2f9",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        241.9,
+                        2050.3
+                    ],
+                    [
+                        241.9,
+                        2127.0
+                    ],
+                    [
+                        1462.9,
+                        2127.0
+                    ],
+                    [
+                        1462.9,
+                        2050.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.88062,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 2,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "\u2022 Build the model by using an appropriate Python library, such as Weka or Scikit-learn",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "0b4ac1e7c631ccab7d1318369fb97107",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        239.9,
+                        203.7
+                    ],
+                    [
+                        239.9,
+                        282.7
+                    ],
+                    [
+                        1458.7,
+                        282.7
+                    ],
+                    [
+                        1458.7,
+                        203.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90281,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 3,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "\u2022 Run and evaluate your model: does your model fit the data or further pre- processing is required?",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "0d83ea32bdbc94a05d930435bfd8f58d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        196.8,
+                        354.9
+                    ],
+                    [
+                        196.8,
+                        397.7
+                    ],
+                    [
+                        392.8,
+                        397.7
+                    ],
+                    [
+                        392.8,
+                        354.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.58553,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 3,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "7. Validation",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9fe5fedd2e5fbf7d2ad873d349933b4d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        432.8
+                    ],
+                    [
+                        200.0,
+                        512.7
+                    ],
+                    [
+                        1466.9,
+                        512.7
+                    ],
+                    [
+                        1466.9,
+                        432.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90064,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 3,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "Consider how the model\u2019s results could be validated using either cross validation or other models/ensembles.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8a3c8d2af5226d4b5d511eb71eabd741",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        197.7,
+                        549.4
+                    ],
+                    [
+                        197.7,
+                        589.3
+                    ],
+                    [
+                        544.6,
+                        589.3
+                    ],
+                    [
+                        544.6,
+                        549.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.77457,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 3,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "8. Feature engineering",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b58344cf3936997cbfae6cd05c1644de",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        623.9
+                    ],
+                    [
+                        200.0,
+                        742.7
+                    ],
+                    [
+                        1469.6,
+                        742.7
+                    ],
+                    [
+                        1469.6,
+                        623.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92684,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 3,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "Your model would benefit from using feature engineering techniques or polynomial features as described in Topic 5.4. Implement these techniques and re-evaluate your model.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6461f6c4055d305811f89018add92721",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        778.6
+                    ],
+                    [
+                        200.0,
+                        819.3
+                    ],
+                    [
+                        524.1,
+                        819.3
+                    ],
+                    [
+                        524.1,
+                        778.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.70936,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 3,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "9. Programming style",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "5a47b20805c6135e9be061a54d300f5b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        195.4,
+                        854.8
+                    ],
+                    [
+                        195.4,
+                        1049.3
+                    ],
+                    [
+                        1464.5,
+                        1049.3
+                    ],
+                    [
+                        1464.5,
+                        854.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94803,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 3,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "The Python code is expected to meet certain standards as described by most coding conventions. This includes code indentation, not using unnamed numerical constants, assigning meaningful names to variables and subroutines. Additionally, the code is expected to be commented, including all variables, sub-routines and calls to library methods.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "dda90f54884ac1849ba0bae00a04c2cc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        198.9,
+                        1085.0
+                    ],
+                    [
+                        198.9,
+                        1127.7
+                    ],
+                    [
+                        918.9,
+                        1127.7
+                    ],
+                    [
+                        918.9,
+                        1085.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.81199,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 3,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "10. Evaluation of your model (200 to 400 words)",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1e5ea0cde503d77a6f54e3856ddd3f6a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        1161.4
+                    ],
+                    [
+                        200.0,
+                        1202.7
+                    ],
+                    [
+                        967.3,
+                        1202.7
+                    ],
+                    [
+                        967.3,
+                        1161.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83639,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 3,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "Evaluate the results of the machine learning model:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "76ffec9e7f823f0e513381243c8b2589",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        250.0,
+                        1202.3
+                    ],
+                    [
+                        250.0,
+                        1243.2
+                    ],
+                    [
+                        1067.0,
+                        1243.2
+                    ],
+                    [
+                        1067.0,
+                        1202.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84315,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 3,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "\u2022 Numerically evaluate the performance of the model",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "64de5b0b36048d857ee5ed932e1f8ceb",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        250.0,
+                        1242.6
+                    ],
+                    [
+                        250.0,
+                        1283.7
+                    ],
+                    [
+                        1163.3,
+                        1283.7
+                    ],
+                    [
+                        1163.3,
+                        1242.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.85183,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 3,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "\u2022 Justify the use of an appropriate measure such as RMSE",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "8b45ec787e9e62ec387ceb1080857f30",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        244.4,
+                        1282.4
+                    ],
+                    [
+                        244.4,
+                        1362.7
+                    ],
+                    [
+                        1462.9,
+                        1362.7
+                    ],
+                    [
+                        1462.9,
+                        1282.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9043,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 3,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "\u2022 Provide a reflective evaluation of the developed project considering the obtained results",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "a224e7b5a1b01cbb1056ec1bee78e946",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        242.5,
+                        1361.7
+                    ],
+                    [
+                        242.5,
+                        1403.2
+                    ],
+                    [
+                        1245.8,
+                        1403.2
+                    ],
+                    [
+                        1245.8,
+                        1361.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84836,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 3,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "\u2022 Describe its contributions to the selected domain-specific area",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "8460355f78f820c1863b130e455b69ca",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        247.4,
+                        1402.5
+                    ],
+                    [
+                        247.4,
+                        1443.8
+                    ],
+                    [
+                        1407.9,
+                        1443.8
+                    ],
+                    [
+                        1407.9,
+                        1402.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84713,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 3,
+            "parent_id": "ba9f720102b8033ccb8ae013570a2d20"
+        },
+        "text": "\u2022 Discuss whether the solution is transferable to other domain-specific areas",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "1907a3993cd5214bda0fdaedf1b11530",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        199.5,
+                        1517.3
+                    ],
+                    [
+                        199.5,
+                        1572.8
+                    ],
+                    [
+                        456.9,
+                        1572.8
+                    ],
+                    [
+                        456.9,
+                        1517.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.79351,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 3
+        },
+        "text": "Deliverables",
+        "type": "Title"
+    },
+    {
+        "element_id": "06bd725e97034b8a960dfa88d071cdb0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        241.5,
+                        1630.4
+                    ],
+                    [
+                        241.5,
+                        1784.2
+                    ],
+                    [
+                        1435.7,
+                        1784.2
+                    ],
+                    [
+                        1435.7,
+                        1630.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90711,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 3,
+            "parent_id": "1907a3993cd5214bda0fdaedf1b11530"
+        },
+        "text": "1. Your Jupyter notebook including the sections of the report starting with questions 1 and 2. Include your code and results as produced from the Jupyter notebook and conclude with question 10 to evaluate your work. This should be saved as a single .pdf file and then uploaded to the first prompt.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "c015ccc795757c64f089550318f44da7",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        242.3,
+                        1785.0
+                    ],
+                    [
+                        242.3,
+                        2014.2
+                    ],
+                    [
+                        1453.6,
+                        2014.2
+                    ],
+                    [
+                        1453.6,
+                        1785.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 3,
+            "parent_id": "1907a3993cd5214bda0fdaedf1b11530"
+        },
+        "text": "2. Your code (i.e. your Jupyter notebook code as in 1.) in .txt format. Use Download/Export menus on Jupyter notebook, Jupyter Lab, Colab etc. Then upload the code in the second prompt. Please see submission page for further details. This is a submission requirement as we need this to run your code. You will receive zero points for the entire project if you fail to submit your code in this way.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "9a706a0428695ae98906d37530720246",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        196.8,
+                        201.7
+                    ],
+                    [
+                        196.8,
+                        256.1
+                    ],
+                    [
+                        340.9,
+                        256.1
+                    ],
+                    [
+                        340.9,
+                        201.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.73484,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4
+        },
+        "text": "Rubric",
+        "type": "Title"
+    },
+    {
+        "element_id": "b5c6aba2708d6ead5ee1a08129f00c5d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        197.6,
+                        311.6
+                    ],
+                    [
+                        197.6,
+                        350.8
+                    ],
+                    [
+                        811.4,
+                        350.8
+                    ],
+                    [
+                        811.4,
+                        311.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.75363,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "9a706a0428695ae98906d37530720246"
+        },
+        "text": "Marks are shown in square parentheses.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ae3ba52ef93bb3bb73d9027c6736c548",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        388.8
+                    ],
+                    [
+                        200.0,
+                        452.4
+                    ],
+                    [
+                        1398.0,
+                        452.4
+                    ],
+                    [
+                        1398.0,
+                        388.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.82686,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "9a706a0428695ae98906d37530720246"
+        },
+        "text": "Q1. Describe the domain-specific area and the objectives of the project. Why can we use a linear regression model in this domain and what are you trying to achieve? (200-500 words)",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "33cb81658b1be86b8536bed38eb1ab84",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        199.9,
+                        451.7
+                    ],
+                    [
+                        199.9,
+                        484.4
+                    ],
+                    [
+                        550.8,
+                        484.4
+                    ],
+                    [
+                        550.8,
+                        451.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.69396,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "9a706a0428695ae98906d37530720246"
+        },
+        "text": "[0] Missing or incorrect",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "97b9995e775e8e9b59f2a04f1ba592e8",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        199.9,
+                        484.3
+                    ],
+                    [
+                        199.9,
+                        516.2
+                    ],
+                    [
+                        747.0,
+                        516.2
+                    ],
+                    [
+                        747.0,
+                        484.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.53251,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "9a706a0428695ae98906d37530720246"
+        },
+        "text": "[1] Briefly discussed i.e. couple of lines",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "7ecca9df48ebe127985526b726febdfc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        299.9,
+                        520.4
+                    ],
+                    [
+                        299.9,
+                        548.2
+                    ],
+                    [
+                        813.1,
+                        548.2
+                    ],
+                    [
+                        813.1,
+                        520.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4
+        },
+        "text": "Then +1 for each [overall 5 points for Q1]",
+        "type": "Title"
+    },
+    {
+        "element_id": "860f95279d1ebb4d564623c3b195be09",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        296.0,
+                        579.2
+                    ],
+                    [
+                        296.0,
+                        708.0
+                    ],
+                    [
+                        1088.2,
+                        708.0
+                    ],
+                    [
+                        1088.2,
+                        579.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.72958,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "Domain-specific area clearly stated with informative description Objectives clearly stated with sufficient details Potential contributions included Fully referenced work included",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f35e093e584e891a2c00d8e5d991c7ae",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        193.7,
+                        739.2
+                    ],
+                    [
+                        193.7,
+                        771.8
+                    ],
+                    [
+                        1413.6,
+                        771.8
+                    ],
+                    [
+                        1413.6,
+                        739.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.77138,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "Q2. Description of the selected dataset. Why this dataset fits the above purpose? (200-400 words)",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "69834741997482d0563dd17512c79684",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        199.9,
+                        771.5
+                    ],
+                    [
+                        199.9,
+                        805.1
+                    ],
+                    [
+                        549.7,
+                        805.1
+                    ],
+                    [
+                        549.7,
+                        771.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.79212,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[0] Missing or incorrect",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "15c5cdd03721b57b31e2de1b058d2627",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        195.0,
+                        803.1
+                    ],
+                    [
+                        195.0,
+                        837.1
+                    ],
+                    [
+                        516.8,
+                        837.1
+                    ],
+                    [
+                        516.8,
+                        803.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.74483,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[1] Briefly described",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "db4db9cb1e0b860940eee0f14d8843c7",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        300.0,
+                        865.8
+                    ],
+                    [
+                        300.0,
+                        899.6
+                    ],
+                    [
+                        813.2,
+                        899.6
+                    ],
+                    [
+                        813.2,
+                        865.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84895,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "Then +1 for each [overall 6 points for Q2]",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "edf5f36618c4428dadbf40d89f92c7a9",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        347.7,
+                        901.6
+                    ],
+                    [
+                        347.7,
+                        933.4
+                    ],
+                    [
+                        461.7,
+                        933.4
+                    ],
+                    [
+                        461.7,
+                        901.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.75659,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "\u2022 Size",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "820f60b2a2b3e61d15213a963ab5c835",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        349.3,
+                        935.9
+                    ],
+                    [
+                        349.3,
+                        967.3
+                    ],
+                    [
+                        481.9,
+                        967.3
+                    ],
+                    [
+                        481.9,
+                        935.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.74818,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "\u2022 Origin",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "81b86a7cb36afbcc8cb42f784cd86534",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        341.4,
+                        968.8
+                    ],
+                    [
+                        341.4,
+                        1001.1
+                    ],
+                    [
+                        710.3,
+                        1001.1
+                    ],
+                    [
+                        710.3,
+                        968.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.58112,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "\u2022 Structure and data types",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "61249049da3d39daeb5fee317c08e460",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        295.8,
+                        999.5
+                    ],
+                    [
+                        295.8,
+                        1032.9
+                    ],
+                    [
+                        633.0,
+                        1032.9
+                    ],
+                    [
+                        633.0,
+                        999.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.3782,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "Fitness for LR [2 points]",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8b2aa7150428828024295ca376e2927a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        196.9,
+                        1062.2
+                    ],
+                    [
+                        196.9,
+                        1097.0
+                    ],
+                    [
+                        447.0,
+                        1097.0
+                    ],
+                    [
+                        447.0,
+                        1062.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.71018,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "Q3. Pre-processing",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7703f6bd9871d0ecf4e17bc2b9aef89a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        199.9,
+                        1096.1
+                    ],
+                    [
+                        199.9,
+                        1130.1
+                    ],
+                    [
+                        548.6,
+                        1130.1
+                    ],
+                    [
+                        548.6,
+                        1096.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.77015,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[0] Missing or incorrect",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "60da14424bc407183949af835a31f6f8",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        1125.7
+                    ],
+                    [
+                        200.0,
+                        1162.1
+                    ],
+                    [
+                        787.9,
+                        1162.1
+                    ],
+                    [
+                        787.9,
+                        1125.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.82765,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[1] Briefly described and no use of pandas",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "cceedc5c7b64368f36f1791d7b47246e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        1160.3
+                    ],
+                    [
+                        200.0,
+                        1194.1
+                    ],
+                    [
+                        1276.7,
+                        1194.1
+                    ],
+                    [
+                        1276.7,
+                        1160.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.79207,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[2] Working code fragments with some pre-processing steps, dataset not in 1NF",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "a92bc4a3b6d8a6f67877b27e3e25ac57",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        198.8,
+                        1192.6
+                    ],
+                    [
+                        198.8,
+                        1256.6
+                    ],
+                    [
+                        1439.4,
+                        1256.6
+                    ],
+                    [
+                        1439.4,
+                        1192.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.78552,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[3] All necessary pre-processing steps undertaken, dataset in 1NF, with fixes to missing values, cleaning data achieved",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "eb35d428b6a241cd575ef36d7912d09e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        192.4,
+                        1285.1
+                    ],
+                    [
+                        192.4,
+                        1320.4
+                    ],
+                    [
+                        499.1,
+                        1320.4
+                    ],
+                    [
+                        499.1,
+                        1285.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.67369,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "Q4. Statistical Analysis",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "31f993c50ecadacd45759452b07c3803",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        1320.4
+                    ],
+                    [
+                        200.0,
+                        1353.7
+                    ],
+                    [
+                        548.6,
+                        1353.7
+                    ],
+                    [
+                        548.6,
+                        1320.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.73328,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[0] Missing or incorrect",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "39cd66efe5ed825719b7f10f91b79bf8",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        194.6,
+                        1351.0
+                    ],
+                    [
+                        194.6,
+                        1385.6
+                    ],
+                    [
+                        514.2,
+                        1385.6
+                    ],
+                    [
+                        514.2,
+                        1351.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.69507,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[1] Briefly described",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "c7cb5526a8c1d267b39a3f1041629934",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        186.8,
+                        1384.2
+                    ],
+                    [
+                        186.8,
+                        1448.2
+                    ],
+                    [
+                        1448.0,
+                        1448.2
+                    ],
+                    [
+                        1448.0,
+                        1384.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83075,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[2] Adequately described, some statistical information provided, the mean, median and standard deviation",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b053f9228109db5c6bbb016e83b6e741",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        196.0,
+                        1448.1
+                    ],
+                    [
+                        196.0,
+                        1512.1
+                    ],
+                    [
+                        1459.6,
+                        1512.1
+                    ],
+                    [
+                        1459.6,
+                        1448.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.79752,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[3] Dataset accurately summarized by providing the appropriate statistical data. That includes the above plus skewness and kurtosis",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e4c6d365e93e40df19ed4a6cd8fda31f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        194.0,
+                        1510.7
+                    ],
+                    [
+                        194.0,
+                        1545.4
+                    ],
+                    [
+                        1163.2,
+                        1545.4
+                    ],
+                    [
+                        1163.2,
+                        1510.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.80694,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[4] Analysis of findings e.g., which measure is more interesting and why?",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "1e2b8f8c43e72d60a9a73aecb174c9f2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        199.2,
+                        1573.1
+                    ],
+                    [
+                        199.2,
+                        1607.9
+                    ],
+                    [
+                        483.9,
+                        1607.9
+                    ],
+                    [
+                        483.9,
+                        1573.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.71717,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "Q5. Data Visualisation",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a1f8f3dba7b84244323b3870c7be4ef3",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        1606.9
+                    ],
+                    [
+                        200.0,
+                        1641.2
+                    ],
+                    [
+                        1064.1,
+                        1641.2
+                    ],
+                    [
+                        1064.1,
+                        1606.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83367,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[0] Missing/incorrect/only visuals included without any discussion",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "9efe2f98bd7f81deea53712382bc5d81",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        215.6,
+                        1635.9
+                    ],
+                    [
+                        215.6,
+                        1703.7
+                    ],
+                    [
+                        1305.3,
+                        1703.7
+                    ],
+                    [
+                        1305.3,
+                        1635.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.60775,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "Basic description, some visualisation without conveying the properties of the data Then +1 for each [overall 4 points for Q5]",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "3b7dfd003ea7d5fefd07fa6c769a8589",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        1639.7
+                    ],
+                    [
+                        200.0,
+                        1673.1
+                    ],
+                    [
+                        238.4,
+                        1673.1
+                    ],
+                    [
+                        238.4,
+                        1639.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[1]",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "aadd5626f05254ca5660c60032fc06f8",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        299.9,
+                        1737.1
+                    ],
+                    [
+                        299.9,
+                        1833.8
+                    ],
+                    [
+                        1232.5,
+                        1833.8
+                    ],
+                    [
+                        1232.5,
+                        1737.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.52575,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "Informative visualisation of key variables using appropriate types of graphs. Visualisations alongside informative text Student discusses the most important visualisation",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9933ae2563bafadba6e76be722be29b5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        193.4,
+                        1861.7
+                    ],
+                    [
+                        193.4,
+                        1895.4
+                    ],
+                    [
+                        506.9,
+                        1895.4
+                    ],
+                    [
+                        506.9,
+                        1861.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.69171,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "Q6. Building ML model",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1063bafadd34ab2263e28a7a64318bd1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        199.9,
+                        1895.2
+                    ],
+                    [
+                        199.9,
+                        1928.6
+                    ],
+                    [
+                        552.6,
+                        1928.6
+                    ],
+                    [
+                        552.6,
+                        1895.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.69096,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[0] Missing or incorrect",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "ad85fb256fa3a67a393258898bfd81d3",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        192.9,
+                        1926.1
+                    ],
+                    [
+                        192.9,
+                        1960.6
+                    ],
+                    [
+                        517.7,
+                        1960.6
+                    ],
+                    [
+                        517.7,
+                        1926.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.75365,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[1] Briefly described",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "fd18d4ba59d6406a191e7783c8cab6df",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        198.9,
+                        1957.9
+                    ],
+                    [
+                        198.9,
+                        1992.6
+                    ],
+                    [
+                        820.4,
+                        1992.6
+                    ],
+                    [
+                        820.4,
+                        1957.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.81796,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[2] Working solution with unconfirmed results",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "e46c0129c1a0bd010da6d9c9ab0c9e67",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        197.7,
+                        1990.7
+                    ],
+                    [
+                        197.7,
+                        2024.4
+                    ],
+                    [
+                        1275.7,
+                        2024.4
+                    ],
+                    [
+                        1275.7,
+                        1990.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.8262,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[3] Working solution with confirmed results generated and presented appropriately",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "c250caad3f51acacea83cb6fa13df7d3",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        2053.3
+                    ],
+                    [
+                        200.0,
+                        2087.1
+                    ],
+                    [
+                        382.2,
+                        2087.1
+                    ],
+                    [
+                        382.2,
+                        2053.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.47388,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "Q7. Validation",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "718ba0f82d5fb68a674f1c22792accac",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        2086.9
+                    ],
+                    [
+                        200.0,
+                        2120.2
+                    ],
+                    [
+                        505.4,
+                        2120.2
+                    ],
+                    [
+                        505.4,
+                        2086.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.66886,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 4,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[0] None attempted",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "9499cc4e131dfcfae41e2150699316a3",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        189.5,
+                        201.0
+                    ],
+                    [
+                        189.5,
+                        236.6
+                    ],
+                    [
+                        847.7,
+                        236.6
+                    ],
+                    [
+                        847.7,
+                        201.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.74635,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[1] Briefly described but not attempted in code",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "5086daf0efc43e7417345b81cb82d9b1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        234.7
+                    ],
+                    [
+                        200.0,
+                        268.4
+                    ],
+                    [
+                        916.0,
+                        268.4
+                    ],
+                    [
+                        916.0,
+                        234.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.75967,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[2] Cross validation used but not reflected on results",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "f125a237e2e3f4239e7c96cb0a7ff2fa",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        266.7
+                    ],
+                    [
+                        200.0,
+                        300.4
+                    ],
+                    [
+                        1267.9,
+                        300.4
+                    ],
+                    [
+                        1267.9,
+                        266.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.82689,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[3] Cross validation with confirmed results generated and presented appropriately",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "26742d22a1ffe2fc1203bb179dbd5cd5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        197.0,
+                        329.9
+                    ],
+                    [
+                        197.0,
+                        362.9
+                    ],
+                    [
+                        508.9,
+                        362.9
+                    ],
+                    [
+                        508.9,
+                        329.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.47855,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "Q8. Feature engineering",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e57b902127695cb33ea40a585a180cb5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        199.2,
+                        362.9
+                    ],
+                    [
+                        199.2,
+                        396.2
+                    ],
+                    [
+                        505.4,
+                        396.2
+                    ],
+                    [
+                        505.4,
+                        362.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.69961,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[0] None attempted",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "cc8c10910f8149c2881a3ecb60814457",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        195.5,
+                        392.9
+                    ],
+                    [
+                        195.5,
+                        428.2
+                    ],
+                    [
+                        517.5,
+                        428.2
+                    ],
+                    [
+                        517.5,
+                        392.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.73324,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[1] Briefly described",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "38171d8400b74961c25e9c7af72974cc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        425.1
+                    ],
+                    [
+                        200.0,
+                        460.1
+                    ],
+                    [
+                        820.4,
+                        460.1
+                    ],
+                    [
+                        820.4,
+                        425.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.81972,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[2] Working solution with unconfirmed results",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "fcaed42dea7adb1a1ff7ede339c606e1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        457.7
+                    ],
+                    [
+                        200.0,
+                        492.1
+                    ],
+                    [
+                        1275.7,
+                        492.1
+                    ],
+                    [
+                        1275.7,
+                        457.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83609,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[3] Working solution with confirmed results generated and presented appropriately",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "cc409a660c03164d62ca82c8242fec9d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        194.8,
+                        521.4
+                    ],
+                    [
+                        194.8,
+                        554.6
+                    ],
+                    [
+                        496.2,
+                        554.6
+                    ],
+                    [
+                        496.2,
+                        521.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.5348,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "Q9. Programming style",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "922dc5e7c8a4e50a1fe9f56a9749191d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        199.9,
+                        554.6
+                    ],
+                    [
+                        199.9,
+                        587.9
+                    ],
+                    [
+                        525.9,
+                        587.9
+                    ],
+                    [
+                        525.9,
+                        554.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.72836,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[0] No code provided",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "87479d86a103299217b24643b99e5e4b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        196.9,
+                        585.3
+                    ],
+                    [
+                        196.9,
+                        619.7
+                    ],
+                    [
+                        699.7,
+                        619.7
+                    ],
+                    [
+                        699.7,
+                        585.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.80886,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[1] A minimal attempt at readability",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "30b10b497ac3d7b80d79a313dbe3602c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        194.9,
+                        616.1
+                    ],
+                    [
+                        194.9,
+                        651.7
+                    ],
+                    [
+                        926.9,
+                        651.7
+                    ],
+                    [
+                        926.9,
+                        616.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83501,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[2] The source code is readable with some comments",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "693141ff4dd1ddad136b085efa271348",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        198.9,
+                        648.5
+                    ],
+                    [
+                        198.9,
+                        683.7
+                    ],
+                    [
+                        1207.4,
+                        683.7
+                    ],
+                    [
+                        1207.4,
+                        648.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.80048,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[3] The source code is of high quality and follows general coding convention",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "232d21805a2c589d2b794142c01421da",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        196.0,
+                        682.2
+                    ],
+                    [
+                        196.0,
+                        715.6
+                    ],
+                    [
+                        1327.4,
+                        715.6
+                    ],
+                    [
+                        1327.4,
+                        682.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.71323,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[4] Professional level code presentation (e.g., extensive and consistent approach to",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "770ace24ea136d2121514b115ca32ea5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        716.2
+                    ],
+                    [
+                        200.0,
+                        746.2
+                    ],
+                    [
+                        1356.7,
+                        746.2
+                    ],
+                    [
+                        1356.7,
+                        716.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.40544,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "documentation through comments, consistency of approach - camelCase all the way through)",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c77db91fa72d90bdc10000b92b582982",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        777.3
+                    ],
+                    [
+                        200.0,
+                        810.1
+                    ],
+                    [
+                        992.0,
+                        810.1
+                    ],
+                    [
+                        992.0,
+                        777.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.79751,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "Q10. Evaluation of the project and its results (200 to 400 words)",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "732f94e100b34cc5aa1a3f72c1511517",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        810.1
+                    ],
+                    [
+                        200.0,
+                        843.4
+                    ],
+                    [
+                        555.1,
+                        843.4
+                    ],
+                    [
+                        555.1,
+                        810.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.77379,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[0] Missing or incorrect",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "d045198993faa8f4ca19b8cf7a7ef523",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        194.4,
+                        841.0
+                    ],
+                    [
+                        194.4,
+                        875.4
+                    ],
+                    [
+                        519.2,
+                        875.4
+                    ],
+                    [
+                        519.2,
+                        841.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.74456,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[1] Briefly described",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "1dcc5c54e58a1f1137e3c31285cc1983",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        195.9,
+                        871.7
+                    ],
+                    [
+                        195.9,
+                        907.2
+                    ],
+                    [
+                        1277.2,
+                        907.2
+                    ],
+                    [
+                        1277.2,
+                        871.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.8072,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[2] Some conclusions without numerically evaluating the ML model and the results",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "d8de59c4399327ac45bf161c718418ae",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        182.5,
+                        905.9
+                    ],
+                    [
+                        182.5,
+                        939.2
+                    ],
+                    [
+                        1235.7,
+                        939.2
+                    ],
+                    [
+                        1235.7,
+                        905.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.78072,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[3] Results discussed with the performance of the model numerically evaluated",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "989d7ee443bd5e977b245e10ede3cb46",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        196.4,
+                        936.2
+                    ],
+                    [
+                        196.4,
+                        971.2
+                    ],
+                    [
+                        926.9,
+                        971.2
+                    ],
+                    [
+                        926.9,
+                        936.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.8158,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[4] Numerically evaluated and the measure is justified",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "f9e4a60fe1468e5177322c53bc1b7f7e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        206.8,
+                        968.5
+                    ],
+                    [
+                        206.8,
+                        1001.7
+                    ],
+                    [
+                        1259.4,
+                        1001.7
+                    ],
+                    [
+                        1259.4,
+                        968.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.82141,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "Detailed project evaluation (functionality, results, transferability, contributions)",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "49b5b98b0bf07a8c10fb016d25dc4cb1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        200.0,
+                        969.7
+                    ],
+                    [
+                        200.0,
+                        1003.1
+                    ],
+                    [
+                        246.2,
+                        1003.1
+                    ],
+                    [
+                        246.2,
+                        969.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "[5]",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "e09246296e73543576bbcee7812fa226",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        199.1,
+                        1032.7
+                    ],
+                    [
+                        199.1,
+                        1065.7
+                    ],
+                    [
+                        868.6,
+                        1065.7
+                    ],
+                    [
+                        868.6,
+                        1032.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.4789,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "Q11. Overall bonus points for ambition and originality",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a8f5fc9bc2575f9428b30c4e943c4533",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2339,
+                "layout_width": 1654,
+                "points": [
+                    [
+                        266.5,
+                        1067.4
+                    ],
+                    [
+                        266.5,
+                        1097.6
+                    ],
+                    [
+                        1031.2,
+                        1097.6
+                    ],
+                    [
+                        1031.2,
+                        1067.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.50773,
+            "file_directory": "./CM3005-Data-Science",
+            "filename": "CM3005-Data-Science-2024Oct-Midterm.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2025-01-02T21:41:17",
+            "page_number": 5,
+            "parent_id": "7ecca9df48ebe127985526b726febdfc"
+        },
+        "text": "10 points overall (5 points for ambition and 5 for originality)",
+        "type": "NarrativeText"
+    }
+]

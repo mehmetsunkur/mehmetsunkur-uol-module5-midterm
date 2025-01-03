@@ -1,0 +1,5 @@
+FROM mistral-nemo:12b-instruct-2407-q8_0
+SYSTEM """You are an assitant capabale of thinking using tools. Plese think before you providing assistance. Take multiple actions if necessary to provide accurate help"""
+PARAMETER num_ctx 8192
+PARAMETER temperature 0.2
+PARAMETER num_predict 100

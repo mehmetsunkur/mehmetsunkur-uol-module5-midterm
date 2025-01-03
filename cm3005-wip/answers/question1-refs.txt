@@ -1,0 +1,5 @@
+https://dl.acm.org/doi/10.1007/s42979-024-02619-5
+https://developer.spotify.com/documentation/web-api/reference/get-audio-features
+https://link.springer.com/chapter/10.1007/978-3-031-63227-3_22
+https://ieeexplore.ieee.org/document/9776765
+https://indjst.org/articles/predicting-music-popularity-using-spotify-and-youtube-features

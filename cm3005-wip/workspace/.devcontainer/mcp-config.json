@@ -1,0 +1,116 @@
+{
+  "mcpServers": {
+
+    "filesystem-local-uol": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "--mount",
+        "type=bind,src=/home/msunkur/dev/projects/uol/Module5/midterm/CM3005-Data-Science/workspace,dst=/workspace",
+        "mcp/filesystem",
+        "/workspace"
+      ],
+      "env": {
+        "DEBUG": "*"
+      }
+    },
+
+
+    "sequentialthinking": {
+      "command": "docker",
+      "args": [
+        "run",
+        "--rm",
+        "-i",
+        "mcp/sequentialthinking"
+      ]
+    },
+    "puppeteer": {
+      "command": "docker",
+      "args": ["run", "-i", "--rm", "--init", "-e", "DOCKER_CONTAINER=true", "mcp/puppeteer"]
+    },
+    "brave-search": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "-e",
+        "BRAVE_API_KEY",
+        "mcp/brave-search"
+      ],
+      "env": {
+        "BRAVE_API_KEY": "BSA6acA_VQpnAly0K93uqL4q1sHGLuc"
+      }
+    },
+    "fetch": {
+      "command": "docker",
+      "args": ["run", "-i", "--rm", "mcp/fetch"]
+    },
+    "time": {
+      "command": "docker",
+      "args": ["run", "-i", "--rm", "mcp/time"]
+    },
+    "memory": {
+      "command": "docker",
+      "args": ["run", "-i", "--rm", "mcp/memory"]
+    },
+    "mcp-server-docker": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/home/msunkur/dev/sdk/mcp/mcp-server-docker",
+        "run",
+        "mcp-server-docker"
+      ]
+    }
+  },
+  "mcpServersOld": {
+
+    "filesystem-local-uol": {
+      "command": "/home/cs/.local/share/mise/installs/node/22/bin/node",
+      "args": [
+        "/home/msunkur/dev/sdk/mcp/servers/src/filesystem/dist/index.js",
+        "/hoime/msunkur/dev/projects/uol/Module5/midterm/CM3005-Data-Science"
+      ],
+      "env": {
+        "DEBUG": "*"
+      }
+    },
+    "everything": {
+      "command": "/home/cs/.local/share/mise/installs/node/22/bin/npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-everything"
+      ]
+    },
+    "shell": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/home/msunkur/dev/sdk/mcp/mcp-shell-server",
+        "run",
+        "mcp-shell-server"
+      ],
+      "env": {
+        "ALLOW_COMMANDS": "ls,cat,pwd,grep,wc,touch,find,tail,head,echo,ps,kill,rm,chmod,cd"
+      }
+    },
+    "filesystem-docker-uol": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "--mount", "type=bind,src=/home/msunkur/dev/projects/uol/Module5/midterm/CM3005-Data-Science,dst=/projects/CM3005-Data-Science",
+        "mcp/filesystem",
+        "/projects"
+      ],
+      "env": {
+        "DEBUG": "*"
+      }
+    }
+  }
+}

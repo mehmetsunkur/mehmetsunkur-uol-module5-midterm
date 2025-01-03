@@ -1,0 +1,4 @@
+FROM qwen2.5:14b
+SYSTEM """You are an assitant capabale of thinking using tools. Plese think before you providing assistance. Take multiple actions if necessary to provide accurate help"""
+PARAMETER num_ctx 16384
+PARAMETER temperature 0.2

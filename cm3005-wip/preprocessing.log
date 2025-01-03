@@ -1,0 +1,222 @@
+2024-12-31 06:05:14,052 - INFO - Loading dataset...
+2024-12-31 06:05:14,349 - INFO - Handling missing values...
+2024-12-31 06:05:14,382 - INFO - Converting data types...
+2024-12-31 06:05:14,383 - INFO - Performing feature engineering...
+2024-12-31 06:05:14,385 - INFO - Normalizing numerical features...
+2024-12-31 06:05:14,392 - INFO - Processing categorical data...
+2024-12-31 06:05:14,396 - INFO - Performing data validation...
+2024-12-31 06:05:14,407 - WARNING - There are still missing values in the dataset:
+2024-12-31 06:05:14,408 - WARNING - Url_youtube         470
+Title               470
+Channel             470
+Description         876
+Stream              576
+Engagement_ratio      1
+dtype: int64
+2024-12-31 06:05:14,411 - INFO - Saving processed datasets...
+2024-12-31 06:05:15,154 - INFO - Preprocessing completed successfully!
+2024-12-31 06:05:15,154 - INFO -    Unnamed: 0    Artist                                        Url_spotify  \
+0           0  Gorillaz  https://open.spotify.com/artist/3AA28KZvwAUcZu...   
+1           1  Gorillaz  https://open.spotify.com/artist/3AA28KZvwAUcZu...   
+2           2  Gorillaz  https://open.spotify.com/artist/3AA28KZvwAUcZu...   
+3           3  Gorillaz  https://open.spotify.com/artist/3AA28KZvwAUcZu...   
+4           4  Gorillaz  https://open.spotify.com/artist/3AA28KZvwAUcZu...   
+
+                                           Track  \
+0                                 Feel Good Inc.   
+1                                Rhinestone Eyes   
+2  New Gold (feat. Tame Impala and Bootie Brown)   
+3                             On Melancholy Hill   
+4                                 Clint Eastwood   
+
+                                           Album Album_type  \
+0                                     Demon Days      album   
+1                                  Plastic Beach      album   
+2  New Gold (feat. Tame Impala and Bootie Brown)     single   
+3                                  Plastic Beach      album   
+4                                       Gorillaz      album   
+
+                                    Uri  Danceability  Energy   Key  ...  \
+0  spotify:track:0d28khcov6AiegSCpG5TuT         0.818   0.705   6.0  ...   
+1  spotify:track:1foMv2HQwfQ2vntFf9HFeG         0.676   0.703   8.0  ...   
+2  spotify:track:64dLd6rVqDLtkXFYrEUHIU         0.695   0.923   1.0  ...   
+3  spotify:track:0q6LuUqGLUiCPP1cbdwFs3         0.689   0.739   2.0  ...   
+4  spotify:track:7yMiX7n9SBvadzox8T5jzT         0.663   0.694  10.0  ...   
+
+         Views      Likes  Comments  \
+0  693555221.0  6220896.0  169907.0   
+1   72011645.0  1079128.0   31003.0   
+2    8435055.0   282142.0    7399.0   
+3  211754952.0  1788577.0   55229.0   
+4  618480958.0  6197318.0  155930.0   
+
+                                         Description  Licensed  \
+0  Official HD Video for Gorillaz' fantastic trac...      True   
+1  The official video for Gorillaz - Rhinestone E...      True   
+2  Gorillaz - New Gold ft. Tame Impala & Bootie B...      True   
+3  Follow Gorillaz online:\nhttp://gorillaz.com \...      True   
+4  The official music video for Gorillaz - Clint ...      True   
+
+   official_video        Stream  Duration_sec Engagement_ratio  \
+0            True  1.040235e+09       222.640         0.008970   
+1            True  3.100837e+08       200.173         0.014985   
+2            True  6.306347e+07       215.150         0.033449   
+3            True  4.346636e+08       233.867         0.008446   
+4            True  6.172597e+08       340.920         0.010020   
+
+  Popularity_score  
+0      349888058.5  
+1       36545386.5  
+2        4358598.5  
+3      106771764.5  
+4      312339138.0  
+
+[5 rows x 31 columns]
+2024-12-31 17:33:43,304 - INFO - Loading dataset...
+2024-12-31 17:33:43,627 - INFO - Handling missing values...
+2024-12-31 17:33:43,659 - INFO - Converting data types...
+2024-12-31 17:33:43,660 - INFO - Performing feature engineering...
+2024-12-31 17:33:43,661 - INFO - Normalizing numerical features...
+2024-12-31 17:33:43,666 - INFO - Processing categorical data...
+2024-12-31 17:33:43,673 - INFO - Performing data validation...
+2024-12-31 17:33:43,684 - WARNING - There are still missing values in the dataset:
+2024-12-31 17:33:43,685 - WARNING - Url_youtube         470
+Title               470
+Channel             470
+Description         876
+Stream              576
+Engagement_ratio      1
+dtype: int64
+2024-12-31 17:33:43,687 - INFO - Saving processed datasets...
+2024-12-31 17:33:44,679 - INFO - Preprocessing completed successfully!
+2024-12-31 17:33:44,685 - INFO -    Unnamed: 0    Artist                                        Url_spotify  \
+0           0  Gorillaz  https://open.spotify.com/artist/3AA28KZvwAUcZu...   
+1           1  Gorillaz  https://open.spotify.com/artist/3AA28KZvwAUcZu...   
+2           2  Gorillaz  https://open.spotify.com/artist/3AA28KZvwAUcZu...   
+3           3  Gorillaz  https://open.spotify.com/artist/3AA28KZvwAUcZu...   
+4           4  Gorillaz  https://open.spotify.com/artist/3AA28KZvwAUcZu...   
+
+                                           Track  \
+0                                 Feel Good Inc.   
+1                                Rhinestone Eyes   
+2  New Gold (feat. Tame Impala and Bootie Brown)   
+3                             On Melancholy Hill   
+4                                 Clint Eastwood   
+
+                                           Album Album_type  \
+0                                     Demon Days      album   
+1                                  Plastic Beach      album   
+2  New Gold (feat. Tame Impala and Bootie Brown)     single   
+3                                  Plastic Beach      album   
+4                                       Gorillaz      album   
+
+                                    Uri  Danceability  Energy   Key  ...  \
+0  spotify:track:0d28khcov6AiegSCpG5TuT         0.818   0.705   6.0  ...   
+1  spotify:track:1foMv2HQwfQ2vntFf9HFeG         0.676   0.703   8.0  ...   
+2  spotify:track:64dLd6rVqDLtkXFYrEUHIU         0.695   0.923   1.0  ...   
+3  spotify:track:0q6LuUqGLUiCPP1cbdwFs3         0.689   0.739   2.0  ...   
+4  spotify:track:7yMiX7n9SBvadzox8T5jzT         0.663   0.694  10.0  ...   
+
+         Views      Likes  Comments  \
+0  693555221.0  6220896.0  169907.0   
+1   72011645.0  1079128.0   31003.0   
+2    8435055.0   282142.0    7399.0   
+3  211754952.0  1788577.0   55229.0   
+4  618480958.0  6197318.0  155930.0   
+
+                                         Description  Licensed  \
+0  Official HD Video for Gorillaz' fantastic trac...      True   
+1  The official video for Gorillaz - Rhinestone E...      True   
+2  Gorillaz - New Gold ft. Tame Impala & Bootie B...      True   
+3  Follow Gorillaz online:\nhttp://gorillaz.com \...      True   
+4  The official music video for Gorillaz - Clint ...      True   
+
+   official_video        Stream  Duration_sec Engagement_ratio  \
+0            True  1.040235e+09       222.640         0.008970   
+1            True  3.100837e+08       200.173         0.014985   
+2            True  6.306347e+07       215.150         0.033449   
+3            True  4.346636e+08       233.867         0.008446   
+4            True  6.172597e+08       340.920         0.010020   
+
+  Popularity_score  
+0      349888058.5  
+1       36545386.5  
+2        4358598.5  
+3      106771764.5  
+4      312339138.0  
+
+[5 rows x 31 columns]
+2024-12-31 17:33:55,277 - INFO - Loading dataset...
+2024-12-31 17:33:55,605 - INFO - Handling missing values...
+2024-12-31 17:33:55,637 - INFO - Converting data types...
+2024-12-31 17:33:55,638 - INFO - Performing feature engineering...
+2024-12-31 17:33:55,639 - INFO - Normalizing numerical features...
+2024-12-31 17:33:55,645 - INFO - Processing categorical data...
+2024-12-31 17:33:55,651 - INFO - Performing data validation...
+2024-12-31 17:33:55,661 - WARNING - There are still missing values in the dataset:
+2024-12-31 17:33:55,662 - WARNING - Url_youtube         470
+Title               470
+Channel             470
+Description         876
+Stream              576
+Engagement_ratio      1
+dtype: int64
+2024-12-31 17:33:55,665 - INFO - Saving processed datasets...
+2024-12-31 17:33:56,608 - INFO - Preprocessing completed successfully!
+2024-12-31 17:33:56,613 - INFO -    Unnamed: 0    Artist                                        Url_spotify  \
+0           0  Gorillaz  https://open.spotify.com/artist/3AA28KZvwAUcZu...   
+1           1  Gorillaz  https://open.spotify.com/artist/3AA28KZvwAUcZu...   
+2           2  Gorillaz  https://open.spotify.com/artist/3AA28KZvwAUcZu...   
+3           3  Gorillaz  https://open.spotify.com/artist/3AA28KZvwAUcZu...   
+4           4  Gorillaz  https://open.spotify.com/artist/3AA28KZvwAUcZu...   
+
+                                           Track  \
+0                                 Feel Good Inc.   
+1                                Rhinestone Eyes   
+2  New Gold (feat. Tame Impala and Bootie Brown)   
+3                             On Melancholy Hill   
+4                                 Clint Eastwood   
+
+                                           Album Album_type  \
+0                                     Demon Days      album   
+1                                  Plastic Beach      album   
+2  New Gold (feat. Tame Impala and Bootie Brown)     single   
+3                                  Plastic Beach      album   
+4                                       Gorillaz      album   
+
+                                    Uri  Danceability  Energy   Key  ...  \
+0  spotify:track:0d28khcov6AiegSCpG5TuT         0.818   0.705   6.0  ...   
+1  spotify:track:1foMv2HQwfQ2vntFf9HFeG         0.676   0.703   8.0  ...   
+2  spotify:track:64dLd6rVqDLtkXFYrEUHIU         0.695   0.923   1.0  ...   
+3  spotify:track:0q6LuUqGLUiCPP1cbdwFs3         0.689   0.739   2.0  ...   
+4  spotify:track:7yMiX7n9SBvadzox8T5jzT         0.663   0.694  10.0  ...   
+
+         Views      Likes  Comments  \
+0  693555221.0  6220896.0  169907.0   
+1   72011645.0  1079128.0   31003.0   
+2    8435055.0   282142.0    7399.0   
+3  211754952.0  1788577.0   55229.0   
+4  618480958.0  6197318.0  155930.0   
+
+                                         Description  Licensed  \
+0  Official HD Video for Gorillaz' fantastic trac...      True   
+1  The official video for Gorillaz - Rhinestone E...      True   
+2  Gorillaz - New Gold ft. Tame Impala & Bootie B...      True   
+3  Follow Gorillaz online:\nhttp://gorillaz.com \...      True   
+4  The official music video for Gorillaz - Clint ...      True   
+
+   official_video        Stream  Duration_sec Engagement_ratio  \
+0            True  1.040235e+09       222.640         0.008970   
+1            True  3.100837e+08       200.173         0.014985   
+2            True  6.306347e+07       215.150         0.033449   
+3            True  4.346636e+08       233.867         0.008446   
+4            True  6.172597e+08       340.920         0.010020   
+
+  Popularity_score  
+0      349888058.5  
+1       36545386.5  
+2        4358598.5  
+3      106771764.5  
+4      312339138.0  
+
+[5 rows x 31 columns]
