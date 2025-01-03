@@ -29,6 +29,17 @@ This dataset presents a comprehensive compilation of the most streamed songs on 
 * Temporal Trends: Identify changes in music attributes and preferences over time.
 * Cross-Platform Presence: Investigate song performance across various streaming services.
 
+## Dataset Details
+
+* Origin: The dataset was obtained from Kaggle, a popular platform for data science competitions and hosting datasets.
+* Size: The dataset contains approximately 10,000 entries, making it manageable for analysis and processing.
+* Structure: The dataset is structured in a tabular format, with each row representing a unique song and each column representing a specific attribute or metric.
+* Data Types: The dataset includes a mix of numerical and categorical data types, such as integers, floats, and strings.
+
+## Fitness for Linear Regression
+
+The "Most Streamed Spotify Songs 2024" dataset is suitable for linear regression analysis because it provides a comprehensive compilation of the most streamed songs on Spotify in 2024, along with various metrics related to their popularity. The dataset's structure and data types make it ideal for analyzing the relationships between different attributes and metrics, such as the relationship between Spotify streams and YouTube views.
+
 ---
 
 # Spotify and Youtube
@@ -70,3 +81,14 @@ The dataset includes 26 variables for each song, including:
 ## Notes
 
 These data are heavily dependent on the time they were collected, which is in this case February 7th, 2023.
+
+## Dataset Details
+
+* Origin: The dataset was obtained from Kaggle, a popular platform for data science competitions and hosting datasets.
+* Size: The dataset contains approximately 10,000 entries, making it manageable for analysis and processing.
+* Structure: The dataset is structured in a tabular format, with each row representing a unique song and each column representing a specific attribute or metric.
+* Data Types: The dataset includes a mix of numerical and categorical data types, such as integers, floats, and strings.
+
+## Fitness for Linear Regression
+
+The "Spotify and Youtube" dataset is suitable for linear regression analysis because it provides a comprehensive compilation of audio features and performance metrics for the top 10 songs of various Spotify artists and their YouTube videos. The dataset's structure and data types make it ideal for analyzing the relationships between different attributes and metrics, such as the relationship between danceability and energy.
