@@ -1,0 +1,65 @@
+{
+  "mcpServers": {
+
+    "time": {
+      "command": "python",
+      "args": ["-m", "mcp_server_time"]
+    },
+
+    "filesystem": {
+      "command": "/root/.nvm/versions/node/v22.12.0/bin/npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/workspace/mehmetsunkur-uol-module5-midterm/cm3005"
+      ]
+    },
+    "brave-search": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-brave-search"
+      ],
+      "env": {
+        "BRAVE_API_KEY": "BSA6acA_VQpnAly0K93uqL4q1sHGLuc"
+      }
+    },
+    "fetch": {
+      "command": "python",
+      "args": ["-m", "mcp_server_fetch"]
+    },
+    "memory": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-memory"
+      ]
+    },
+    "puppeteer": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-puppeteer"]
+    },
+    "sequential-thinking": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sequential-thinking"
+      ]
+    },
+    "git": {
+      "command": "python",
+      "args": ["-m", "mcp_server_git", "--repository", "/workspace/mehmetsunkur-uol-module5-midterm"]
+    },
+    "sqlite": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/workspace/servers/src/sqlite",
+        "run",
+        "mcp-server-sqlite",
+        "--db-path",
+        "~/test.db"
+      ]
+    }
+  }
+}
