@@ -1,0 +1,26 @@
+I need you to produce my submissing for the given assigment. 
+The assigment is described in assigment.md
+Read decisions I made for this assigment in decisions.md
+Read two data-set descriptions data-sets.md
+two dataset csv files are 'data/raw/Spotify_Youtube.csv' and 'data/raw/Most Streamed Spotify Songs 2024.csv'
+Do not read these csv files. use python libraries instead to examine the csv files.
+I need your assistance to do Data preparation (acquisition/cleaning/sanitisation/normalisation) Pre-processing as below. Write python program in task3.py to automate this. use pandas and any other data science related python libraries for this task.
+
+Here are details you need to follow. 
+
+Convert/store the dataset locally and preprocess the data. This is usually equivalent to transforming a table from a database into First Normal Form (1NF). Describe the preprocessing steps and why they were needed. Describe the file type/format, for example CSV file. Process the dataset for missing data if needed. For this part use Pandas DataFrame.
+
+## Q3. Pre-processing
+
+- [1] Briefly described and no use of pandas
+- [0] Missing or incorrect
+- [2] Working code fragments with some pre-processing steps, dataset not in 1NF
+
+[3] All necessary pre-processing steps undertaken, dataset in 1NF, with fixes to missing values, cleaning data achieved
+
+- Q4. Statistical Analysis
+- [1] Briefly described
+- [0] Missing or incorrect
+- [2] Adequately described, some statistical information provided, the mean, median and standard deviation
+- [4] Analysis of findings e.g., which measure is more interesting and why?
+- [3] Dataset accurately summarized by providing the appropriate statistical data. That includes the above plus skewness and kurtosis

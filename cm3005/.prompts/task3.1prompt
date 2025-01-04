@@ -1,0 +1,29 @@
+I need you to produce my submissing for the given assigment. 
+The assigment is described in assigment.md
+Read decisions I made for this assigment in decisions.md
+Read two data-set descriptions data-sets.md
+two dataset csv files are 'data/raw/Spotify_Youtube.csv' and 'data/raw/Most Streamed Spotify Songs 2024.csv'
+Do not read these csv files. We will use python libraries instead to examine the csv files later on.
+
+Here is the task description. 
+
+Convert/store the dataset locally and preprocess the data. This is usually equivalent to transforming a table from a database into First Normal Form (1NF). Describe the preprocessing steps and why they were needed. Describe the file type/format, for example CSV file. Process the dataset for missing data if needed. For this part use Pandas DataFrame.
+
+## Q3. Pre-processing
+
+- [1] Briefly described and no use of pandas
+- [0] Missing or incorrect
+- [2] Working code fragments with some pre-processing steps, dataset not in 1NF
+
+[3] All necessary pre-processing steps undertaken, dataset in 1NF, with fixes to missing values, cleaning data achieved
+
+first we need examine datasets to prepocess for the further analysis for this analysis. 
+
+I want you to focus on 
+Handling duplicates across datasets (same songs appearing in both)
+Normalizing naming conventions (artist names, track names might be different)
+Converting data types (e.g., dates, durations)
+Specific columns to keep/drop for the analysis Please let me know your preferences for these preprocessing steps.
+
+
+Write python program in data-examine.py to automate this. use pandas and any other data science related python libraries for this task.
