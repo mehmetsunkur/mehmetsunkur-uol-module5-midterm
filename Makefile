@@ -6,6 +6,11 @@ set-git:
   git config --global user.email "mehmetsunkur@gmail.com"
   git config --global user.name "Mehmet Sunkur"
 
+cp ./id_rsa_mehmetsunkur_at_gmail_dot_com /root/.ssh/
+cp ./id_rsa_mehmetsunkur_at_gmail_dot_com.pub /root/.ssh/
+chmod 600 /root/.ssh/id*
+ls -lah /root/.ssh/
+
 mcp:
   pip install mcp-server-time
   pip install mcp-server-git
@@ -35,4 +40,3 @@ post-start-prompt:
   install nodejs 22 nvm
   install npx
 
-  
