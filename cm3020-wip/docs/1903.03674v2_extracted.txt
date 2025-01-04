@@ -1,0 +1,52 @@
+Researchers create AI systems that play games for several reasons, including:
+
+* **To explore the capabilities of artificial intelligence:** Games provide a challenging and controlled environment to test the limits of what AI can achieve.
+
+* **To develop new algorithms and techniques:** The process of creating game-playing AI often leads to breakthroughs in areas like reinforcement learning, search algorithms, and decision-making.
+* **To understand human cognition:** By studying how AI learns to play games, researchers can gain insights into the cognitive processes involved in human game-playing.
+
+SOURCES: docs/1903.03674v2.md
+
+Researchers create AI systems that play games for several reasons, including:
+
+* **To test and improve AI algorithms:** Games provide a challenging and controlled environment for AI to learn and develop its decision-making abilities.
+
+* **To explore new areas of AI research:** Game playing can lead to breakthroughs in areas such as reinforcement learning, planning, and search.
+* **To create entertaining and engaging experiences:** AI-powered game opponents can provide a more dynamic and challenging experience for human players.
+
+
+SOURCES: docs/1903.03674v2.md
+
+Researchers create AI systems that play games for several reasons:
+
+* **To test and improve AI algorithms:** Games provide a challenging and controlled environment for developing and evaluating AI agents. The complex decision-making required in games helps researchers understand how well their algorithms can learn, adapt, and strategize.
+
+* **To explore new learning paradigms:** Game playing has been instrumental in advancing machine learning techniques like reinforcement learning. By pitting AI agents against each other or human opponents, researchers can discover novel ways for machines to learn from experience and improve their performance over time.
+* **To develop AI systems with human-like capabilities:** Games often involve tasks that require intelligence, creativity, and strategic thinking – qualities traditionally associated with humans.
+
+By creating AI systems that can excel at games, researchers aim to gain insights into the nature of intelligence and potentially build AI agents capable of performing complex tasks in real-world scenarios.
+SOURCES: docs/1903.03674v2.md
+
+Researchers create AI systems that play games for several reasons:
+
+* **To test and improve AI algorithms:** Games provide a challenging and controlled environment to evaluate the performance of AI agents, pushing the boundaries of what's possible in terms of decision-making, strategy, and learning.
+
+* **To explore fundamental questions about intelligence:** By studying how AI agents learn to play games, researchers can gain insights into the nature of intelligence, learning, and problem-solving.
+
+* **To develop applications for real-world problems:** The techniques developed for game-playing AI often have broader applications in fields such as robotics, logistics, finance, and healthcare.
+
+
+SOURCES: docs/1903.03674v2.md
+
+Researchers create AI systems that play games for several reasons, including:
+
+* **Understanding intelligence:** Games provide a controlled environment to study how intelligent agents make decisions and learn strategies.
+
+* **Developing new algorithms:** Game playing often pushes the boundaries of AI research, leading to the development of novel algorithms and techniques that can be applied to other domains.
+* **Benchmarking progress:** Games offer standardized benchmarks to evaluate the performance of different AI systems and track progress in the field.
+* **Having fun:** Let's not forget that games can be enjoyable! Creating AI that can play games well can be a rewarding intellectual challenge.
+
+While the provided text focuses on a specific game-playing AI, it highlights the broader motivations behind this type of research.
+
+
+SOURCES: docs/1903.03674v2.md

@@ -1,0 +1,24 @@
+The text does not mention why to create AI systems that play games. 
+SOURCES:
+
+
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text explains why AI systems are created to play games, but it doesn't explicitly state the reason.
+
+It mentions that training AI agents to play games can be beneficial for several reasons:
+
+* **Data efficiency:** Games provide a structured and challenging environment where AI agents can learn complex decision-making processes with relatively small datasets.
+* **Generalizability:** Skills learned in games, such as planning, strategy, and adaptation, can often be transferred to other real-world tasks.
+* **Evaluation and benchmarking:** Games offer a clear metric for evaluating the performance of AI agents, allowing researchers to compare different algorithms and approaches.
+
+Therefore, while the text doesn't directly state "why" AI systems are created to play games, it implies that game playing serves as a valuable tool for developing and testing intelligent agents with broad applicability.
+SOURCES: uol-docs/1-s2.0-S092523121930493X-main.md
+
+not found
+
+SOURCES: 

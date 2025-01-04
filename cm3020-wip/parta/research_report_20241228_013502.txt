@@ -1,0 +1,101 @@
+Research Analysis Report
+=====================
+
+Total papers analyzed: 120
+
+Papers by Source:
+- arXiv: 50 papers
+- Semantic Scholar: 50 papers
+- DBLP: 20 papers
+
+Publication Trends by Year:
+- 1989: 2 papers
+- 1992: 1 papers
+- 2003: 2 papers
+- 2005: 1 papers
+- 2008: 2 papers
+- 2009: 1 papers
+- 2011: 2 papers
+- 2012: 3 papers
+- 2013: 2 papers
+- 2014: 2 papers
+- 2015: 4 papers
+- 2016: 5 papers
+- 2017: 3 papers
+- 2018: 3 papers
+- 2019: 7 papers
+- 2020: 9 papers
+- 2021: 6 papers
+- 2022: 6 papers
+- 2023: 8 papers
+
+Keyword Frequency:
+- 'artificial intelligence': found in 60 papers
+- 'game playing': found in 31 papers
+- 'deep learning': found in 6 papers
+- 'reinforcement learning': found in 5 papers
+- 'game theory': found in 4 papers
+- 'neural network': found in 2 papers
+
+Most Frequent Authors:
+- 
+Julian Togelius
+: 7 papers
+- 
+Matthew Stephenson
+: 7 papers
+- 
+Éric Piette
+: 5 papers
+- 
+Dennis J. N. J. Soemers
+: 5 papers
+- 
+Simon M. Lucas
+: 4 papers
+- 
+Cameron Browne
+: 4 papers
+- J. Togelius: 4 papers
+- S. Lucas: 4 papers
+- 
+Mark O. Riedl
+: 3 papers
+- 
+Diego Perez-Liebana
+: 3 papers
+
+Key Quotes:
+- "Keywords: 
+ 
+artificial intelligence: game playing systems; 
+computational intelligence"
+  Source: Semantic Scholar - Artificial Intelligence: Game Playing Systems
+
+- "An important feature of this game is that a large portion of the conversations are false information, and the behavior of artificial intelligence (AI) in such a situation has not been widely investigated."
+  Source: Semantic Scholar - Playing the Werewolf game with artificial intelligence for language understanding
+
+- "As a result, we have been interacting with artificial intelligence in the competition and our environment without realizing it."
+  Source: Semantic Scholar - Application of Artificial Intelligence to the Development of Playing Ability in the Valorant Game
+
+- "Artificial intelligence may always influence online games, whether to replace opponents or choose the game's plot."
+  Source: Semantic Scholar - Application of Artificial Intelligence to the Development of Playing Ability in the Valorant Game
+
+- "General game playing artificial intelligence has recently seen important advances due to the various techniques known as 'deep learning'."
+  Source: Semantic Scholar - How to advance general game playing artificial intelligence by player modelling
+
+- "On the other hand, deep learning systems which do beat human champions, such as in Go, do not generalise well."
+  Source: Semantic Scholar - How to advance general game playing artificial intelligence by player modelling
+
+- "The power of deep learning simultaneously exposes its weakness."
+  Source: Semantic Scholar - How to advance general game playing artificial intelligence by player modelling
+
+- "Given that deep learning is mostly clever reconfigurations of well-established methods, moving beyond the state of art calls for forward-thinking visionary solutions, not just more of the same."
+  Source: Semantic Scholar - How to advance general game playing artificial intelligence by player modelling
+
+- "I present the argument that general game playing artificial intelligence will require a generalised player model."
+  Source: Semantic Scholar - How to advance general game playing artificial intelligence by player modelling
+
+- "I relate this argument to the performance of state of art general game playing agents."
+  Source: Semantic Scholar - How to advance general game playing artificial intelligence by player modelling
+

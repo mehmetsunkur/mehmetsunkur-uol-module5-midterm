@@ -1,0 +1,308 @@
+not found 
+SOURCES:
+
+The text provided does not contain information about why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/978-3-030-01424-7.md
+
+The text does not explicitly state why to create AI systems that play games. However, it does mention that creating AI systems that can play games is a competitive approach to reinforcement learning.
+
+It also lists several papers and research on the topic of using AI to play games, suggesting that this is a field of active research and development.
+SOURCES: uol-docs/978-3-030-01424-7.md
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES:
+
+The text provided does not contain information about why to create AI systems that play games. 
+
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+SOURCES: uol-docs/978-3-030-01424-7.md
+
+not found
+
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES:
+
+The text describes an implementation of Neural Turing Machines (NTMs) but does not mention why AI systems are created to play games.
+
+SOURCES: uol-docs/978-3-030-01424-7.md
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not contain information about why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text does not mention why to create AI systems that play games. 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The provided text describes a novel neural network training algorithm called UBAL, which is inspired by the GeneRec model and aims to be more biologically plausible than traditional backpropagation. 
+
+However, it does not contain information about why AI systems are created to play games. 
+
+
+SOURCES: The text excerpt itself
+
+The text does not explicitly state why to create AI systems that play games. However, it does mention that creating AI systems that can learn from data and make decisions based on that learning is a growing field of research.
+
+It's possible that the authors are implying that creating AI systems that play games is a good way to test and develop these learning algorithms. Games often involve complex decision-making, strategy, and adaptation, which are all skills that AI researchers are trying to teach machines.
+SOURCES: uol-docs/978-3-030-01424-7.md
+
+not found 
+
+
+
+
+The text does not contain information about why create AI systems that play games. 
+
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+SOURCES: uol-docs/978-3-030-01424-7.md
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+not found 
+SOURCES:
+
+The text does not mention why AI systems are created to play games.
+
+SOURCES: uol-docs/978-3-030-01424-7.md
+
+The provided text does not contain information about why to create AI systems that play games.
+
+SOURCES: 
+
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not explicitly state why to create AI systems that play games. However, it does mention the use of deep learning for analyzing game data and predicting player hand combinations in the context of the card game "Fight the Landlords."
+
+This suggests that creating AI systems that play games can be useful for:
+
+* **Understanding complex decision-making processes:** Games often involve strategic thinking, planning, and adaptation to changing circumstances. AI systems trained on game data can learn these patterns and potentially apply them to other real-world problems.
+* **Developing new algorithms and techniques:** The challenge of creating AI that can play games at a high level pushes the boundaries of artificial intelligence research and leads to the development of innovative algorithms and techniques.
+* **Entertainment and education:** Game-playing AI can provide challenging opponents for human players, enhancing entertainment value. It can also be used as a tool for education, teaching concepts related to game theory, strategy, and programming.
+
+
+Let me know if you have any other questions.
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES:
+
+The provided text does not contain information about why to create AI systems that play games. 
+
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES: uol-docs/978-3-030-01424-7.md
+
+The text does not mention why AI systems are created to play games.
+
+SOURCES: 
+uol-docs/978-3-030-01424-7.md
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES:
+
+The text describes a method for integrating articulatory features into end-to-end speech recognition systems. It explains the motivation behind using articulatory features, details the model architectures used (fine-tuning networks and progressive networks), and presents experimental results on the Wall Street Journal corpus.
+
+While the paper doesn't explicitly state why creating AI systems that play games is important, it highlights the benefits of incorporating domain knowledge into end-to-end learning for speech recognition tasks. This suggests a broader application of integrating domain expertise into AI systems for improved performance in various domains.
+SOURCES: uol-docs/978-3-030-01424-7.md
+
+The text does not contain information about why to create AI systems that play games.
+
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text provided does not mention why to create AI systems that play games. 
+
+SOURCES: uol-docs/978-3-030-01424-7.md
+
+The text does not mention why to create AI systems that play games. 
+SOURCES:
+
+The text describes a method for improving video prediction using deep learning by incorporating location dependency into the model. 
+
+Here are some key takeaways:
+
+* **Problem:** Traditional convolutional neural networks (CNNs) used in video prediction struggle to capture location-dependent patterns, which are crucial for understanding object movement and scene dynamics.
+* **Solution:** The authors propose three methods to introduce location bias into CNNs:
+    * Encoding location features as separate input channels.
+    * Adding learnable location-dependent biases to convolutional layers.
+    * Combining learnable location-dependent biases with predefined location encodings.
+
+* **Evaluation:** These methods are tested on two architectures, Video Ladder Network (VLN) and Convolutional Predictive Gating Pyramid (ConvPGP), demonstrating significant performance improvements over spatially invariant models.
+
+**In essence, the paper highlights the importance of considering spatial context for accurate video prediction and proposes effective techniques to integrate location dependency into deep learning models.**
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text describes a novel approach to detect breathing effort in patients using electroencephalography (EEG). It leverages recent neuroscience findings on respiratory-related evoked potential and information geometry techniques to differentiate among different respiratory loads.
+
+While the text doesn't explicitly state why creating AI systems that play games is beneficial, it implies that understanding brain activity related to breathing can lead to better mechanical ventilation for patients in intensive care units. This could improve patient comfort and outcomes by reducing instances of patient-ventilator asynchrony. 
+
+
+The text does not contain information about why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text does not mention why to create AI systems that play games. 
+SOURCES:
+
+The text does not mention why AI systems are created to play games. 
+
+SOURCES: uol-docs/978-3-030-01424-7.md
+
+The text provided does not contain information about why to create AI systems that play games. 
+SOURCES: uol-docs/978-3-030-01424-7.md
+
+not found 
+SOURCES:
+
+The text provided discusses using neural networks to model brain activity but does not mention why one would create AI systems that play games. 
+
+SOURCES: uol-docs/978-3-030-01424-7.md
+
+The text does not contain information about why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text does not contain information about why to create AI systems that play games. 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES:  
+
+
+The text does not mention why to create AI systems that play games. 
+
+
+SOURCES:
+
+The text does not mention Michael Jackson.
+
+SOURCES: 
+
+
+The text provided does not contain information about why to create AI systems that play games. 
+
+
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/978-3-030-01424-7.md
+
+The provided text does not contain information about why to create AI systems that play games. 
+
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention Michael Jackson. 
+
+
+SOURCES:
+uol-docs/978-3-030-01424-7.md
+
+not found
+SOURCES: 
+

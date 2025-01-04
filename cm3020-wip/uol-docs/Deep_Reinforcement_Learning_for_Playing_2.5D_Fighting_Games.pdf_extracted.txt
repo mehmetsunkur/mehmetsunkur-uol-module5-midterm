@@ -1,0 +1,20 @@
+AI systems are created to play games for several reasons:
+
+* **Research:** Game playing provides a controlled environment to test and develop new AI algorithms and techniques. The complexity of games, with their rules, strategies, and decision-making challenges, offers a valuable platform for advancing AI research.
+
+* **Benchmarking:** Games serve as benchmarks to evaluate the performance and capabilities of different AI systems. By comparing how well AI agents perform in games against each other or human players, researchers can assess progress in the field.
+* **Entertainment:** AI-powered game opponents can provide challenging and engaging experiences for human players. They can adapt to player strategies, learn from past interactions, and offer a more dynamic and unpredictable gaming experience.
+
+* **Education:** Game playing can be used as an educational tool to teach concepts related to AI, programming, and problem-solving. By building and experimenting with game-playing AI agents, students can gain hands-on experience in these areas.
+
+
+The text discusses using AI to play games for a few reasons:
+
+* **Testing stage:** AI agents are trained and tested in game environments to evaluate their performance and learning capabilities. 
+* **Visual ambiguity:** Games like fighting games often have complex visuals, making it challenging for AI to interpret the situation. Training AI to play these games helps address this issue.
+* **Action sequences:** Games require understanding and executing sequences of actions. AI can learn optimal action sequences through reinforcement learning.
+
+The text specifically mentions using a 2.5D fighting game (Little Fighter 2) as a testbed for their deep reinforcement learning algorithm.
+
+
+SOURCES: uol-docs/Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf.md

@@ -1,0 +1,4244 @@
+[
+    {
+        "element_id": "e52419a568f17512de8f198922a2b3ec",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        250.1,
+                        244.1
+                    ],
+                    [
+                        250.1,
+                        272.9
+                    ],
+                    [
+                        1453.8,
+                        272.9
+                    ],
+                    [
+                        1453.8,
+                        244.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.56863,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1
+        },
+        "text": "DEEP REINFORCEMENT LEARNING FOR PLAYING 2.5D FIGHTING GAMES",
+        "type": "Title"
+    },
+    {
+        "element_id": "ec10dcda1d4791ecf8296ceefab93d15",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        273.2,
+                        307.0
+                    ],
+                    [
+                        273.2,
+                        339.8
+                    ],
+                    [
+                        1425.9,
+                        339.8
+                    ],
+                    [
+                        1425.9,
+                        307.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.61995,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1,
+            "parent_id": "e52419a568f17512de8f198922a2b3ec"
+        },
+        "text": "Yu-Jhe Li*\u201c', Hsin-Yu Chang\u201d, Yu-Jing Lin\u2019, Po-Wei Wu?, and Yu-Chiang Frank Wang!",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4cc6024f311a14e8ea0969d1a4bb5469",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        239.8,
+                        361.3
+                    ],
+                    [
+                        239.8,
+                        427.0
+                    ],
+                    [
+                        1454.4,
+                        427.0
+                    ],
+                    [
+                        1454.4,
+                        361.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.75689,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1,
+            "parent_id": "e52419a568f17512de8f198922a2b3ec"
+        },
+        "text": "! Graduate Institute of Communication Engineering, National Taiwan University > Department of Computer Science & Information Engineering, National Taiwan University",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3e94c006fd2fb5bba634072f576889a5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        413.0,
+                        483.5
+                    ],
+                    [
+                        413.0,
+                        508.3
+                    ],
+                    [
+                        565.0,
+                        508.3
+                    ],
+                    [
+                        565.0,
+                        483.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.86278,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1
+        },
+        "text": "ABSTRACT",
+        "type": "Title"
+    },
+    {
+        "element_id": "46d51f29b2029841e7d90e3d9e1f6d50",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        152.6,
+                        524.2
+                    ],
+                    [
+                        152.6,
+                        1013.8
+                    ],
+                    [
+                        831.4,
+                        1013.8
+                    ],
+                    [
+                        831.4,
+                        524.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95148,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1,
+            "parent_id": "3e94c006fd2fb5bba634072f576889a5"
+        },
+        "text": "Deep reinforcement learning has shown its success in game playing. However, 2.5D fighting games would be a challeng- ing task to handle due to ambiguity in visual appearances like height or depth of the characters. Moreover, actions in such games typically involve particular sequential action orders, which also makes the network design very difficult. Based on the network of Asynchronous Advantage Actor-Critic (A3C), we create an OpenAI-gym-like gaming environment with the game of Little Fighter 2 (LF2), and present a novel A3C+ network for learning RL agents. The introduced model in- cludes a Recurrent Info network, which utilizes game-related info features with recurrent layers to observe combo skills for fighting. In the experiments, we consider LF2 in different settings, which successfully demonstrates the use of our pro- posed model for learning 2.5D fighting games.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c866e2050a8240167c4ed538bbab03b1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        930.4,
+                        501.1
+                    ],
+                    [
+                        930.4,
+                        835.5
+                    ],
+                    [
+                        1472.6,
+                        835.5
+                    ],
+                    [
+                        1472.6,
+                        501.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92634,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "image_path": "/home/msunkur/dev/projects/uol/Module5/midterm/CM3020_Artificial_Intelligence/parta/docs/tmp/tmp_ingest/output/figure-1-1.jpg",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1
+        },
+        "text": "",
+        "type": "Image"
+    },
+    {
+        "element_id": "5994dfbb0c6c56f1dffd3b66d5c4187d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        943.3,
+                        675.3
+                    ],
+                    [
+                        943.3,
+                        841.7
+                    ],
+                    [
+                        1168.2,
+                        841.7
+                    ],
+                    [
+                        1168.2,
+                        675.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "image_path": "/home/msunkur/dev/projects/uol/Module5/midterm/CM3020_Artificial_Intelligence/parta/docs/tmp/tmp_ingest/output/figure-1-2.jpg",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1
+        },
+        "text": "",
+        "type": "Image"
+    },
+    {
+        "element_id": "2bc31438eedf8c32c642869239b5949f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        877.1,
+                        864.0
+                    ],
+                    [
+                        877.1,
+                        1019.4
+                    ],
+                    [
+                        1555.1,
+                        1019.4
+                    ],
+                    [
+                        1555.1,
+                        864.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93945,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1
+        },
+        "text": "Fig. 1: With orthographic projection, objects in varying dis- tances in 2.5D games would exhibit the same size, which makes the learning of such games very challenging. Note that the left character in the upper image is jumping at a closer distance, while that in the lower one is at a farther distance.",
+        "type": "FigureCaption"
+    },
+    {
+        "element_id": "2fc02f83fae78d82215cc48a82b44eb4",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        189.5,
+                        1036.0
+                    ],
+                    [
+                        189.5,
+                        1059.8
+                    ],
+                    [
+                        827.7,
+                        1059.8
+                    ],
+                    [
+                        827.7,
+                        1036.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.85074,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1
+        },
+        "text": "Index Terms\u2014 Deep reinforcement learning, 2.5D, game",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ab838315e01a7e7d5fb0875b0d5f59ea",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        357.1,
+                        1112.2
+                    ],
+                    [
+                        357.1,
+                        1133.8
+                    ],
+                    [
+                        622.8,
+                        1133.8
+                    ],
+                    [
+                        622.8,
+                        1112.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.87808,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1
+        },
+        "text": "1. INTRODUCTION",
+        "type": "Title"
+    },
+    {
+        "element_id": "c8f91ab6df9b05edcea8d2efa2c9fd98",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        150.5,
+                        1171.9
+                    ],
+                    [
+                        150.5,
+                        1462.5
+                    ],
+                    [
+                        832.9,
+                        1462.5
+                    ],
+                    [
+                        832.9,
+                        1171.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95769,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1,
+            "parent_id": "ab838315e01a7e7d5fb0875b0d5f59ea"
+        },
+        "text": "Deep reinforcement learning (RL) has been widely utilized in recent topics and applications in computer vision, robotics, and machine learning. One of the successful examples is the Atari 2600 games. More specifically, Schaul et al. [1] and Nair et al. [2] advance Deep Q Network (DQN) for learn- ing Atari games. Recently, Schulman et al. [3] and Gu et al. [4] advance policy gradient to improve the training efficacy. Some other works [5, 6, 7, 8] have also made great success in fine-tuning models for deep reinforcement learning.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7520a81046dc1b2a986a16ab4a4ee69d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        151.5,
+                        1471.7
+                    ],
+                    [
+                        151.5,
+                        1960.8
+                    ],
+                    [
+                        831.2,
+                        1960.8
+                    ],
+                    [
+                        831.2,
+                        1471.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95082,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1,
+            "parent_id": "ab838315e01a7e7d5fb0875b0d5f59ea"
+        },
+        "text": "With impressive progress on the learning of Atari games, games in more complex forms are further explored by the re- searchers. For example, Wu and Tian [9] apply different deep RL models to learn first-person shooting games, and Tessler et al. [10] utilize transfer learning for lifelong learning problems in Minecraft. Also, Silver et at. [11] use the deep neural net- work to learn GO and defeat the world-class players. Leibo et al. [12] further investigate the behaviors of the learned agents, and apply DQN for train multi-agent games. Some non-2D works contain a trial of 3D first player shooting (FPS) game Doom [13]. Lample et al. [14] designed their new model to successfully train the agent in 3D games. Besides, Vinyals et al. [15] also extended their work on playing the non-2D strategy game: StartCraft 2, and their improved method in training 3D game is also impressive.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "324befca4ed734389ece169071ce060f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        877.1,
+                        1090.3
+                    ],
+                    [
+                        877.1,
+                        1649.9
+                    ],
+                    [
+                        1557.6,
+                        1649.9
+                    ],
+                    [
+                        1557.6,
+                        1090.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95076,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1,
+            "parent_id": "ab838315e01a7e7d5fb0875b0d5f59ea"
+        },
+        "text": "Nevertheless, existing deep RL models are typically de- signed for handling games in 2D or limitedly in 3D. Exten- sion of such learning models for games beyond 2D would not be trivial. In this paper, we focus on learning 2.5D fighting games, in which characters are manipulated in 3D mode while they are displayed in 2D. We note that, in most 2.5D games, 3D objects in a scene are orthographically projected to the 2D screen. Thus, the size of the object in a farther distance would still be similar to that of a closer one. Fig. 1 shows example frames from a 2.5D fighting game: Little Fighter 2 (LF2) [16]. We see that, the ambiguity between distance and height brings difficulties in training agents. Thus, utilizing the locations of the characters and memorizing their tempo- ral states become vital for RL training. Moreover, characters in LF2 are with different combinations of skills, which make the learning even more challenging. As a result, direct uses of existing RL models would not be applicable.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "967302e6681bcfef1da340a8922fc5e4",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        877.3,
+                        1666.9
+                    ],
+                    [
+                        877.3,
+                        2021.5
+                    ],
+                    [
+                        1559.5,
+                        2021.5
+                    ],
+                    [
+                        1559.5,
+                        1666.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95517,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1,
+            "parent_id": "ab838315e01a7e7d5fb0875b0d5f59ea"
+        },
+        "text": "In this paper, we present a novel RL architecture based on the Asynchronous Advantage Actor-Critic (A3C) net- work [17], and focus on learning the 2.5D fighting game of LF2. In addition to input screen frames, our proposed network takes a variety of information as input features. Together with the long short-term memory (LSTM) compo- nents, this allows us to exploit information across and beyond input screen frames, while the aforementioned ambiguity and challenges can be properly addressed. We refer to as proposed network as A3C+, and our main contributions are summarized as follows:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2e356926416a351368249d1845b3b447",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        181.3,
+                        1986.9
+                    ],
+                    [
+                        181.3,
+                        2006.6
+                    ],
+                    [
+                        454.6,
+                        2006.6
+                    ],
+                    [
+                        454.6,
+                        1986.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.54116,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1
+        },
+        "text": "* Indicate equal contribution.",
+        "type": "Footer"
+    },
+    {
+        "element_id": "811edbf83804d5f5c843f5b9ce626b98",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        141.9,
+                        2075.6
+                    ],
+                    [
+                        141.9,
+                        2104.9
+                    ],
+                    [
+                        710.3,
+                        2104.9
+                    ],
+                    [
+                        710.3,
+                        2075.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.71216,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1
+        },
+        "text": "978-1-4799-7061-2/18/$31.00 \u00a92018 IEEE",
+        "type": "Title"
+    },
+    {
+        "element_id": "c29773537ff04baaa6a369b4e10966e0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        822.2,
+                        2075.6
+                    ],
+                    [
+                        822.2,
+                        2103.4
+                    ],
+                    [
+                        877.8,
+                        2103.4
+                    ],
+                    [
+                        877.8,
+                        2075.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1,
+            "parent_id": "811edbf83804d5f5c843f5b9ce626b98"
+        },
+        "text": "3778",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "0011c01d4d5052f17af47a8db8632f6d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1433.3,
+                        2075.6
+                    ],
+                    [
+                        1433.3,
+                        2104.1
+                    ],
+                    [
+                        1552.3,
+                        2104.1
+                    ],
+                    [
+                        1552.3,
+                        2075.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83307,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1
+        },
+        "text": "ICIP 2018",
+        "type": "Title"
+    },
+    {
+        "element_id": "81c70a73afb3f7d9dcba16408ff86c69",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        144.8,
+                        2122.0
+                    ],
+                    [
+                        144.8,
+                        2143.2
+                    ],
+                    [
+                        1555.2,
+                        2143.2
+                    ],
+                    [
+                        1555.2,
+                        2122.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.80547,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 1,
+            "parent_id": "0011c01d4d5052f17af47a8db8632f6d"
+        },
+        "text": "Authorized licensed use limited to: University of London: Online Library. Downloaded on December 28,2024 at 23:14:36 UTC from IEEE Xplore. Restrictions apply.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ba36ff176adeb6e86bde9374a0001a90",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        158.4,
+                        196.3
+                    ],
+                    [
+                        158.4,
+                        420.1
+                    ],
+                    [
+                        820.1,
+                        420.1
+                    ],
+                    [
+                        820.1,
+                        196.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.79111,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "image_path": "/home/msunkur/dev/projects/uol/Module5/midterm/CM3020_Artificial_Intelligence/parta/docs/tmp/tmp_ingest/output/figure-2-3.jpg",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2
+        },
+        "text": "stacked Game Environment grascaled Agent observation Game screen Game Deep RL Server Wrapper Algorithm = > (Modified info (Python and Di info Net: AC jet: A3C* Project F) | Keypoara | Web Drivers) action event 7)",
+        "type": "Image"
+    },
+    {
+        "element_id": "a80990cadc93a5e3742f5b6478882823",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        152.1,
+                        433.2
+                    ],
+                    [
+                        152.1,
+                        559.4
+                    ],
+                    [
+                        834.2,
+                        559.4
+                    ],
+                    [
+                        834.2,
+                        433.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.87253,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2
+        },
+        "text": "Fig. 2: Our framework describing the game environment and the agent. The agent interacts with the game server through the game wrapper, which makes allows the agents to take ac- tions and obtain rewards from the environment.",
+        "type": "FigureCaption"
+    },
+    {
+        "element_id": "3ac0a715445baf9d9fe23ce4c03b220f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        879.2,
+                        206.6
+                    ],
+                    [
+                        879.2,
+                        299.3
+                    ],
+                    [
+                        1557.3,
+                        299.3
+                    ],
+                    [
+                        1557.3,
+                        206.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93534,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2
+        },
+        "text": "combinations are defined as [defend + up/right/down/eft + at- tack/jump), while different kinds of combo skills are available for different characters.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "aaaaaf05379a0ce9565c9d0c139c4c46",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        876.7,
+                        309.2
+                    ],
+                    [
+                        876.7,
+                        532.7
+                    ],
+                    [
+                        1557.7,
+                        532.7
+                    ],
+                    [
+                        1557.7,
+                        309.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9516,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2
+        },
+        "text": "In 2.5D fighting games, the goal is to defeat the adver- sary character in terms of the remaining health points (HP) of the two characters. We define the reward as such differ- ences. Thus, a positive reward is given by any damage to the opponent character, while any injury to our agent results in a negative reward. Thus, our agent would learn through the training process by taking proper actions to beat the opponent.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3803cfaf026094631ee772ce5004ac42",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1026.3,
+                        574.0
+                    ],
+                    [
+                        1026.3,
+                        596.2
+                    ],
+                    [
+                        1398.0,
+                        596.2
+                    ],
+                    [
+                        1398.0,
+                        574.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.85722,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2
+        },
+        "text": "3. OUR PROPOSED MODEL",
+        "type": "Title"
+    },
+    {
+        "element_id": "8d1cfef0c672b4b83e1fe09c04440da7",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        187.1,
+                        607.6
+                    ],
+                    [
+                        187.1,
+                        703.2
+                    ],
+                    [
+                        839.8,
+                        703.2
+                    ],
+                    [
+                        839.8,
+                        607.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92723,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2,
+            "parent_id": "3803cfaf026094631ee772ce5004ac42"
+        },
+        "text": "e We build an OpenAl-gym-like 2.5D game environment in which we successfully wrap the game server for agent learning and interaction.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "0850ec90dd9c21b2a8b0aecfc90fa620",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        874.5,
+                        635.6
+                    ],
+                    [
+                        874.5,
+                        692.1
+                    ],
+                    [
+                        1555.9,
+                        692.1
+                    ],
+                    [
+                        1555.9,
+                        635.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.86283,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2
+        },
+        "text": "3.1. Brief Review of Asynchronous Advantage Actor- Critic (A3C)",
+        "type": "Title"
+    },
+    {
+        "element_id": "e6f2ac630528025e0ea844673cadd197",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        190.8,
+                        723.3
+                    ],
+                    [
+                        190.8,
+                        816.5
+                    ],
+                    [
+                        841.1,
+                        816.5
+                    ],
+                    [
+                        841.1,
+                        723.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92628,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2,
+            "parent_id": "0850ec90dd9c21b2a8b0aecfc90fa620"
+        },
+        "text": "e Based on A3C, we propose an A3C+ which takes not only screen frames but also game-related features in a recurrent learning architecture.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "a8ee953fa1b3c6a95280fb8ec26ba7f1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        188.1,
+                        838.6
+                    ],
+                    [
+                        188.1,
+                        929.9
+                    ],
+                    [
+                        836.4,
+                        929.9
+                    ],
+                    [
+                        836.4,
+                        838.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92941,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2,
+            "parent_id": "0850ec90dd9c21b2a8b0aecfc90fa620"
+        },
+        "text": "e We show that our proposed architecture favors 2.5D games, supported by quantitative and qualitative evalu- ation results.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "eee194fba2bbf64e6d81728b6ef9f5f1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        185.1,
+                        995.6
+                    ],
+                    [
+                        185.1,
+                        1056.2
+                    ],
+                    [
+                        797.3,
+                        1056.2
+                    ],
+                    [
+                        797.3,
+                        995.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.85872,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2
+        },
+        "text": "2. ENVIRONMENT SET-UP FOR 2.5D FIGHTING GAME: LITTLE FIGHTER 2 (LF2)",
+        "type": "Title"
+    },
+    {
+        "element_id": "00e860c3c5d4971001151030643245ba",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        150.8,
+                        1091.0
+                    ],
+                    [
+                        150.8,
+                        1351.4
+                    ],
+                    [
+                        836.4,
+                        1351.4
+                    ],
+                    [
+                        836.4,
+                        1091.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95705,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2,
+            "parent_id": "eee194fba2bbf64e6d81728b6ef9f5f1"
+        },
+        "text": "A major contribution of our work is the environment set-up for the freeware PC 2.5D fighting game of LF2 [16]. As de- picted in Fig. 2, this process consists of three parts: game server, wrapper, and the agent. We apply the open-source Project F [18], which is a web-based implementation of LF2, as our game server. Next, we wrap this game into an OpenAl- gym-like environment [19] env with Python and web drivers (PhantomJS). The set-up details can be found at [20].",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "52036765c76a2aeaed772467dddd0718",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        878.1,
+                        720.1
+                    ],
+                    [
+                        878.1,
+                        1445.8
+                    ],
+                    [
+                        1560.2,
+                        1445.8
+                    ],
+                    [
+                        1560.2,
+                        720.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94329,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2,
+            "parent_id": "eee194fba2bbf64e6d81728b6ef9f5f1"
+        },
+        "text": "Since our proposed deep RL architecture is based on A3C [17], we now briefly review this state-of-the-art RL model for the sake of completeness. For deep RL, the agent is learned via a deep neural network with parameter 4, which defines a policy 7g and an estimate of the value function Vg. The agent re- ceives observation s, at each time step t, selects an action a; with probability 74(a;|s;), and then receives a reward r; from the game environment. The goal of the RL agent is to maxi- mize the return Ry = )op2 Y*ri4n41, where y is a discount factor. The parameters of the policy and the value are learned using Asynchronous Advantage Actor-Critic (A3C) described by Mnih et al. [17]. A3C is a policy gradient method with an approximate gradient ascent on E[R;]. The update can be seen as Yy Logg (ax|s1; 0) A(a,, $13), in which A(a,, s\u0131; 0) is an estimate of advantage function given by R, \u2014 V(s:; 0), where V(s,; 0) is a value function estimate of the expected return E[R;]. Based on the recent models of (17, 22], an ad- ditional entropy regularization is applied, with the complete version of the objective function as 7g log7 (az|51; 9) (Ri \u2014 V(s1;9)) + 8 Vo Tolsi; 0 Ylograls\u0131; 0). We note that, the hyperparameter 8 controls the strength of the entropy regularization term.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "797152373bbb734b239e908c18e7c684",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        148.9,
+                        1401.7
+                    ],
+                    [
+                        148.9,
+                        1426.9
+                    ],
+                    [
+                        453.3,
+                        1426.9
+                    ],
+                    [
+                        453.3,
+                        1401.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84627,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2
+        },
+        "text": "2.1. Observations for RL",
+        "type": "Title"
+    },
+    {
+        "element_id": "a09ee741619b0b12d3d96b169d63b283",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        150.1,
+                        1451.5
+                    ],
+                    [
+                        150.1,
+                        1713.1
+                    ],
+                    [
+                        833.5,
+                        1713.1
+                    ],
+                    [
+                        833.5,
+                        1451.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95584,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2,
+            "parent_id": "797152373bbb734b239e908c18e7c684"
+        },
+        "text": "In order to learn the proposed RL-based network architecture, an array of 4-stacked, gray-scaled successive screenshots is given as the observed state to the agent at each step, which reveals the motion information of the agents in a scene. In order to perform this process efficiently, we apply the frame- skipping technique of [21], with skip frame parameter k set and fixed as 4. To be more precise, the agent learned by our model would take an action at every four successive frames.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "72c5f3d08e7e40d323627fdad035a048",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        874.0,
+                        1496.7
+                    ],
+                    [
+                        874.0,
+                        1525.5
+                    ],
+                    [
+                        1473.8,
+                        1525.5
+                    ],
+                    [
+                        1473.8,
+                        1496.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.8393,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2
+        },
+        "text": "3.2. Our A3C+ for Learning 2.5D Fighting Games",
+        "type": "Title"
+    },
+    {
+        "element_id": "4337ff0837091ebdc43fef2d77f13a3c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        876.4,
+                        1549.5
+                    ],
+                    [
+                        876.4,
+                        1777.0
+                    ],
+                    [
+                        1559.5,
+                        1777.0
+                    ],
+                    [
+                        1559.5,
+                        1549.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95236,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2,
+            "parent_id": "72c5f3d08e7e40d323627fdad035a048"
+        },
+        "text": "With A3C applied to basic 2D games like Atari, how to reflect features vital for 2.5D games (e.g., character location) is still a challenging task. In our proposed network of A3C+, which extends A3C and includes a novel Recurrent Info network (i.e., recurrent layers with introduced 2.5D game-related fea- tures) as illustrated in Fig. 3. We now discuss the A3C+ com- ponents in the following subsections.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b8ad7fe38d090a000e1246039b5cd447",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        150.3,
+                        1762.7
+                    ],
+                    [
+                        150.3,
+                        1788.4
+                    ],
+                    [
+                        530.3,
+                        1788.4
+                    ],
+                    [
+                        530.3,
+                        1762.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83936,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2
+        },
+        "text": "2.2. Action Space and Rewards",
+        "type": "Title"
+    },
+    {
+        "element_id": "1c3cce8be16d917ab2545bb3bddfe2e1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        150.3,
+                        1813.8
+                    ],
+                    [
+                        150.3,
+                        2007.1
+                    ],
+                    [
+                        832.6,
+                        2007.1
+                    ],
+                    [
+                        832.6,
+                        1813.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95384,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2,
+            "parent_id": "b8ad7fe38d090a000e1246039b5cd447"
+        },
+        "text": "The action space of LF2 comprises 8 basic actions and 8 combo skills. While idle, up, right, down, left, attack, jump, and defend constitute the basic action, combo skills are rep- resented by sequences of basic actions. The role Firen, for example, makes explosion by taking defend, up, and jump successively. We note that, a set combo skills with 8 different",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2f08bc5bb1520cb0c5fed2e354684926",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        878.5,
+                        1825.4
+                    ],
+                    [
+                        878.5,
+                        1854.8
+                    ],
+                    [
+                        1273.4,
+                        1854.8
+                    ],
+                    [
+                        1273.4,
+                        1825.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.82822,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2,
+            "parent_id": "b8ad7fe38d090a000e1246039b5cd447"
+        },
+        "text": "3.2.1. LSTM for recurrent learning",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2d5aa410178a633005b4086ba511237c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        876.9,
+                        1881.0
+                    ],
+                    [
+                        876.9,
+                        2006.7
+                    ],
+                    [
+                        1560.1,
+                        2006.7
+                    ],
+                    [
+                        1560.1,
+                        1881.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93423,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2,
+            "parent_id": "b8ad7fe38d090a000e1246039b5cd447"
+        },
+        "text": "Previously, Hausknecht and Stone [5] presented a deep re- current Q network, which improves DQN with recurrent lay- ers for observing and learning temporal information. Simi- lar ideas have been utilized in standard A3C [17], showing",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "050215dcb5167af5c23296a74344e415",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        821.1,
+                        2075.6
+                    ],
+                    [
+                        821.1,
+                        2103.5
+                    ],
+                    [
+                        879.5,
+                        2103.5
+                    ],
+                    [
+                        879.5,
+                        2075.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.48403,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2
+        },
+        "text": "3779",
+        "type": "Title"
+    },
+    {
+        "element_id": "1da21520cb06193b0ecb2c64411b1bf7",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        143.5,
+                        2121.8
+                    ],
+                    [
+                        143.5,
+                        2143.2
+                    ],
+                    [
+                        1555.2,
+                        2143.2
+                    ],
+                    [
+                        1555.2,
+                        2121.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.64962,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 2,
+            "parent_id": "050215dcb5167af5c23296a74344e415"
+        },
+        "text": "Authorized licensed use limited to: University of London: Online Library. Downloaded on December 28,2024 at 23:14:36 UTC from IEEE Xplore. Restrictions apply.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e2f3914260c5804f427ffcd50cd8dca2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        177.3,
+                        210.2
+                    ],
+                    [
+                        177.3,
+                        602.0
+                    ],
+                    [
+                        1532.1,
+                        602.0
+                    ],
+                    [
+                        1532.1,
+                        210.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92077,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "image_path": "/home/msunkur/dev/projects/uol/Module5/midterm/CM3020_Artificial_Intelligence/parta/docs/tmp/tmp_ingest/output/figure-3-4.jpg",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3
+        },
+        "text": "Conv1 Conv2 Conv3 Concat LSTM 32 filters 64 filters 64 filters 8x8 4x4 3x3 flatten Stride 4 Stride 2 Stride 1 512 | N Policy Ni n Action 64 : 9 m location information 0 6 Value Conv network n recurrent action features d Info features Recurrent Info network",
+        "type": "Image"
+    },
+    {
+        "element_id": "1ea78b857e69630ec54a8146870ea121",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        152.8,
+                        625.5
+                    ],
+                    [
+                        152.8,
+                        680.5
+                    ],
+                    [
+                        1556.6,
+                        680.5
+                    ],
+                    [
+                        1556.6,
+                        625.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.8198,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3
+        },
+        "text": "Fig. 3: Our network of A3C+. Note that the introduced recurrent info network takes 2.5D game-related and fighting-action related features, aiming to better describe game environments and to allow our agent for winning the fighting game.",
+        "type": "FigureCaption"
+    },
+    {
+        "element_id": "773b9ddd5b3ffa7c9b63b2b19214e459",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        209.5,
+                        725.1
+                    ],
+                    [
+                        209.5,
+                        805.1
+                    ],
+                    [
+                        770.0,
+                        805.1
+                    ],
+                    [
+                        770.0,
+                        725.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "image_path": "/home/msunkur/dev/projects/uol/Module5/midterm/CM3020_Artificial_Intelligence/parta/docs/tmp/tmp_ingest/output/figure-3-5.jpg",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3
+        },
+        "text": "",
+        "type": "Image"
+    },
+    {
+        "element_id": "8eff8f85d202ea221e176438c5ea9ddc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        199.3,
+                        730.6
+                    ],
+                    [
+                        199.3,
+                        963.3
+                    ],
+                    [
+                        779.5,
+                        963.3
+                    ],
+                    [
+                        779.5,
+                        730.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91535,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "image_path": "/home/msunkur/dev/projects/uol/Module5/midterm/CM3020_Artificial_Intelligence/parta/docs/tmp/tmp_ingest/output/figure-3-6.jpg",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3
+        },
+        "text": "",
+        "type": "Image"
+    },
+    {
+        "element_id": "eb043f0ff780d7fde4a2de7ef6d74f78",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        209.5,
+                        890.8
+                    ],
+                    [
+                        209.5,
+                        970.9
+                    ],
+                    [
+                        770.0,
+                        970.9
+                    ],
+                    [
+                        770.0,
+                        890.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "image_path": "/home/msunkur/dev/projects/uol/Module5/midterm/CM3020_Artificial_Intelligence/parta/docs/tmp/tmp_ingest/output/figure-3-7.jpg",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3
+        },
+        "text": "",
+        "type": "Image"
+    },
+    {
+        "element_id": "f6ddc4d0891881222238abc2c417a9e4",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        878.1,
+                        732.9
+                    ],
+                    [
+                        878.1,
+                        890.9
+                    ],
+                    [
+                        1557.5,
+                        890.9
+                    ],
+                    [
+                        1557.5,
+                        732.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95019,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3
+        },
+        "text": "recurrent action features as parts of the inputs to the recur- rent info network. With such joint feature observation and the use of LSTMs, we aim at learning proper 2.5D game- related and action-order related features, which would allow our agent to survive longer and/or defeat the opponent.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a0ff870976a84f71f722939841005462",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1089.4,
+                        943.1
+                    ],
+                    [
+                        1089.4,
+                        966.0
+                    ],
+                    [
+                        1336.1,
+                        966.0
+                    ],
+                    [
+                        1336.1,
+                        943.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84368,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3
+        },
+        "text": "4. EXPERIMENTS",
+        "type": "Title"
+    },
+    {
+        "element_id": "11d0e6c786143ec2a893b8edec292e96",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        153.4,
+                        984.8
+                    ],
+                    [
+                        153.4,
+                        1075.7
+                    ],
+                    [
+                        831.3,
+                        1075.7
+                    ],
+                    [
+                        831.3,
+                        984.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92513,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3,
+            "parent_id": "a0ff870976a84f71f722939841005462"
+        },
+        "text": "Fig. 4: Example visualization of convolution layers in Conv network for LF2 using standard A3C (top to bottom: Convl, Conv2, Conv3 respectively).",
+        "type": "FigureCaption"
+    },
+    {
+        "element_id": "486b549ae3b7944b2bc13d9c0e6d7516",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        150.1,
+                        1125.5
+                    ],
+                    [
+                        150.1,
+                        1253.2
+                    ],
+                    [
+                        837.0,
+                        1253.2
+                    ],
+                    [
+                        837.0,
+                        1125.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93626,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3,
+            "parent_id": "a0ff870976a84f71f722939841005462"
+        },
+        "text": "preferable results in RL tasks. In view of the above success, we also advance recurrent layers in our A3C+. More specifi- cally, we utilize the LSTM with the observation of the features related to 2.5D games (see Sect. 3.2.2).",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "aa5e87947402d41ca54b8b50ee9159bb",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        147.9,
+                        1300.6
+                    ],
+                    [
+                        147.9,
+                        1330.3
+                    ],
+                    [
+                        553.1,
+                        1330.3
+                    ],
+                    [
+                        553.1,
+                        1300.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.77668,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3,
+            "parent_id": "a0ff870976a84f71f722939841005462"
+        },
+        "text": "3.2.2. Info features for 2.5D games",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0607ea5140266a7ea5181b8e321b7a20",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        874.9,
+                        1003.0
+                    ],
+                    [
+                        874.9,
+                        1028.2
+                    ],
+                    [
+                        1364.7,
+                        1028.2
+                    ],
+                    [
+                        1364.7,
+                        1003.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83342,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3
+        },
+        "text": "4.1. Implementation Details and Settings",
+        "type": "Title"
+    },
+    {
+        "element_id": "38fe18a5b77dacb32ef3c7f7ab8663a7",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        878.0,
+                        1054.3
+                    ],
+                    [
+                        878.0,
+                        1377.4
+                    ],
+                    [
+                        1557.3,
+                        1377.4
+                    ],
+                    [
+                        1557.3,
+                        1054.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95144,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3,
+            "parent_id": "0607ea5140266a7ea5181b8e321b7a20"
+        },
+        "text": "As mentioned earlier, we consider Little Fighter 2 (LF2) as the 2.5D fighting game in our work. In LF2, each character has different skills in terms of offense. For evaluation simplic- ity, we consider the role of Davis, which is the main character of this game, as our training agent. To confirm the effective- ness of the proposed Recurrent Info network in our A3C+ network, we take the Conv network [17] in the standard A3C as the baseline network. And we perform ablation tests to verify the contributions of the proposed network components (i.e., uses of info features and recurrent layers of LSTM).",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b8666e288d083d5da4201fd16afc1469",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        147.6,
+                        1354.1
+                    ],
+                    [
+                        147.6,
+                        1746.0
+                    ],
+                    [
+                        834.7,
+                        1746.0
+                    ],
+                    [
+                        834.7,
+                        1354.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95489,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3,
+            "parent_id": "0607ea5140266a7ea5181b8e321b7a20"
+        },
+        "text": "As noted earlier, standard A3C cannot easily describe game- related features like identification, actions, or height/distance of characters (see Fig. 4 as example). To solve these prob- lems, we take the location information of both our agent and the opponent into consideration. To be more precise, we ex- tract the coordinates of both characters from the game envi- ronment, as well as their heights, depths, the distance between them. These representations are concatenated with the CNN visual feature, which would be the inputs to the LSTM mod- ule as depicted in Fig. 3. We believe that, when learning com- plicated 2.5D fighting games, it is vital to allow the design network to observe the above game-related features.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b722e7768168a5fd3febb4b5a02acedc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        920.9,
+                        1385.3
+                    ],
+                    [
+                        920.9,
+                        1412.5
+                    ],
+                    [
+                        1528.7,
+                        1412.5
+                    ],
+                    [
+                        1528.7,
+                        1385.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.63963,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3,
+            "parent_id": "0607ea5140266a7ea5181b8e321b7a20"
+        },
+        "text": "In our evaluation, two different settings are considered:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c5ef2e8fab47c73f46619f431309790e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        914.5,
+                        1430.0
+                    ],
+                    [
+                        914.5,
+                        1458.2
+                    ],
+                    [
+                        1512.9,
+                        1458.2
+                    ],
+                    [
+                        1512.9,
+                        1430.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.82752,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3,
+            "parent_id": "0607ea5140266a7ea5181b8e321b7a20"
+        },
+        "text": "e Basic: Only 8 basic actions allowed (see Sect. 2.2).",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "dd55c1b664da50befd4a616c53713d57",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        916.6,
+                        1477.6
+                    ],
+                    [
+                        916.6,
+                        1538.3
+                    ],
+                    [
+                        1556.5,
+                        1538.3
+                    ],
+                    [
+                        1556.5,
+                        1477.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.89034,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3,
+            "parent_id": "0607ea5140266a7ea5181b8e321b7a20"
+        },
+        "text": "e Advanced: 8 actions in the basic setting, plus 8 combo skills without constraints on the magic points (MP).",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "6efc069bfeb68bf0ab7b4014405fda3d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        879.0,
+                        1557.1
+                    ],
+                    [
+                        879.0,
+                        1783.7
+                    ],
+                    [
+                        1558.5,
+                        1783.7
+                    ],
+                    [
+                        1558.5,
+                        1557.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95526,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3,
+            "parent_id": "0607ea5140266a7ea5181b8e321b7a20"
+        },
+        "text": "We note that, for the advanced setting, each LF2 agent has a total of 8 combo skills. When utilizing our A3C+ for such fighting games, we wish to verify that the agent would not only learn the basic actions, it would learn the correlation be- tween them and produce combo skills as well. As for the op- ponent in the game, we consider a rule-based AI. That is, it is always able to use all 16 actions in either of the two settings.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3247e30d0406efb7ec85e80a46b44462",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        152.1,
+                        1797.8
+                    ],
+                    [
+                        152.1,
+                        1820.8
+                    ],
+                    [
+                        637.4,
+                        1820.8
+                    ],
+                    [
+                        637.4,
+                        1797.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.64488,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3,
+            "parent_id": "0607ea5140266a7ea5181b8e321b7a20"
+        },
+        "text": "3.2.3. Actions of the agents in info features",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "82867e9894ebe9003bb549191dd798bf",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        148.3,
+                        1848.0
+                    ],
+                    [
+                        148.3,
+                        2008.3
+                    ],
+                    [
+                        835.0,
+                        2008.3
+                    ],
+                    [
+                        835.0,
+                        1848.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94332,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3,
+            "parent_id": "0607ea5140266a7ea5181b8e321b7a20"
+        },
+        "text": "In fighting games like LF2, effective hits on the opponents in- volve sequential orders actions (e.g., an agent needs to jump to the back of the opponent and then punch the opponent im- mediately to gain the highest reward). To better train our agent using the proposed network, we particularly consider",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e1fd1b97102883f73187b90aad04e9c0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        877.5,
+                        1827.3
+                    ],
+                    [
+                        877.5,
+                        1856.9
+                    ],
+                    [
+                        1063.0,
+                        1856.9
+                    ],
+                    [
+                        1063.0,
+                        1827.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.85052,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3
+        },
+        "text": "4.2. Evaluation",
+        "type": "Title"
+    },
+    {
+        "element_id": "ea0c74e0cf07e31fa78c27acf1cc1e40",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        875.7,
+                        1881.6
+                    ],
+                    [
+                        875.7,
+                        2006.4
+                    ],
+                    [
+                        1560.0,
+                        2006.4
+                    ],
+                    [
+                        1560.0,
+                        1881.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93609,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3,
+            "parent_id": "e1fd1b97102883f73187b90aad04e9c0"
+        },
+        "text": "We start with health points (HP) as 500 for both our agent and the opponent, with reward scaled to 1/40 of the HP dif- ferences. In other words, the highest reward our agent can achieve per episode is between -12.5 and +12.5. To make the",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "76360c3ba034f4936504bc686d100bdc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        821.1,
+                        2075.6
+                    ],
+                    [
+                        821.1,
+                        2104.2
+                    ],
+                    [
+                        879.8,
+                        2104.2
+                    ],
+                    [
+                        879.8,
+                        2075.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.50729,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3
+        },
+        "text": "3780",
+        "type": "Title"
+    },
+    {
+        "element_id": "cead9ccc165cfa3476a0e2451ae69452",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        144.1,
+                        2121.4
+                    ],
+                    [
+                        144.1,
+                        2143.2
+                    ],
+                    [
+                        1555.2,
+                        2143.2
+                    ],
+                    [
+                        1555.2,
+                        2121.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.69943,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 3,
+            "parent_id": "76360c3ba034f4936504bc686d100bdc"
+        },
+        "text": "Authorized licensed use limited to: University of London: Online Library. Downloaded on December 28,2024 at 23:14:36 UTC from IEEE Xplore. Restrictions apply.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d7d291459dd40a6b9602a0aff7db7d17",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        169.4,
+                        201.6
+                    ],
+                    [
+                        169.4,
+                        552.9
+                    ],
+                    [
+                        1536.3,
+                        552.9
+                    ],
+                    [
+                        1536.3,
+                        201.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90757,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "image_path": "/home/msunkur/dev/projects/uol/Module5/midterm/CM3020_Artificial_Intelligence/parta/docs/tmp/tmp_ingest/output/figure-4-8.jpg",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4
+        },
+        "text": "CNNs + INFO CNNs + LSTM + INFO (Ours) CNNs + LSTM CNNs [17] \u2014 Random 1000 1200 1400 1600 800 Episode 40, \u2014\u2014 CNNs + LSTM + INFO (Ours) \u2014 CNNs + LSTM \u2014 CNNs + INFO 5) \u2014 CNNs [17] Random Daya \u00c7AN a A OY 400 600 1000 Episode 0 200 800",
+        "type": "Image"
+    },
+    {
+        "element_id": "5fdad995799ea4dd2bcdd6575d237708",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        511.0,
+                        550.0
+                    ],
+                    [
+                        511.0,
+                        571.0
+                    ],
+                    [
+                        536.0,
+                        571.0
+                    ],
+                    [
+                        536.0,
+                        550.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4
+        },
+        "text": "(a)",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "eecaa9994111229ecdd3a6a5d96f2175",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1204.0,
+                        550.0
+                    ],
+                    [
+                        1204.0,
+                        571.0
+                    ],
+                    [
+                        1230.0,
+                        571.0
+                    ],
+                    [
+                        1230.0,
+                        550.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4
+        },
+        "text": "(b)",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "24e8ca9ac9d76bf1844665f363dfc76d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        248.6,
+                        585.7
+                    ],
+                    [
+                        248.6,
+                        608.7
+                    ],
+                    [
+                        1468.3,
+                        608.7
+                    ],
+                    [
+                        1468.3,
+                        585.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.78153,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4
+        },
+        "text": "Fig. 5: Average rewards over episodes when training A3C models in (a) basic and (b) advanced settings.",
+        "type": "FigureCaption"
+    },
+    {
+        "element_id": "70c5b2d90b42c174ac0ae4fb9deb597a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        153.9,
+                        692.9
+                    ],
+                    [
+                        153.9,
+                        782.6
+                    ],
+                    [
+                        829.9,
+                        782.6
+                    ],
+                    [
+                        829.9,
+                        692.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92514,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4
+        },
+        "text": "evaluation comparisons more complete, we also consider a baby-agent, which simply takes a random action at each step and thus can be viewed as a naive baseline model.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "71d366d18ba40fc0f359faa19a6365ba",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        149.8,
+                        835.1
+                    ],
+                    [
+                        149.8,
+                        860.6
+                    ],
+                    [
+                        392.7,
+                        860.6
+                    ],
+                    [
+                        392.7,
+                        835.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.49385,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4
+        },
+        "text": "4.2.1. Training stage",
+        "type": "Title"
+    },
+    {
+        "element_id": "f007b147b0a7200f1b5208273a3c50df",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        149.5,
+                        888.3
+                    ],
+                    [
+                        149.5,
+                        1278.1
+                    ],
+                    [
+                        832.0,
+                        1278.1
+                    ],
+                    [
+                        832.0,
+                        888.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95583,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4,
+            "parent_id": "71d366d18ba40fc0f359faa19a6365ba"
+        },
+        "text": "Fig. 5 shows the rewards observed by different models using basic and advanced settings. In Fig. 5 (a), our agent was only trained to take 8 basic actions, and no combination skills were allowed. Thus, the use of info features in our A3C+ was suf- ficient to achieve promising rewards, when comparing to the use of our full model (i.e., info features plus LSTM recurrent layers). More importantly, advancing recurrent layers or not, models without observing info features would not be able to produce satisfactory results. This confirms that, the use of 2.5D game-related features would be beneficial in learning 2.5D fighting games, and our proposed network architecture with such features would be preferable.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7841b3fff2852b739474a423eb898f38",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        150.9,
+                        1287.8
+                    ],
+                    [
+                        150.9,
+                        1777.5
+                    ],
+                    [
+                        832.8,
+                        1777.5
+                    ],
+                    [
+                        832.8,
+                        1287.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95262,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4,
+            "parent_id": "71d366d18ba40fc0f359faa19a6365ba"
+        },
+        "text": "On the other hand, Fig. 5 (b) shows the agent training in the advanced setting. From this figure, we observe that the use of both info feature and the LSTM recurrent layers would be preferable, since this full version of our A3C produced the highest rewards compared to other baseline models or con- trolled experiments. This is because that, the combo skills may receive rewards after several screen frames, and thus de- layed rewards are more likely to be observed and taken into consideration for the actions in the past. The network mod- els with only info features but without the recurrent layer can only observe the information from the previous action, which would not be sufficient produce preferable actions or combo skills. In other words, when combination skills are allowed, it would be preferable to learn actions in proper sequential orders so that it becomes more likely to defeat the opponent.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d9c4af8769c033d0479f3c011837a7e7",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        148.8,
+                        1828.7
+                    ],
+                    [
+                        148.8,
+                        1854.5
+                    ],
+                    [
+                        376.3,
+                        1854.5
+                    ],
+                    [
+                        376.3,
+                        1828.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.60062,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4
+        },
+        "text": "4.2.2. Testing stage",
+        "type": "Title"
+    },
+    {
+        "element_id": "40edf8810d68fe7f435f616c77538bb3",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        879.3,
+                        671.9
+                    ],
+                    [
+                        879.3,
+                        726.5
+                    ],
+                    [
+                        1556.9,
+                        726.5
+                    ],
+                    [
+                        1556.9,
+                        671.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.77576,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4,
+            "parent_id": "d9c4af8769c033d0479f3c011837a7e7"
+        },
+        "text": "Table 1: Winning rate (WR) of the deep RL agents trained in different settings.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e4b5a46d03b275eb0149b04a2ed28e41",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        880.1,
+                        744.0
+                    ],
+                    [
+                        880.1,
+                        979.2
+                    ],
+                    [
+                        1541.3,
+                        979.2
+                    ],
+                    [
+                        1541.3,
+                        744.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93193,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "image_path": "/home/msunkur/dev/projects/uol/Module5/midterm/CM3020_Artificial_Intelligence/parta/docs/tmp/tmp_ingest/output/table-4-1.jpg",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4,
+            "parent_id": "d9c4af8769c033d0479f3c011837a7e7",
+            "text_as_html": "<table><thead><tr><th>Agent</th><th>LSTM</th><th>INFO |</th><th>Basic</th><th>Advanced</th></tr></thead><tbody><tr><td>Ours</td><td>v</td><td>v</td><td>95.5%</td><td>95.9%</td></tr><tr><td>Ours w/o LSTM</td><td></td><td>v</td><td>99.3%</td><td>61.3%</td></tr><tr><td>CNNs w/ LSTM</td><td>v</td><td></td><td>11.9%</td><td>86.3%</td></tr><tr><td>CNNs [17]</td><td></td><td></td><td>730</td><td>57.6%</td></tr><tr><td>Random</td><td></td><td></td><td>4.9%</td><td>10.6%</td></tr></tbody></table>"
+        },
+        "text": "Model Setting Game Setting Agent LSTM INFO | Basic Advanced Ours v v 95.5% 95.9% Ours w/o LSTM v 99.3% 61.3% CNNs w/ LSTM v 11.9% 86.3% CNNs [17] 730 57.6% Random 4.9% 10.6%",
+        "type": "Table"
+    },
+    {
+        "element_id": "57b7970d8c5b5079724883e44920946d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        874.6,
+                        1041.7
+                    ],
+                    [
+                        874.6,
+                        1398.5
+                    ],
+                    [
+                        1557.8,
+                        1398.5
+                    ],
+                    [
+                        1557.8,
+                        1041.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95571,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4,
+            "parent_id": "d9c4af8769c033d0479f3c011837a7e7"
+        },
+        "text": "The results are listed in Table 1. Recall that the opponent in our experiment is a rule-based Al taking both basic actions and combo skills during fighting. From Table 1, we see that the use of the full version of our A3C+ achieved the most sat- isfactory WR. For the basic setting (i.e., only basic actions allows without combo skills), the use of recurrent layers did not exploit additional sequential action information, and thus the use of info features would be sufficiently satisfactory (i.e., WR as 99.3%). From the above experiments, the effective- ness of our A3C+ for learning 2.5D fighting games can be successfully verified.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "493b5ee423cbb9822cae62785373e393",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1100.0,
+                        1411.5
+                    ],
+                    [
+                        1100.0,
+                        1438.9
+                    ],
+                    [
+                        1327.9,
+                        1438.9
+                    ],
+                    [
+                        1327.9,
+                        1411.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84245,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4
+        },
+        "text": "5. CONCLUSION",
+        "type": "Title"
+    },
+    {
+        "element_id": "51af4dbf9cd40b3c80a17d26a7113596",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        875.7,
+                        1474.0
+                    ],
+                    [
+                        875.7,
+                        1895.1
+                    ],
+                    [
+                        1561.2,
+                        1895.1
+                    ],
+                    [
+                        1561.2,
+                        1474.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94982,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4,
+            "parent_id": "493b5ee423cbb9822cae62785373e393"
+        },
+        "text": "As the first to advance deep reinforcement learning for 2.5D fighting games, our proposed network extends Asynchronous Advantage Actor-Critic (A3C) and exploits game-related info features with recurrent layers. This not only alleviates the problem of visual ambiguity of the characters during fighting, it also allows us to observe proper action orders for produc- ing combo action skills. With our set-up of game environment and the game of LF2, our experiments confirmed that the use of our game-related info features is crucial in 2.5D fighting games, while the full version of ours (i.e., with the proposed recurrent info networks) produces the best winning rate and performs favorably against recent or baseline deep reinforce- ment learning models.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7dccb16057540175cd851d1667eb2e96",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        149.2,
+                        1881.7
+                    ],
+                    [
+                        149.2,
+                        2007.2
+                    ],
+                    [
+                        832.9,
+                        2007.2
+                    ],
+                    [
+                        832.9,
+                        1881.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93751,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4,
+            "parent_id": "493b5ee423cbb9822cae62785373e393"
+        },
+        "text": "In addition to the comparisons of the observed rewards dur- ing training, we further present the evaluation of testing. To be more specific, we present the winning rate (WR) of the learned agent, based on trained models for 1000 episodes.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "061934ebcc535b70ba1443bc4c175434",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        879.2,
+                        1905.9
+                    ],
+                    [
+                        879.2,
+                        1996.6
+                    ],
+                    [
+                        1555.5,
+                        1996.6
+                    ],
+                    [
+                        1555.5,
+                        1905.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92488,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4,
+            "parent_id": "493b5ee423cbb9822cae62785373e393"
+        },
+        "text": "Acknowledgments This work was supported by the Ministry of Science and Technology of Taiwan under grant MOST 107-2634-F-002-010.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f002d69748925cb46a9b073e5fe2bfee",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        822.0,
+                        2075.6
+                    ],
+                    [
+                        822.0,
+                        2103.9
+                    ],
+                    [
+                        877.8,
+                        2103.9
+                    ],
+                    [
+                        877.8,
+                        2075.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.42071,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4
+        },
+        "text": "3781",
+        "type": "Title"
+    },
+    {
+        "element_id": "ab9820002513be6295176e5352f87a5b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        144.8,
+                        2121.9
+                    ],
+                    [
+                        144.8,
+                        2143.2
+                    ],
+                    [
+                        1555.2,
+                        2143.2
+                    ],
+                    [
+                        1555.2,
+                        2121.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.648,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 4,
+            "parent_id": "f002d69748925cb46a9b073e5fe2bfee"
+        },
+        "text": "Authorized licensed use limited to: University of London: Online Library. Downloaded on December 28,2024 at 23:14:36 UTC from IEEE Xplore. Restrictions apply.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3723ac77d851e303e1032c0dc09747bc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        374.2,
+                        208.5
+                    ],
+                    [
+                        374.2,
+                        233.1
+                    ],
+                    [
+                        609.2,
+                        233.1
+                    ],
+                    [
+                        609.2,
+                        208.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.65024,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5
+        },
+        "text": "6. REFERENCES",
+        "type": "Title"
+    },
+    {
+        "element_id": "a0ecb8c391f2116d866523abaf4d4411",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        164.0,
+                        269.1
+                    ],
+                    [
+                        164.0,
+                        361.0
+                    ],
+                    [
+                        837.3,
+                        361.0
+                    ],
+                    [
+                        837.3,
+                        269.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92439,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "(1) Tom Schaul, John Quan, Ioannis Antonoglou, and David Silver, \u201cPrioritized experience replay,\u2019 arXiv preprint arXiv:1511.05952, 2015.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "d4f2205addfd02fab9fb781affa4e6fc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        170.3,
+                        391.2
+                    ],
+                    [
+                        170.3,
+                        581.6
+                    ],
+                    [
+                        834.6,
+                        581.6
+                    ],
+                    [
+                        834.6,
+                        391.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9457,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "[2] Arun Nair, Praveen Srinivasan, Sam Blackwell, Cagdas Alcicek, Rory Fearon, Alessandro De Maria, Vedavyas Panneershelvam, Mustafa Suleyman, Charles Beattie, Stig Petersen, et al, \u201cMassively parallel methods for deep reinforcement learning,\u2019 = arXiv preprint arXiv: 1507.04296, 2015.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "4a5947141d7813515ec0e1702bd89bff",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        165.0,
+                        610.5
+                    ],
+                    [
+                        165.0,
+                        735.5
+                    ],
+                    [
+                        840.9,
+                        735.5
+                    ],
+                    [
+                        840.9,
+                        610.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93033,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov, \u201cProximal policy opti- mization algorithms,\u201d arXiv preprint arXiv:1707.06347, 2017.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "1b48a71999d8f2c9c370f47aa05a58bd",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        166.5,
+                        764.0
+                    ],
+                    [
+                        166.5,
+                        892.1
+                    ],
+                    [
+                        836.8,
+                        892.1
+                    ],
+                    [
+                        836.8,
+                        764.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92887,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E Turner, and Sergey Levine, \u201cQ-prop: Sample- efficient policy gradient with an off-policy critic,\u2019 arXiv preprint arXiv: 1611.02247, 2016.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "002a0ad8844e471560c4871412fa053b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        163.2,
+                        918.3
+                    ],
+                    [
+                        163.2,
+                        1013.7
+                    ],
+                    [
+                        842.5,
+                        1013.7
+                    ],
+                    [
+                        842.5,
+                        918.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9333,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "Matthew Hausknecht and Peter Stone, \u201cDeep recur- rent q-learning for partially observable mdps,\u201d CoRR, abs/1507.06527, 2015.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "5a3da403414126e5245ac944783b79c7",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        887.3,
+                        205.8
+                    ],
+                    [
+                        887.3,
+                        430.1
+                    ],
+                    [
+                        1562.5,
+                        430.1
+                    ],
+                    [
+                        1562.5,
+                        205.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94739,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "[12] Joel Z Leibo, Vinicius Zambaldi, Marc Lanctot, Janusz Marecki, and Thore Graepel, \u201cMulti-agent reinforce- ment learning in sequential social dilemmas,\u201d in Pro- ceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems. International Foundation for Autonomous Agents and Multiagent Systems, 2017, pp. 464-473.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "2b7d0dbf91aceb4083c625899f7335e9",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        884.4,
+                        463.1
+                    ],
+                    [
+                        884.4,
+                        652.3
+                    ],
+                    [
+                        1562.5,
+                        652.3
+                    ],
+                    [
+                        1562.5,
+                        463.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95047,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "[13] Michat Kempka, Marek Wydmuch, Grzegorz Runc, Jakub Toczek, and Wojciech Jaskowski, \u201cVizdoom: A doom-based ai research platform for visual reinforce- ment learning,\u2019 in Computational Intelligence and Games (CIG), 2016 IEEE Conference on. IEEE, 2016, pp. 1-8.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "2839bfa39c3674b7c400f49b08613620",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        884.1,
+                        682.1
+                    ],
+                    [
+                        884.1,
+                        775.3
+                    ],
+                    [
+                        1560.9,
+                        775.3
+                    ],
+                    [
+                        1560.9,
+                        682.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92547,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "[14] Guillaume Lample and Devendra Singh Chaplot, \u201cPlay- ing fps games with deep reinforcement learning,\u201d pp. 2140-2146, 2017.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "0c6fa74171c2766e7018dfa1355856b7",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        884.0,
+                        802.9
+                    ],
+                    [
+                        884.0,
+                        994.1
+                    ],
+                    [
+                        1561.3,
+                        994.1
+                    ],
+                    [
+                        1561.3,
+                        802.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9485,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "[15] Oriol Vinyals, Timo Ewalds, Sergey Bartunov, Petko Georgiev, Alexander Sasha Vezhnevets, Michelle Yeo, Alireza Makhzani, Heinrich Kiittler, John Agapiou, Ju- lian Schrittwieser, et al., \u201cStarcraft ii: a new chal- lenge for reinforcement learning,\u2019 arXiv preprint arXiv:1708.04782, 2017.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "6453f33595c5a418b80253a341dad0d4",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        168.5,
+                        1040.1
+                    ],
+                    [
+                        168.5,
+                        1168.5
+                    ],
+                    [
+                        840.1,
+                        1168.5
+                    ],
+                    [
+                        840.1,
+                        1040.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92739,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "Emanuel Todorov, Tom Erez, and Yuval Tassa, \u201cMu- joco: A physics engine for model-based control,\u201d in /n- telligent Robots and Systems (IROS), 2012 IEEE/RSJ In- ternational Conference on. IEEE, 2012, pp. 5026-5033.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "3b94acac195c35b0b3d656bc1195c010",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        164.6,
+                        1196.3
+                    ],
+                    [
+                        164.6,
+                        1322.2
+                    ],
+                    [
+                        839.1,
+                        1322.2
+                    ],
+                    [
+                        839.1,
+                        1196.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92413,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "Paul Christiano, Jan Leike, Tom B Brown, Miljan Mar- tic, Shane Legg, and Dario Amodei, \u201cDeep reinforce- ment learning from human preferences,\u201d arXiv preprint arXiv:1706.03741, 2017.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "980f30d3ef3506a266a26f63622770c6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        878.5,
+                        1023.4
+                    ],
+                    [
+                        878.5,
+                        1084.0
+                    ],
+                    [
+                        1556.9,
+                        1084.0
+                    ],
+                    [
+                        1556.9,
+                        1023.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91357,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "[16] Little Fighter 2, \u201chttp://www.littlefighter.com,\u201d 1999- 2008.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "b6e7b51f6cb80fe25f18938ef2226fa2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        879.6,
+                        1113.8
+                    ],
+                    [
+                        879.6,
+                        1304.7
+                    ],
+                    [
+                        1562.1,
+                        1304.7
+                    ],
+                    [
+                        1562.1,
+                        1113.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95053,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "[17] Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu, \u201cAsynchronous methods for deep reinforcement learning,\u2019 in /nfer- national Conference on Machine Learning, 2016, pp. 1928-1937.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "b01f5460c34da13bac98044179e28dbb",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        162.6,
+                        1350.0
+                    ],
+                    [
+                        162.6,
+                        1511.8
+                    ],
+                    [
+                        841.1,
+                        1511.8
+                    ],
+                    [
+                        841.1,
+                        1350.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92618,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "[8 Tejas D Kulkarni, Karthik Narasimhan, Ardavan Saeedi, and Josh Tenenbaum, \u201cHierarchical deep reinforcement learning: Integrating temporal abstraction and intrinsic motivation,\u201d in Advances in Neural Information Pro- cessing Systems, 2016, pp. 3675-3683.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "d28e0e77a9dd0291443c55c8fb4040bb",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        875.6,
+                        1333.0
+                    ],
+                    [
+                        875.6,
+                        1361.1
+                    ],
+                    [
+                        1504.6,
+                        1361.1
+                    ],
+                    [
+                        1504.6,
+                        1333.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84614,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "18 FLF Project, \u201chttp://www. projectf.hk,\u201d 2011-2015.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "60751cd41db51962a2d65ddce8d6fd49",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        875.7,
+                        1389.9
+                    ],
+                    [
+                        875.7,
+                        1515.5
+                    ],
+                    [
+                        1557.3,
+                        1515.5
+                    ],
+                    [
+                        1557.3,
+                        1389.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93277,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "19 Greg Brockman, Vicki Cheung, Ludwig Pettersson, Jonas Schneider, John Schulman, Jie Tang, and Wo- jeiech Zaremba, \u201cOpenai gym,\u2019 = arXiv preprint arXiv: 1606.01540, 2016.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "658d2775ba184fdce5fa9232970a841c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        166.6,
+                        1537.0
+                    ],
+                    [
+                        166.6,
+                        1630.7
+                    ],
+                    [
+                        841.2,
+                        1630.7
+                    ],
+                    [
+                        841.2,
+                        1537.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9344,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "[9] Yuxin Wu and Yuandong Tian, \u201cTraining agent for first- person shooter game With actor-critic curriculum learn- ing.\u201d 2016.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "6ab8ec514c9eb9e1fede87d2e30f3e0c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        153.2,
+                        1660.6
+                    ],
+                    [
+                        153.2,
+                        1785.5
+                    ],
+                    [
+                        836.7,
+                        1785.5
+                    ],
+                    [
+                        836.7,
+                        1660.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93246,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "[10] Chen Tessler, Shahar Givony, Tom Zahavy, Daniel J Mankowitz, and Shie Mannor, \u201cA deep hierarchical approach to lifelong learning in minecraft.,\u201d in AAAI, 2017, pp. 1553-1561.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "64231a5fcb9405836d9f7843d30502f1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        162.8,
+                        1813.9
+                    ],
+                    [
+                        162.8,
+                        2006.1
+                    ],
+                    [
+                        837.4,
+                        2006.1
+                    ],
+                    [
+                        837.4,
+                        1813.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9453,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "UL) David Silver, Aja Huang, Chris J Maddison, Arthur Guez, Laurent Sifre, George Van Den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershel- vam, Marc Lanctot, et al., \u201cMastering the game of go with deep neural networks and tree search,\u201d Nature, vol. 529, no. 7587, pp. 484-489, 2016.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "f2bd97b8c01f47a21e8b55e8293920f9",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        876.8,
+                        1544.6
+                    ],
+                    [
+                        876.8,
+                        1571.3
+                    ],
+                    [
+                        1537.5,
+                        1571.3
+                    ],
+                    [
+                        1537.5,
+                        1544.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.8499,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "20 Lf2gym, \u201chttps://github.com/elvisyjlin/If2gym,\u201d 2018.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "20822644248b6d0e1d2f40d892e46e0f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        878.3,
+                        1599.8
+                    ],
+                    [
+                        878.3,
+                        1692.7
+                    ],
+                    [
+                        1556.2,
+                        1692.7
+                    ],
+                    [
+                        1556.2,
+                        1599.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92876,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "21 Marc G Bellemare, Yavar Naddaf, Joel Veness, and Michael Bowling, \u201cThe arcade learning environment: An evaluation platform for general agents.,\u201d 2013.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "7e3adc5457713afd3111b5111f2a570d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        879.3,
+                        1721.7
+                    ],
+                    [
+                        879.3,
+                        1847.2
+                    ],
+                    [
+                        1553.8,
+                        1847.2
+                    ],
+                    [
+                        1553.8,
+                        1721.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92749,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "3723ac77d851e303e1032c0dc09747bc"
+        },
+        "text": "22 Ronald J Williams and Jing Peng, \u201cAn efficient gradient- based algorithm for on-line training of recurrent net- work trajectories,\u2019 Neural computation, vol. 2, no. 4, pp. 490-501, 1990.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "0081be6664bfe040f768251a8fa3fdd6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        821.2,
+                        2075.6
+                    ],
+                    [
+                        821.2,
+                        2103.6
+                    ],
+                    [
+                        878.8,
+                        2103.6
+                    ],
+                    [
+                        878.8,
+                        2075.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.36102,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5
+        },
+        "text": "3782",
+        "type": "Title"
+    },
+    {
+        "element_id": "976427ff1182469b5f63b7f41f3c21b1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        141.9,
+                        2121.6
+                    ],
+                    [
+                        141.9,
+                        2143.2
+                    ],
+                    [
+                        1555.2,
+                        2143.2
+                    ],
+                    [
+                        1555.2,
+                        2121.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.53847,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Reinforcement_Learning_for_Playing_2.5D_Fighting_Games.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:14:41",
+            "page_number": 5,
+            "parent_id": "0081be6664bfe040f768251a8fa3fdd6"
+        },
+        "text": "Authorized licensed use limited to: University of London: Online Library. Downloaded on December 28,2024 at 23:14:36 UTC from IEEE Xplore. Restrictions apply.",
+        "type": "NarrativeText"
+    }
+]

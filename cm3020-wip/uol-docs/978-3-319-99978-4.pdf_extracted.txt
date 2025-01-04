@@ -1,0 +1,210 @@
+The text provided does not contain information about why to create AI systems that play games. 
+SOURCES:
+
+not found
+SOURCES:  
+
+
+
+
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+While the text discusses various applications of deep learning, including game playing and automated machine learning, it does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/978-3-319-99978-4.pdf.md
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text provided does not mention why AI systems that play games are created.
+
+SOURCES:
+
+
+
+The text does not mention why to create AI systems that play games. 
+SOURCES: uol-docs/978-3-319-99978-4.pdf.md
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/978-3-319-99978-4.pdf.md
+
+The text does not contain information about why to create AI systems that play games. 
+
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+SOURCES: uol-docs/978-3-319-99978-4.pdf.md
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text does not contain the answer to why create AI systems that play games.
+
+SOURCES: 
+
+
+The text provided does not explain why to create AI systems that play games. 
+
+SOURCES: uol-docs/978-3-319-99978-4.pdf.md
+
+The provided text describes a novel neural network architecture for end-to-end clustering. It learns to group data points based on perceptual similarity, without requiring pre-defined cluster numbers or specific similarity metrics.
+
+Here's a breakdown of the key points:
+
+* **End-to-End Learning:** The network is trained in a supervised manner using pairwise labels (same/different group) and can then directly output probabilistic cluster assignments for new data.
+* **Learnable Similarity:** It learns to capture complex similarity relationships within the data, making it adaptable to various clustering tasks without manual feature engineering.
+* **Probabilistic Output:** The network outputs a distribution over the number of clusters (k) and a distribution over cluster assignments for each data point, providing uncertainty estimates.
+
+**Comparison with Other Approaches:**
+
+The authors differentiate their approach from:
+
+* **Deep Metric Learning:** While both learn embeddings, this method directly performs clustering instead of relying on separate clustering algorithms.
+* **Semi-Supervised Clustering:** This method leverages a small amount of labeled data for guidance, whereas the proposed approach is fully supervised during training.
+
+**Applications:**
+
+The authors demonstrate promising results on high-dimensional data like images (COIL-100) and speech (TIMIT), highlighting its potential for tasks involving perceptual grouping.
+
+
+Let me know if you have any other questions about this text!
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+SOURCES: uol-docs/978-3-319-99978-4.pdf.md
+
+The text you provided describes a research paper on "Manifold Learning Regression with Non-stationary Kernels".  It mentions the authors (Alexander Kuleshov, Alexander Bernstein, and Evgeny Burnaev) and their affiliation (Skolkovo Institute of Science and Technology).
+
+However, it doesn't provide any information about *why* they are doing this research or what specific problem they are trying to solve. 
+
+
+To get a better understanding of the paper's purpose, you would need to read the full text.  
+
+
+The provided text does not contain information about why to create AI systems that play games. 
+
+SOURCES: uol-docs/978-3-319-99978-4.pdf.md
+
+The text provided does not mention why AI systems are created to play games.
+
+SOURCES: 
+
+
+The text provided does not contain information about why to create AI systems that play games. 
+
+SOURCES: uol-docs/978-3-319-99978-4.pdf.md
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found
+
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+
+
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/978-3-319-99978-4.pdf.md
+
+The text provided discusses using AI to play games, but it doesn't explicitly state *why* researchers create AI systems for this purpose. 
+
+However, we can infer some reasons from the context:
+
+* **Understanding intelligence:** Creating AI that can master complex games like Go helps researchers understand the underlying principles of intelligence and decision-making.
+* **Developing new algorithms:** Game playing often pushes the boundaries of existing algorithms and inspires the development of novel techniques in machine learning and artificial intelligence.
+* **Benchmarking progress:** Games provide a standardized environment to measure the progress of AI research. Success in challenging games like Go is seen as a significant milestone.
+
+Therefore, while the text doesn't directly answer "why," it provides clues that point towards the pursuit of knowledge about intelligence, algorithm development, and benchmarking AI progress. 
+
+
+The text does not mention why to create AI systems that play games. 
+SOURCES: uol-docs/978-3-319-99978-4.pdf.md
+
+The text discusses using Convolutional Neural Networks (CNNs) to analyze data from the Cherenkov Telescope Array (CTA).  
+
+One reason given for creating AI systems that play games is that they can be used to **improve the reconstruction of properties like type, energy, direction and depth of first interaction of primary particles** detected by telescopes. 
+SOURCES: uol-docs/978-3-319-99978-4.pdf.md
+
+The text does not contain the answer to why create AI systems that play games. 
+
+SOURCES:
+
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text provided does not contain the answer to your question. 
+
+This document discusses a handwriting recognition system that uses Pyramid Histogram of Gradients (PHoGs) and Kullback-Leibler divergence for classification. It mentions using decision trees to group similar database classes together, but it doesn't mention anything about why AI systems are created to play games.
+
+The provided text does not contain information about why to create AI systems that play games. 
+
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+SOURCES: uol-docs/978-3-319-99978-4.pdf.md
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/978-3-319-99978-4.pdf.md
+
+The text does not contain information about why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/978-3-319-99978-4.pdf.md
+
+The text does not mention why to create AI systems that play games. 
+SOURCES:
+
+not found
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+not found 
+SOURCES:
+
+The text provided does not mention why AI systems are created to play games.
+
+SOURCES: uol-docs/978-3-319-99978-4.pdf.md

@@ -1,0 +1,1809 @@
+[
+  {
+    "title": "A Python Engine for Teaching Artificial Intelligence in Games",
+    "authors": [
+      "\nMark O. Riedl\n"
+    ],
+    "published": "2015-11-24T14:13:33Z",
+    "summary": "  Computer games play an important role in our society and motivate people to\nlearn computer science. Since artificial intelligence is integral to most\ngames, they can also be used to teach artificial intelligence. We introduce the\nGame AI Game Engine (GAIGE), a Python game engine specifically designed to\nteach about how AI is used in computer games. A progression of seven\nassignments builds toward a complete, working Multi-User Battle Arena (MOBA)\ngame. We describe the engine, the assignments, and our experiences using it in\na class on Game Artificial Intelligence.\n",
+    "link": "http://arxiv.org/abs/1511.07714v1",
+    "pdf": "http://arxiv.org/pdf/1511.07714v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "General Video Game AI: Learning from Screen Capture",
+    "authors": [
+      "\nKamolwan Kunanusont\n",
+      "\nSimon M. Lucas\n",
+      "\nDiego Perez-Liebana\n"
+    ],
+    "published": "2017-04-23T16:08:06Z",
+    "summary": "  General Video Game Artificial Intelligence is a general game playing\nframework for Artificial General Intelligence research in the video-games\ndomain. In this paper, we propose for the first time a screen capture learning\nagent for General Video Game AI framework. A Deep Q-Network algorithm was\napplied and improved to develop an agent capable of learning to play different\ngames in the framework. After testing this algorithm using various games of\ndifferent categories and difficulty levels, the results suggest that our\nproposed screen capture learning agent has the potential to learn many\ndifferent games using only a single learning algorithm.\n",
+    "link": "http://arxiv.org/abs/1704.06945v1",
+    "pdf": "http://arxiv.org/pdf/1704.06945v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Automatic Game Design via Mechanic Generation",
+    "authors": [
+      "\nAlexander Zook\n",
+      "\nMark O. Riedl\n"
+    ],
+    "published": "2019-08-04T23:12:16Z",
+    "summary": "  Game designs often center on the game mechanics---rules governing the logical\nevolution of the game. We seek to develop an intelligent system that generates\ncomputer games. As first steps towards this goal we present a composable and\ncross-domain representation for game mechanics that draws from AI planning\naction representations. We use a constraint solver to generate mechanics\nsubject to design requirements on the form of those mechanics---what they do in\nthe game. A planner takes a set of generated mechanics and tests whether those\nmechanics meet playability requirements---controlling how mechanics function in\na game to affect player behavior. We demonstrate our system by modeling and\ngenerating mechanics in a role-playing game, platformer game, and combined\nrole-playing-platformer game.\n",
+    "link": "http://arxiv.org/abs/1908.01420v1",
+    "pdf": "http://arxiv.org/pdf/1908.01420v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Game AI Research with Fast Planet Wars Variants",
+    "authors": [
+      "\nSimon M. Lucas\n"
+    ],
+    "published": "2018-06-22T08:18:53Z",
+    "summary": "  This paper describes a new implementation of Planet Wars, designed from the\noutset for Game AI research. The skill-depth of the game makes it a challenge\nfor game-playing agents, and the speed of more than 1 million game ticks per\nsecond enables rapid experimentation and prototyping. The parameterised nature\nof the game together with an interchangeable actuator model make it well suited\nto automated game tuning. The game is designed to be fun to play for humans,\nand is directly playable by General Video Game AI agents.\n",
+    "link": "http://arxiv.org/abs/1806.08544v1",
+    "pdf": "http://arxiv.org/pdf/1806.08544v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "MOBA: a New Arena for Game AI",
+    "authors": [
+      "\nVictor do Nascimento Silva\n",
+      "\nLuiz Chaimowicz\n"
+    ],
+    "published": "2017-05-30T03:12:03Z",
+    "summary": "  Games have always been popular testbeds for Artificial Intelligence (AI). In\nthe last decade, we have seen the rise of the Multiple Online Battle Arena\n(MOBA) games, which are the most played games nowadays. In spite of this, there\nare few works that explore MOBA as a testbed for AI Research. In this paper we\npresent and discuss the main features and opportunities offered by MOBA games\nto Game AI Research. We describe the various challenges faced along the game\nand also propose a discrete model that can be used to better understand and\nexplore the game. With this, we aim to encourage the use of MOBA as a novel\nresearch platform for Game AI.\n",
+    "link": "http://arxiv.org/abs/1705.10443v1",
+    "pdf": "http://arxiv.org/pdf/1705.10443v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "General Board Game Playing for Education and Research in Generic AI Game\n  Learning",
+    "authors": [
+      "\nWolfgang Konen\n"
+    ],
+    "published": "2019-07-11T13:02:25Z",
+    "summary": "  We present a new general board game (GBG) playing and learning framework. GBG\ndefines the common interfaces for board games, game states and their AI agents.\nIt allows one to run competitions of different agents on different games. It\nstandardizes those parts of board game playing and learning that otherwise\nwould be tedious and repetitive parts in coding. GBG is suitable for arbitrary\n1-, 2-, ..., N-player board games. It makes a generic TD($\\lambda$)-n-tuple\nagent for the first time available to arbitrary games. On various games,\nTD($\\lambda$)-n-tuple is found to be superior to other generic agents like\nMCTS. GBG aims at the educational perspective, where it helps students to start\nfaster in the area of game learning. GBG aims as well at the research\nperspective by collecting a growing set of games and AI agents to assess their\nstrengths and generalization capabilities in meaningful competitions. Initial\nsuccessful educational and research results are reported.\n",
+    "link": "http://arxiv.org/abs/1907.06508v1",
+    "pdf": "http://arxiv.org/pdf/1907.06508v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Playing 2048 With Reinforcement Learning",
+    "authors": [
+      "\nShilun Li\n",
+      "\nVeronica Peng\n"
+    ],
+    "published": "2021-10-20T05:02:31Z",
+    "summary": "  The game of 2048 is a highly addictive game. It is easy to learn the game,\nbut hard to master as the created game revealed that only about 1% games out of\nhundreds million ever played have been won. In this paper, we would like to\nexplore reinforcement learning techniques to win 2048. The approaches we have\ntook include deep Q-learning and beam search, with beam search reaching 2048\n28.5 of time.\n",
+    "link": "http://arxiv.org/abs/2110.10374v1",
+    "pdf": "http://arxiv.org/pdf/2110.10374v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Towards Game-Playing AI Benchmarks via Performance Reporting Standards",
+    "authors": [
+      "\nVanessa Volz\n",
+      "\nBoris Naujoks\n"
+    ],
+    "published": "2020-07-06T13:27:00Z",
+    "summary": "  While games have been used extensively as milestones to evaluate game-playing\nAI, there exists no standardised framework for reporting the obtained\nobservations. As a result, it remains difficult to draw general conclusions\nabout the strengths and weaknesses of different game-playing AI algorithms. In\nthis paper, we propose reporting guidelines for AI game-playing performance\nthat, if followed, provide information suitable for unbiased comparisons\nbetween different AI approaches. The vision we describe is to build benchmarks\nand competitions based on such guidelines in order to be able to draw more\ngeneral conclusions about the behaviour of different AI algorithms, as well as\nthe types of challenges different games pose.\n",
+    "link": "http://arxiv.org/abs/2007.02742v1",
+    "pdf": "http://arxiv.org/pdf/2007.02742v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "A Taxonomy of Collectible Card Games from a Game-Playing AI Perspective",
+    "authors": [
+      "\nRonaldo e Silva Vieira\n",
+      "\nAnderson Rocha Tavares\n",
+      "\nLuiz Chaimowicz\n"
+    ],
+    "published": "2024-10-08T19:04:12Z",
+    "summary": "  Collectible card games are challenging, widely played games that have\nreceived increasing attention from the AI research community in recent years.\nDespite important breakthroughs, the field still poses many unresolved\nchallenges. This work aims to help further research on the genre by proposing a\ntaxonomy of collectible card games by analyzing their rules, mechanics, and\ngame modes from the perspective of game-playing AI research. To achieve this,\nwe studied a set of popular games and provided a thorough discussion about\ntheir characteristics.\n",
+    "link": "http://arxiv.org/abs/2410.06299v1",
+    "pdf": "http://arxiv.org/pdf/2410.06299v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Applications of Artificial Intelligence in Live Action Role-Playing\n  Games (LARP)",
+    "authors": [
+      "\nChristoph Salge\n",
+      "\nEmily Short\n",
+      "\nMike Preuss\n",
+      "\nSpyridion Samothrakis\n",
+      "\nPieter Spronck\n"
+    ],
+    "published": "2020-08-25T13:41:35Z",
+    "summary": "  Live Action Role-Playing (LARP) games and similar experiences are becoming a\npopular game genre. Here, we discuss how artificial intelligence techniques,\nparticularly those commonly used in AI for Games, could be applied to LARP. We\ndiscuss the specific properties of LARP that make it a surprisingly suitable\napplication field, and provide a brief overview of some existing approaches. We\nthen outline several directions where utilizing AI seems beneficial, by both\nmaking LARPs easier to organize, and by enhancing the player experience with\nelements not possible without AI.\n",
+    "link": "http://arxiv.org/abs/2008.11003v1",
+    "pdf": "http://arxiv.org/pdf/2008.11003v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Similarity Measures based on Local Game Trees",
+    "authors": [
+      "\nSabrina Evans\n",
+      "\nPaolo Turrini\n"
+    ],
+    "published": "2019-02-25T15:06:26Z",
+    "summary": "  We study strategic similarity of game positions in two-player extensive games\nof perfect information, by looking at the structure of their local game trees,\nwith the aim of improving the performance of game playing agents in detecting\nforcing continuations. We present a range of measures over the induced game\ntrees and compare them against benchmark problems in chess, observing a\npromising level of accuracy in matching up trap states.\n",
+    "link": "http://arxiv.org/abs/1902.09335v1",
+    "pdf": "http://arxiv.org/pdf/1902.09335v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Project Thyia: A Forever Gameplayer",
+    "authors": [
+      "\nRaluca D. Gaina\n",
+      "\nSimon M. Lucas\n",
+      "\nDiego Perez-Liebana\n"
+    ],
+    "published": "2019-06-10T14:35:07Z",
+    "summary": "  The space of Artificial Intelligence entities is dominated by conversational\nbots. Some of them fit in our pockets and we take them everywhere we go, or\nallow them to be a part of human homes. Siri, Alexa, they are recognised as\npresent in our world. But a lot of games research is restricted to existing in\nthe separate realm of software. We enter different worlds when playing games,\nbut those worlds cease to exist once we quit. Similarly, AI game-players are\nrun once on a game (or maybe for longer periods of time, in the case of\nlearning algorithms which need some, still limited, period for training), and\nthey cease to exist once the game ends. But what if they didn't? What if there\nexisted artificial game-players that continuously played games, learned from\ntheir experiences and kept getting better? What if they interacted with the\nreal world and us, humans: live-streaming games, chatting with viewers,\naccepting suggestions for strategies or games to play, forming opinions on\npopular game titles? In this paper, we introduce the vision behind a new\nproject called Thyia, which focuses around creating a present, continuous,\n`always-on', interactive game-player.\n",
+    "link": "http://arxiv.org/abs/1906.04023v1",
+    "pdf": "http://arxiv.org/pdf/1906.04023v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "A Tutor Agent for MOBA Games",
+    "authors": [
+      "\nVictor do Nascimento Silva\n",
+      "\nLuiz Chaimowicz\n"
+    ],
+    "published": "2017-06-09T04:33:58Z",
+    "summary": "  Digital games have become a key player in the entertainment industry,\nattracting millions of new players each year. In spite of that, novice players\nmay have a hard time when playing certain types of games, such as MOBAs and\nMMORPGs, due to their steep learning curves and not so friendly online\ncommunities. In this paper, we present an approach to help novice players in\nMOBA games overcome these problems. An artificial intelligence agent plays\nalongside the player analyzing his/her performance and giving tips about the\ngame. Experiments performed with the game {\\em League of Legends} show the\npotential of this approach.\n",
+    "link": "http://arxiv.org/abs/1706.02832v1",
+    "pdf": "http://arxiv.org/pdf/1706.02832v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Deep Learning for Video Game Playing",
+    "authors": [
+      "\nNiels Justesen\n",
+      "\nPhilip Bontrager\n",
+      "\nJulian Togelius\n",
+      "\nSebastian Risi\n"
+    ],
+    "published": "2017-08-25T22:01:09Z",
+    "summary": "  In this article, we review recent Deep Learning advances in the context of\nhow they have been applied to play different types of video games such as\nfirst-person shooters, arcade games, and real-time strategy games. We analyze\nthe unique requirements that different game genres pose to a deep learning\nsystem and highlight important open challenges in the context of applying these\nmachine learning methods to video games, such as general game playing, dealing\nwith extremely large decision spaces and sparse rewards.\n",
+    "link": "http://arxiv.org/abs/1708.07902v3",
+    "pdf": "http://arxiv.org/pdf/1708.07902v3",
+    "source": "arXiv"
+  },
+  {
+    "title": "\"Press Space to Fire\": Automatic Video Game Tutorial Generation",
+    "authors": [
+      "\nMichael Cerny Green\n",
+      "\nAhmed Khalifa\n",
+      "\nGabriella A. B. Barros\n",
+      "\nJulian Togelius\n"
+    ],
+    "published": "2018-05-30T01:21:33Z",
+    "summary": "  We propose the problem of tutorial generation for games, i.e. to generate\ntutorials which can teach players to play games, as an AI problem. This problem\ncan be approached in several ways, including generating natural language\ndescriptions of game rules, generating instructive game levels, and generating\ndemonstrations of how to play a game using agents that play in a human-like\nmanner. We further argue that the General Video Game AI framework provides a\nuseful testbed for addressing this problem.\n",
+    "link": "http://arxiv.org/abs/1805.11768v1",
+    "pdf": "http://arxiv.org/pdf/1805.11768v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "ExIt-OOS: Towards Learning from Planning in Imperfect Information Games",
+    "authors": [
+      "\nAndy Kitchen\n",
+      "\nMichela Benedetti\n"
+    ],
+    "published": "2018-08-30T05:04:44Z",
+    "summary": "  The current state of the art in playing many important perfect information\ngames, including Chess and Go, combines planning and deep reinforcement\nlearning with self-play. We extend this approach to imperfect information games\nand present ExIt-OOS, a novel approach to playing imperfect information games\nwithin the Expert Iteration framework and inspired by AlphaZero. We use Online\nOutcome Sampling, an online search algorithm for imperfect information games in\nplace of MCTS. While training online, our neural strategy is used to improve\nthe accuracy of playouts in OOS, allowing a learning and planning feedback loop\nfor imperfect information games.\n",
+    "link": "http://arxiv.org/abs/1808.10120v2",
+    "pdf": "http://arxiv.org/pdf/1808.10120v2",
+    "source": "arXiv"
+  },
+  {
+    "title": "General Board Game Concepts",
+    "authors": [
+      "\n\u00c9ric Piette\n",
+      "\nMatthew Stephenson\n",
+      "\nDennis J. N. J. Soemers\n",
+      "\nCameron Browne\n"
+    ],
+    "published": "2021-07-02T13:39:10Z",
+    "summary": "  Many games often share common ideas or aspects between them, such as their\nrules, controls, or playing area. However, in the context of General Game\nPlaying (GGP) for board games, this area remains under-explored. We propose to\nformalise the notion of \"game concept\", inspired by terms generally used by\ngame players and designers. Through the Ludii General Game System, we describe\nconcepts for several levels of abstraction, such as the game itself, the moves\nplayed, or the states reached. This new GGP feature associated with the ludeme\nrepresentation of games opens many new lines of research. The creation of a\nhyper-agent selector, the transfer of AI learning between games, or explaining\nAI techniques using game terms, can all be facilitated by the use of game\nconcepts. Other applications which can benefit from game concepts are also\ndiscussed, such as the generation of plausible reconstructed rules for\nincomplete ancient games, or the implementation of a board game recommender\nsystem.\n",
+    "link": "http://arxiv.org/abs/2107.01078v1",
+    "pdf": "http://arxiv.org/pdf/2107.01078v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "People use fast, goal-directed simulation to reason about novel games",
+    "authors": [
+      "\nCedegao E. Zhang\n",
+      "\nKatherine M. Collins\n",
+      "\nLionel Wong\n",
+      "\nAdrian Weller\n",
+      "\nJoshua B. Tenenbaum\n"
+    ],
+    "published": "2024-07-19T07:59:04Z",
+    "summary": "  We can evaluate features of problems and their potential solutions well\nbefore we can effectively solve them. When considering a game we have never\nplayed, for instance, we might infer whether it is likely to be challenging,\nfair, or fun simply from hearing the game rules, prior to deciding whether to\ninvest time in learning the game or trying to play it well. Many studies of\ngame play have focused on optimality and expertise, characterizing how people\nand computational models play based on moderate to extensive search and after\nplaying a game dozens (if not thousands or millions) of times. Here, we study\nhow people reason about a range of simple but novel connect-n style board\ngames. We ask people to judge how fair and how fun the games are from very\nlittle experience: just thinking about the game for a minute or so, before they\nhave ever actually played with anyone else, and we propose a resource-limited\nmodel that captures their judgments using only a small number of partial game\nsimulations and almost no lookahead search.\n",
+    "link": "http://arxiv.org/abs/2407.14095v1",
+    "pdf": "http://arxiv.org/pdf/2407.14095v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Deceptive Games",
+    "authors": [
+      "\nDamien Anderson\n",
+      "\nMatthew Stephenson\n",
+      "\nJulian Togelius\n",
+      "\nChristian Salge\n",
+      "\nJohn Levine\n",
+      "\nJochen Renz\n"
+    ],
+    "published": "2018-01-31T20:06:05Z",
+    "summary": "  Deceptive games are games where the reward structure or other aspects of the\ngame are designed to lead the agent away from a globally optimal policy. While\nmany games are already deceptive to some extent, we designed a series of games\nin the Video Game Description Language (VGDL) implementing specific types of\ndeception, classified by the cognitive biases they exploit. VGDL games can be\nrun in the General Video Game Artificial Intelligence (GVGAI) Framework, making\nit possible to test a variety of existing AI agents that have been submitted to\nthe GVGAI Competition on these deceptive games. Our results show that all\ntested agents are vulnerable to several kinds of deception, but that different\nagents have different weaknesses. This suggests that we can use deception to\nunderstand the capabilities of a game-playing algorithm, and game-playing\nalgorithms to characterize the deception displayed by a game.\n",
+    "link": "http://arxiv.org/abs/1802.00048v2",
+    "pdf": "http://arxiv.org/pdf/1802.00048v2",
+    "source": "arXiv"
+  },
+  {
+    "title": "Strategic Argumentation is NP-Complete",
+    "authors": [
+      "\nGuido Governatori\n",
+      "\nFrancesco Olivieri\n",
+      "\nSimone Scannapieco\n",
+      "\nAntonino Rotolo\n",
+      "\nMatteo Cristani\n"
+    ],
+    "published": "2013-12-16T10:09:06Z",
+    "summary": "  In this paper we study the complexity of strategic argumentation for dialogue\ngames. A dialogue game is a 2-player game where the parties play arguments. We\nshow how to model dialogue games in a skeptical, non-monotonic formalism, and\nwe show that the problem of deciding what move (set of rules) to play at each\nturn is an NP-complete problem.\n",
+    "link": "http://arxiv.org/abs/1312.4287v1",
+    "pdf": "http://arxiv.org/pdf/1312.4287v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Survey of Artificial Intelligence for Card Games and Its Application to\n  the Swiss Game Jass",
+    "authors": [
+      "\nJoel Niklaus\n",
+      "\nMichele Alberti\n",
+      "\nVinaychandran Pondenkandath\n",
+      "\nRolf Ingold\n",
+      "\nMarcus Liwicki\n"
+    ],
+    "published": "2019-06-11T08:31:21Z",
+    "summary": "  In the last decades we have witnessed the success of applications of\nArtificial Intelligence to playing games. In this work we address the\nchallenging field of games with hidden information and card games in\nparticular. Jass is a very popular card game in Switzerland and is closely\nconnected with Swiss culture. To the best of our knowledge, performances of\nArtificial Intelligence agents in the game of Jass do not outperform top\nplayers yet. Our contribution to the community is two-fold. First, we provide\nan overview of the current state-of-the-art of Artificial Intelligence methods\nfor card games in general. Second, we discuss their application to the use-case\nof the Swiss card game Jass. This paper aims to be an entry point for both\nseasoned researchers and new practitioners who want to join in the Jass\nchallenge.\n",
+    "link": "http://arxiv.org/abs/1906.04439v1",
+    "pdf": "http://arxiv.org/pdf/1906.04439v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Game State Learning via Game Scene Augmentation",
+    "authors": [
+      "\nChintan Trivedi\n",
+      "\nKonstantinos Makantasis\n",
+      "\nAntonios Liapis\n",
+      "\nGeorgios N. Yannakakis\n"
+    ],
+    "published": "2022-07-04T09:40:14Z",
+    "summary": "  Having access to accurate game state information is of utmost importance for\nany artificial intelligence task including game-playing, testing, player\nmodeling, and procedural content generation. Self-Supervised Learning (SSL)\ntechniques have shown to be capable of inferring accurate game state\ninformation from the high-dimensional pixel input of game footage into\ncompressed latent representations. Contrastive Learning is a popular SSL\nparadigm where the visual understanding of the game's images comes from\ncontrasting dissimilar and similar game states defined by simple image\naugmentation methods. In this study, we introduce a new game scene augmentation\ntechnique -- named GameCLR -- that takes advantage of the game-engine to define\nand synthesize specific, highly-controlled renderings of different game states,\nthereby, boosting contrastive learning performance. We test our GameCLR\ntechnique on images of the CARLA driving simulator environment and compare it\nagainst the popular SimCLR baseline SSL method. Our results suggest that\nGameCLR can infer the game's state information from game footage more\naccurately compared to the baseline. Our proposed approach allows us to conduct\ngame artificial intelligence research by directly utilizing screen pixels as\ninput.\n",
+    "link": "http://arxiv.org/abs/2207.01289v2",
+    "pdf": "http://arxiv.org/pdf/2207.01289v2",
+    "source": "arXiv"
+  },
+  {
+    "title": "The Ludii Game Description Language is Universal",
+    "authors": [
+      "\nDennis J. N. J. Soemers\n",
+      "\n\u00c9ric Piette\n",
+      "\nMatthew Stephenson\n",
+      "\nCameron Browne\n"
+    ],
+    "published": "2022-05-01T11:52:40Z",
+    "summary": "  There are several different game description languages (GDLs), each intended\nto allow wide ranges of arbitrary games (i.e., general games) to be described\nin a single higher-level language than general-purpose programming languages.\nGames described in such formats can subsequently be presented as challenges for\nautomated general game playing agents, which are expected to be capable of\nplaying any arbitrary game described in such a language without prior knowledge\nabout the games to be played. The language used by the Ludii general game\nsystem was previously shown to be capable of representing equivalent games for\nany arbitrary, finite, deterministic, fully observable extensive-form game. In\nthis paper, we prove its universality by extending this to include finite\nnon-deterministic and imperfect-information games.\n",
+    "link": "http://arxiv.org/abs/2205.00451v3",
+    "pdf": "http://arxiv.org/pdf/2205.00451v3",
+    "source": "arXiv"
+  },
+  {
+    "title": "A Fast Evolutionary adaptation for MCTS in Pommerman",
+    "authors": [
+      "\nHarsh Panwar\n",
+      "\nSaswata Chatterjee\n",
+      "\nWil Dube\n"
+    ],
+    "published": "2021-11-26T23:26:33Z",
+    "summary": "  Artificial Intelligence, when amalgamated with games makes the ideal\nstructure for research and advancing the field. Multi-agent games have multiple\ncontrols for each agent which generates huge amounts of data while increasing\nsearch complexity. Thus, we need advanced search methods to find a solution and\ncreate an artificially intelligent agent. In this paper, we propose our novel\nEvolutionary Monte Carlo Tree Search (FEMCTS) agent which borrows ideas from\nEvolutionary Algorthims (EA) and Monte Carlo Tree Search (MCTS) to play the\ngame of Pommerman. It outperforms Rolling Horizon Evolutionary Algorithm (RHEA)\nsignificantly in high observability settings and performs almost as well as\nMCTS for most game seeds, outperforming it in some cases.\n",
+    "link": "http://arxiv.org/abs/2111.13770v1",
+    "pdf": "http://arxiv.org/pdf/2111.13770v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Playing With Neuroscience: Past, Present and Future of Neuroimaging and\n  Games",
+    "authors": [
+      "\nPaolo Burelli\n",
+      "\nLaurits Dixen\n"
+    ],
+    "published": "2024-03-06T12:38:18Z",
+    "summary": "  Videogames have been a catalyst for advances in many research fields, such as\nartificial intelligence, human-computer interaction or virtual reality. Over\nthe years, research in fields such as artificial intelligence has enabled the\ndesign of new types of games, while games have often served as a powerful tool\nfor testing and simulation. Can this also happen with neuroscience? What is the\ncurrent relationship between neuroscience and games research? what can we\nexpect from the future? In this article, we'll try to answer these questions,\nanalysing the current state-of-the-art at the crossroads between neuroscience\nand games and envisioning future directions.\n",
+    "link": "http://arxiv.org/abs/2403.15413v1",
+    "pdf": "http://arxiv.org/pdf/2403.15413v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Inducing game rules from varying quality game play",
+    "authors": [
+      "\nAlastair Flynn\n"
+    ],
+    "published": "2020-08-04T15:46:57Z",
+    "summary": "  General Game Playing (GGP) is a framework in which an artificial intelligence\nprogram is required to play a variety of games successfully. It acts as a test\nbed for AI and motivator of research. The AI is given a random game description\nat runtime which it then plays. The framework includes repositories of game\nrules. The Inductive General Game Playing (IGGP) problem challenges machine\nlearning systems to learn these GGP game rules by watching the game being\nplayed. In other words, IGGP is the problem of inducing general game rules from\nspecific game observations. Inductive Logic Programming (ILP) has shown to be a\npromising approach to this problem though it has been demonstrated that it is\nstill a hard problem for ILP systems. Existing work on IGGP has always assumed\nthat the game player being observed makes random moves. This is not\nrepresentative of how a human learns to play a game. With random gameplay\nsituations that would normally be encountered when humans play are not present.\nTo address this limitation, we analyse the effect of using intelligent versus\nrandom gameplay traces as well as the effect of varying the number of traces in\nthe training set. We use Sancho, the 2014 GGP competition winner, to generate\nintelligent game traces for a large number of games. We then use the ILP\nsystems, Metagol, Aleph and ILASP to induce game rules from the traces. We\ntrain and test the systems on combinations of intelligent and random data\nincluding a mixture of both. We also vary the volume of training data. Our\nresults show that whilst some games were learned more effectively in some of\nthe experiments than others no overall trend was statistically significant. The\nimplications of this work are that varying the quality of training data as\ndescribed in this paper has strong effects on the accuracy of the learned game\nrules; however one solution does not work for all games.\n",
+    "link": "http://arxiv.org/abs/2008.01664v1",
+    "pdf": "http://arxiv.org/pdf/2008.01664v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "The Many AI Challenges of Hearthstone",
+    "authors": [
+      "\nAmy K. Hoover\n",
+      "\nJulian Togelius\n",
+      "\nScott Lee\n",
+      "\nFernando de Mesentier Silva\n"
+    ],
+    "published": "2019-07-15T16:06:41Z",
+    "summary": "  Games have benchmarked AI methods since the inception of the field, with\nclassic board games such as Chess and Go recently leaving room for video games\nwith related yet different sets of challenges. The set of AI problems\nassociated with video games has in recent decades expanded from simply playing\ngames to win, to playing games in particular styles, generating game content,\nmodeling players etc. Different games pose very different challenges for AI\nsystems, and several different AI challenges can typically be posed by the same\ngame. In this article we analyze the popular collectible card game Hearthstone\n(Blizzard 2014) and describe a varied set of interesting AI challenges posed by\nthis game. Collectible card games are relatively understudied in the AI\ncommunity, despite their popularity and the interesting challenges they pose.\nAnalyzing a single game in-depth in the manner we do here allows us to see the\nentire field of AI and Games through the lens of a single game, discovering a\nfew new variations on existing research topics.\n",
+    "link": "http://arxiv.org/abs/1907.06562v1",
+    "pdf": "http://arxiv.org/pdf/1907.06562v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Introducing the Hearthstone-AI Competition",
+    "authors": [
+      "\nAlexander Dockhorn\n",
+      "\nSanaz Mostaghim\n"
+    ],
+    "published": "2019-05-06T12:53:36Z",
+    "summary": "  The Hearthstone AI framework and competition motivates the development of\nartificial intelligence agents that can play collectible card games. A special\nfeature of those games is the high variety of cards, which can be chosen by the\nplayers to create their own decks. In contrast to simpler card games, the value\nof many cards is determined by their possible synergies. The vast amount of\npossible decks, the randomness of the game, as well as the restricted\ninformation during the player's turn offer quite a hard challenge for the\ndevelopment of game-playing agents. This short paper introduces the competition\nframework and goes into more detail on the problems and challenges that need to\nbe faced during the development process.\n",
+    "link": "http://arxiv.org/abs/1906.04238v1",
+    "pdf": "http://arxiv.org/pdf/1906.04238v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "AI in Game Playing: Sokoban Solver",
+    "authors": [
+      "\nAnand Venkatesan\n",
+      "\nAtishay Jain\n",
+      "\nRakesh Grewal\n"
+    ],
+    "published": "2018-06-29T19:49:09Z",
+    "summary": "  Artificial Intelligence is becoming instrumental in a variety of\napplications. Games serve as a good breeding ground for trying and testing\nthese algorithms in a sandbox with simpler constraints in comparison to real\nlife. In this project, we aim to develop an AI agent that can solve the\nclassical Japanese game of Sokoban using various algorithms and heuristics and\ncompare their performances through standard metrics.\n",
+    "link": "http://arxiv.org/abs/1807.00049v1",
+    "pdf": "http://arxiv.org/pdf/1807.00049v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "GAVEL: Generating Games Via Evolution and Language Models",
+    "authors": [
+      "\nGraham Todd\n",
+      "\nAlexander Padula\n",
+      "\nMatthew Stephenson\n",
+      "\n\u00c9ric Piette\n",
+      "\nDennis J. N. J. Soemers\n",
+      "\nJulian Togelius\n"
+    ],
+    "published": "2024-07-12T16:08:44Z",
+    "summary": "  Automatically generating novel and interesting games is a complex task.\nChallenges include representing game rules in a computationally workable form,\nsearching through the large space of potential games under most such\nrepresentations, and accurately evaluating the originality and quality of\npreviously unseen games. Prior work in automated game generation has largely\nfocused on relatively restricted rule representations and relied on\ndomain-specific heuristics. In this work, we explore the generation of novel\ngames in the comparatively expansive Ludii game description language, which\nencodes the rules of over 1000 board games in a variety of styles and modes of\nplay. We draw inspiration from recent advances in large language models and\nevolutionary computation in order to train a model that intelligently mutates\nand recombines games and mechanics expressed as code. We demonstrate both\nquantitatively and qualitatively that our approach is capable of generating new\nand interesting games, including in regions of the potential rules space not\ncovered by existing games in the Ludii dataset. A sample of the generated games\nare available to play online through the Ludii portal.\n",
+    "link": "http://arxiv.org/abs/2407.09388v2",
+    "pdf": "http://arxiv.org/pdf/2407.09388v2",
+    "source": "arXiv"
+  },
+  {
+    "title": "Automated Let's Play Commentary",
+    "authors": [
+      "\nShukan Shah\n",
+      "\nMatthew Guzdial\n",
+      "\nMark O. Riedl\n"
+    ],
+    "published": "2019-09-05T03:30:26Z",
+    "summary": "  Let's Plays of video games represent a relatively unexplored area for\nexperimental AI in games. In this short paper, we discuss an approach to\ngenerate automated commentary for Let's Play videos, drawing on convolutional\ndeep neural networks. We focus on Let's Plays of the popular game Minecraft. We\ncompare our approach and a prior approach and demonstrate the generation of\nautomated, artificial commentary.\n",
+    "link": "http://arxiv.org/abs/1909.02195v2",
+    "pdf": "http://arxiv.org/pdf/1909.02195v2",
+    "source": "arXiv"
+  },
+  {
+    "title": "An Unsupervised Video Game Playstyle Metric via State Discretization",
+    "authors": [
+      "\nChiu-Chou Lin\n",
+      "\nWei-Chen Chiu\n",
+      "\nI-Chen Wu\n"
+    ],
+    "published": "2021-10-03T08:30:51Z",
+    "summary": "  On playing video games, different players usually have their own playstyles.\nRecently, there have been great improvements for the video game AIs on the\nplaying strength. However, past researches for analyzing the behaviors of\nplayers still used heuristic rules or the behavior features with the\ngame-environment support, thus being exhausted for the developers to define the\nfeatures of discriminating various playstyles. In this paper, we propose the\nfirst metric for video game playstyles directly from the game observations and\nactions, without any prior specification on the playstyle in the target game.\nOur proposed method is built upon a novel scheme of learning discrete\nrepresentations that can map game observations into latent discrete states,\nsuch that playstyles can be exhibited from these discrete states. Namely, we\nmeasure the playstyle distance based on game observations aligned to the same\nstates. We demonstrate high playstyle accuracy of our metric in experiments on\nsome video game platforms, including TORCS, RGSK, and seven Atari games, and\nfor different agents including rule-based AI bots, learning-based AI bots, and\nhuman players.\n",
+    "link": "http://arxiv.org/abs/2110.00950v1",
+    "pdf": "http://arxiv.org/pdf/2110.00950v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "AtDelfi: Automatically Designing Legible, Full Instructions For Games",
+    "authors": [
+      "\nMichael Cerny Green\n",
+      "\nAhmed Khalifa\n",
+      "\nGabriella A. B. Barros\n",
+      "\nTiago Machado\n",
+      "\nAndy Nealen\n",
+      "\nJulian Togelius\n"
+    ],
+    "published": "2018-07-11T23:02:43Z",
+    "summary": "  This paper introduces a fully automatic method for generating video game\ntutorials. The AtDELFI system (AuTomatically DEsigning Legible, Full\nInstructions for games) was created to investigate procedural generation of\ninstructions that teach players how to play video games. We present a\nrepresentation of game rules and mechanics using a graph system as well as a\ntutorial generation method that uses said graph representation. We demonstrate\nthe concept by testing it on games within the General Video Game Artificial\nIntelligence (GVG-AI) framework; the paper discusses tutorials generated for\neight different games. Our findings suggest that a graph representation scheme\nworks well for simple arcade style games such as Space Invaders and Pacman, but\nit appears that tutorials for more complex games might require higher-level\nunderstanding of the game than just single mechanics.\n",
+    "link": "http://arxiv.org/abs/1807.04375v2",
+    "pdf": "http://arxiv.org/pdf/1807.04375v2",
+    "source": "arXiv"
+  },
+  {
+    "title": "\"Did You Hear That?\" Learning to Play Video Games from Audio Cues",
+    "authors": [
+      "\nRaluca D. Gaina\n",
+      "\nMatthew Stephenson\n"
+    ],
+    "published": "2019-06-10T14:38:17Z",
+    "summary": "  Game-playing AI research has focused for a long time on learning to play\nvideo games from visual input or symbolic information. However, humans benefit\nfrom a wider array of sensors which we utilise in order to navigate the world\naround us. In particular, sounds and music are key to how many of us perceive\nthe world and influence the decisions we make. In this paper, we present\ninitial experiments on game-playing agents learning to play video games solely\nfrom audio cues. We expand the Video Game Description Language to allow for\naudio specification, and the General Video Game AI framework to provide new\naudio games and an API for learning agents to make use of audio observations.\nWe analyse the games and the audio game design process, include initial results\nwith simple Q~Learning agents, and encourage further research in this area.\n",
+    "link": "http://arxiv.org/abs/1906.04027v2",
+    "pdf": "http://arxiv.org/pdf/1906.04027v2",
+    "source": "arXiv"
+  },
+  {
+    "title": "Instruction-Driven Game Engine: A Poker Case Study",
+    "authors": [
+      "\nHongqiu Wu\n",
+      "\nXingyuan Liu\n",
+      "\nYan Wang\n",
+      "\nHai Zhao\n"
+    ],
+    "published": "2024-10-17T11:16:27Z",
+    "summary": "  The Instruction-Driven Game Engine (IDGE) project aims to democratize game\ndevelopment by enabling a large language model (LLM) to follow free-form game\ndescriptions and generate game-play processes. The IDGE allows users to create\ngames simply by natural language instructions, which significantly lowers the\nbarrier for game development. We approach the learning process for IDGEs as a\nNext State Prediction task, wherein the model autoregressively predicts the\ngame states given player actions. The computation of game states must be\nprecise; otherwise, slight errors could corrupt the game-play experience. This\nis challenging because of the gap between stability and diversity. To address\nthis, we train the IDGE in a curriculum manner that progressively increases its\nexposure to complex scenarios. Our initial progress lies in developing an IDGE\nfor Poker, which not only supports a wide range of poker variants but also\nallows for highly individualized new poker games through natural language\ninputs. This work lays the groundwork for future advancements in transforming\nhow games are created and played.\n",
+    "link": "http://arxiv.org/abs/2410.13441v1",
+    "pdf": "http://arxiv.org/pdf/2410.13441v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Monte Carlo Neural Fictitious Self-Play: Approach to Approximate Nash\n  equilibrium of Imperfect-Information Games",
+    "authors": [
+      "\nLi Zhang\n",
+      "\nWei Wang\n",
+      "\nShijian Li\n",
+      "\nGang Pan\n"
+    ],
+    "published": "2019-03-22T15:58:35Z",
+    "summary": "  Researchers on artificial intelligence have achieved human-level intelligence\nin large-scale perfect-information games, but it is still a challenge to\nachieve (nearly) optimal results (in other words, an approximate Nash\nEquilibrium) in large-scale imperfect-information games (i.e. war games,\nfootball coach or business strategies). Neural Fictitious Self Play (NFSP) is\nan effective algorithm for learning approximate Nash equilibrium of\nimperfect-information games from self-play without prior domain knowledge.\nHowever, it relies on Deep Q-Network, which is off-line and is hard to converge\nin online games with changing opponent strategy, so it can't approach\napproximate Nash equilibrium in games with large search scale and deep search\ndepth. In this paper, we propose Monte Carlo Neural Fictitious Self Play\n(MC-NFSP), an algorithm combines Monte Carlo tree search with NFSP, which\ngreatly improves the performance on large-scale zero-sum imperfect-information\ngames. Experimentally, we demonstrate that the proposed Monte Carlo Neural\nFictitious Self Play can converge to approximate Nash equilibrium in games with\nlarge-scale search depth while the Neural Fictitious Self Play can't.\nFurthermore, we develop Asynchronous Neural Fictitious Self Play (ANFSP). It\nuse asynchronous and parallel architecture to collect game experience. In\nexperiments, we show that parallel actor-learners have a further accelerated\nand stabilizing effect on training.\n",
+    "link": "http://arxiv.org/abs/1903.09569v2",
+    "pdf": "http://arxiv.org/pdf/1903.09569v2",
+    "source": "arXiv"
+  },
+  {
+    "title": "Learning to Play Stochastic Two-player Perfect-Information Games without\n  Knowledge",
+    "authors": [
+      "\nQuentin Cohen-Solal\n",
+      "\nTristan Cazenave\n"
+    ],
+    "published": "2023-02-08T20:27:45Z",
+    "summary": "  In this paper, we extend the Descent framework, which enables learning and\nplanning in the context of two-player games with perfect information, to the\nframework of stochastic games.\n  We propose two ways of doing this, the first way generalizes the search\nalgorithm, i.e. Descent, to stochastic games and the second way approximates\nstochastic games by deterministic games.\n  We then evaluate them on the game EinStein wurfelt nicht! against\nstate-of-the-art algorithms: Expectiminimax and Polygames (i.e. the Alpha Zero\nalgorithm). It is our generalization of Descent which obtains the best results.\nThe approximation by deterministic games nevertheless obtains good results,\npresaging that it could give better results in particular contexts.\n",
+    "link": "http://arxiv.org/abs/2302.04318v1",
+    "pdf": "http://arxiv.org/pdf/2302.04318v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Optimised Playout Implementations for the Ludii General Game System",
+    "authors": [
+      "\nDennis J. N. J. Soemers\n",
+      "\n\u00c9ric Piette\n",
+      "\nMatthew Stephenson\n",
+      "\nCameron Browne\n"
+    ],
+    "published": "2021-11-04T12:59:53Z",
+    "summary": "  This paper describes three different optimised implementations of playouts,\nas commonly used by game-playing algorithms such as Monte-Carlo Tree Search.\nEach of the optimised implementations is applicable only to specific sets of\ngames, based on their rules. The Ludii general game system can automatically\ninfer, based on a game's description in its general game description language,\nwhether any optimised implementations are applicable. An empirical evaluation\ndemonstrates major speedups over a standard implementation, with a median\nresult of running playouts 5.08 times as fast, over 145 different games in\nLudii for which one of the optimised implementations is applicable.\n",
+    "link": "http://arxiv.org/abs/2111.02839v1",
+    "pdf": "http://arxiv.org/pdf/2111.02839v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Graphical Potential Games",
+    "authors": [
+      "\nLuis E. Ortiz\n"
+    ],
+    "published": "2015-05-06T23:27:55Z",
+    "summary": "  Potential games, originally introduced in the early 1990's by Lloyd Shapley,\nthe 2012 Nobel Laureate in Economics, and his colleague Dov Monderer, are a\nvery important class of models in game theory. They have special properties\nsuch as the existence of Nash equilibria in pure strategies. This note\nintroduces graphical versions of potential games. Special cases of graphical\npotential games have already found applicability in many areas of science and\nengineering beyond economics, including artificial intelligence, computer\nvision, and machine learning. They have been effectively applied to the study\nand solution of important real-world problems such as routing and congestion in\nnetworks, distributed resource allocation (e.g., public goods), and\nrelaxation-labeling for image segmentation. Implicit use of graphical potential\ngames goes back at least 40 years. Several classes of games considered standard\nin the literature, including coordination games, local interaction games,\nlattice games, congestion games, and party-affiliation games, are instances of\ngraphical potential games. This note provides several characterizations of\ngraphical potential games by leveraging well-known results from the literature\non probabilistic graphical models. A major contribution of the work presented\nhere that particularly distinguishes it from previous work is establishing that\nthe convergence of certain type of game-playing rules implies that the\nagents/players must be embedded in some graphical potential game.\n",
+    "link": "http://arxiv.org/abs/1505.01539v1",
+    "pdf": "http://arxiv.org/pdf/1505.01539v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Prompting Fairness: Artificial Intelligence as Game Players",
+    "authors": [
+      "\nJazmia Henry\n"
+    ],
+    "published": "2024-02-08T16:24:40Z",
+    "summary": "  Utilitarian games such as dictator games to measure fairness have been\nstudied in the social sciences for decades. These games have given us insight\ninto not only how humans view fairness but also in what conditions the\nfrequency of fairness, altruism and greed increase or decrease. While these\ngames have traditionally been focused on humans, the rise of AI gives us the\nability to study how these models play these games. AI is becoming a constant\nin human interaction and examining how these models portray fairness in game\nplay can give us some insight into how AI makes decisions. Over 101 rounds of\nthe dictator game, I conclude that AI has a strong sense of fairness that is\ndependant of it it deems the person it is playing with as trustworthy, framing\nhas a strong effect on how much AI gives a recipient when designated the\ntrustee, and there may be evidence that AI experiences inequality aversion just\nas humans.\n",
+    "link": "http://arxiv.org/abs/2402.05786v2",
+    "pdf": "http://arxiv.org/pdf/2402.05786v2",
+    "source": "arXiv"
+  },
+  {
+    "title": "Gapoera: Application Programming Interface for AI Environment of\n  Indonesian Board Game",
+    "authors": [
+      "\nRian Adam Rajagede\n",
+      "\nGalang Prihadi Mahardhika\n"
+    ],
+    "published": "2021-10-22T17:12:35Z",
+    "summary": "  Currently, the development of computer games has shown a tremendous surge.\nThe ease and speed of internet access today have also influenced the\ndevelopment of computer games, especially computer games that are played\nonline. Internet technology has allowed computer games to be played in\nmultiplayer mode. Interaction between players in a computer game can be built\nin several ways, one of which is by providing balanced opponents. Opponents can\nbe developed using intelligent agents. On the other hand, research on\ndeveloping intelligent agents is also growing rapidly. In computer game\ndevelopment, one of the easiest ways to measure the performance of an\nintelligent agent is to develop a virtual environment that allows the\nintelligent agent to interact with other players. In this research, we try to\ndevelop an intelligent agent and virtual environment for the board game. To be\neasily accessible, the intelligent agent and virtual environment are then\ndeveloped into an Application Programming Interface (API) service called\nGapoera API. The Gapoera API service that is built is expected to help game\ndevelopers develop a game without having to think much about the artificial\nintelligence that will be embedded in the game. This service provides a basic\nmultilevel intelligent agent that can provide users with playing board games\ncommonly played in Indonesia. Although the Gapoera API can be used for various\ntypes of games, in this paper, we will focus on the discussion on a popular\ntraditional board game in Indonesia, namely Mancala. The test results conclude\nthat the multilevel agent concept developed has worked as expected. On the\nother hand, the development of the Gapoera API service has also been\nsuccessfully accessed on several game platforms.\n",
+    "link": "http://arxiv.org/abs/2110.11924v1",
+    "pdf": "http://arxiv.org/pdf/2110.11924v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "A Distributed AI Aided 3D Domino Game",
+    "authors": [
+      "\n\u015eahin Emrah Amrahov\n",
+      "\nOrhan A. Nooraden\n"
+    ],
+    "published": "2010-10-31T18:14:44Z",
+    "summary": "  In the article a turn-based game played on four computers connected via\nnetwork is investigated. There are three computers with natural intelligence\nand one with artificial intelligence. Game table is seen by each player's own\nview point in all players' monitors. Domino pieces are three dimensional. For\ndistributed systems TCP/IP protocol is used. In order to get 3D image,\nMicrosoft XNA technology is applied. Domino 101 game is nondeterministic game\nthat is result of the game depends on the initial random distribution of the\npieces. Number of the distributions is equal to the multiplication of following\ncombinations: . Moreover, in this game that is played by four people, players\nare divided into 2 pairs. Accordingly, we cannot predict how the player uses\nthe dominoes that is according to the dominoes of his/her partner or according\nto his/her own dominoes. The fact that the natural intelligence can be a player\nin any level affects the outcome. These reasons make it difficult to develop an\nAI. In the article four levels of AI are developed. The AI in the first level\nis equivalent to the intelligence of a child who knows the rules of the game\nand recognizes the numbers. The AI in this level plays if it has any domino,\nsuitable to play or says pass. In most of the games which can be played on the\ninternet, the AI does the same. But the AI in the last level is a master\nplayer, and it can develop itself according to its competitors' levels.\n",
+    "link": "http://arxiv.org/abs/1011.0187v1",
+    "pdf": "http://arxiv.org/pdf/1011.0187v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "The Dota 2 Bot Competition",
+    "authors": [
+      "\nJose M. Font\n",
+      "\nTobias Mahlmann\n"
+    ],
+    "published": "2021-03-04T10:49:47Z",
+    "summary": "  Multiplayer Online Battle Area (MOBA) games are a recent huge success both in\nthe video game industry and the international eSports scene. These games\nencourage team coordination and cooperation, short and long-term planning,\nwithin a real-time combined action and strategy gameplay.\n  Artificial Intelligence and Computational Intelligence in Games research\ncompetitions offer a wide variety of challenges regarding the study and\napplication of AI techniques to different game genres. These events are widely\naccepted by the AI/CI community as a sort of AI benchmarking that strongly\ninfluences many other research areas in the field.\n  This paper presents and describes in detail the Dota 2 Bot competition and\nthe Dota 2 AI framework that supports it. This challenge aims to join both,\nMOBAs and AI/CI game competitions, inviting participants to submit AI\ncontrollers for the successful MOBA \\textit{Defense of the Ancients 2} (Dota 2)\nto play in 1v1 matches, which aims for fostering research on AI techniques for\nreal-time games. The Dota 2 AI framework makes use of the actual Dota 2 game\nmodding capabilities to enable to connect external AI controllers to actual\nDota 2 game matches using the original Free-to-Play game.se of the actual Dota\n2 game modding capabilities to enable to connect external AI controllers to\nactual Dota 2 game matches using the original Free-to-Play game.\n",
+    "link": "http://arxiv.org/abs/2103.02943v1",
+    "pdf": "http://arxiv.org/pdf/2103.02943v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Efficient Evolutionary Methods for Game Agent Optimisation: Model-Based\n  is Best",
+    "authors": [
+      "\nSimon M. Lucas\n",
+      "\nJialin Liu\n",
+      "\nIvan Bravi\n",
+      "\nRaluca D. Gaina\n",
+      "\nJohn Woodward\n",
+      "\nVanessa Volz\n",
+      "\nDiego Perez-Liebana\n"
+    ],
+    "published": "2019-01-03T14:03:23Z",
+    "summary": "  This paper introduces a simple and fast variant of Planet Wars as a test-bed\nfor statistical planning based Game AI agents, and for noisy hyper-parameter\noptimisation. Planet Wars is a real-time strategy game with simple rules but\ncomplex game-play. The variant introduced in this paper is designed for speed\nto enable efficient experimentation, and also for a fixed action space to\nenable practical inter-operability with General Video Game AI agents. If we\ntreat the game as a win-loss game (which is standard), then this leads to\nchallenging noisy optimisation problems both in tuning agents to play the game,\nand in tuning game parameters. Here we focus on the problem of tuning an agent,\nand report results using the recently developed N-Tuple Bandit Evolutionary\nAlgorithm and a number of other optimisers, including Sequential Model-based\nAlgorithm Configuration (SMAC). Results indicate that the N-Tuple Bandit\nEvolutionary offers competitive performance as well as insight into the effects\nof combinations of parameter choices.\n",
+    "link": "http://arxiv.org/abs/1901.00723v1",
+    "pdf": "http://arxiv.org/pdf/1901.00723v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Ludii -- The Ludemic General Game System",
+    "authors": [
+      "\n\u00c9ric Piette\n",
+      "\nDennis J. N. J. Soemers\n",
+      "\nMatthew Stephenson\n",
+      "\nChiara F. Sironi\n",
+      "\nMark H. M. Winands\n",
+      "\nCameron Browne\n"
+    ],
+    "published": "2019-05-13T12:39:39Z",
+    "summary": "  While current General Game Playing (GGP) systems facilitate useful research\nin Artificial Intelligence (AI) for game-playing, they are often somewhat\nspecialised and computationally inefficient. In this paper, we describe the\n\"ludemic\" general game system Ludii, which has the potential to provide an\nefficient tool for AI researchers as well as game designers, historians,\neducators and practitioners in related fields. Ludii defines games as\nstructures of ludemes -- high-level, easily understandable game concepts --\nwhich allows for concise and human-understandable game descriptions. We\nformally describe Ludii and outline its main benefits: generality,\nextensibility, understandability and efficiency. Experimentally, Ludii\noutperforms one of the most efficient Game Description Language (GDL)\nreasoners, based on a propositional network, in all games available in the\nTiltyard GGP repository. Moreover, Ludii is also competitive in terms of\nperformance with the more recently proposed Regular Boardgames (RBG) system,\nand has various advantages in qualitative aspects such as generality.\n",
+    "link": "http://arxiv.org/abs/1905.05013v3",
+    "pdf": "http://arxiv.org/pdf/1905.05013v3",
+    "source": "arXiv"
+  },
+  {
+    "title": "A Decision-Optimization Approach to Quantum Mechanics and Game Theory",
+    "authors": [
+      "\nXiaofei Huang\n"
+    ],
+    "published": "2009-11-30T16:43:52Z",
+    "summary": "  The fundamental laws of quantum world upsets the logical foundation of\nclassic physics. They are completely counter-intuitive with many bizarre\nbehaviors. However, this paper shows that they may make sense from the\nperspective of a general decision-optimization principle for cooperation. This\nprinciple also offers a generalization of Nash equilibrium, a key concept in\ngame theory, for better payoffs and stability of game playing.\n",
+    "link": "http://arxiv.org/abs/0911.5548v2",
+    "pdf": "http://arxiv.org/pdf/0911.5548v2",
+    "source": "arXiv"
+  },
+  {
+    "title": "Reinforcement Learning for ConnectX",
+    "authors": [
+      "\nSheel Shah\n",
+      "\nShubham Gupta\n"
+    ],
+    "published": "2022-10-15T11:38:19Z",
+    "summary": "  ConnectX is a two-player game that generalizes the popular game Connect 4.\nThe objective is to get X coins across a row, column, or diagonal of an M x N\nboard. The first player to do so wins the game. The parameters (M, N, X) are\nallowed to change in each game, making ConnectX a novel and challenging\nproblem. In this paper, we present our work on the implementation and\nmodification of various reinforcement learning algorithms to play ConnectX.\n",
+    "link": "http://arxiv.org/abs/2210.08263v1",
+    "pdf": "http://arxiv.org/pdf/2210.08263v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "AI Researchers, Video Games Are Your Friends!",
+    "authors": [
+      "\nJulian Togelius\n"
+    ],
+    "published": "2016-12-06T00:46:57Z",
+    "summary": "  If you are an artificial intelligence researcher, you should look to video\ngames as ideal testbeds for the work you do. If you are a video game developer,\nyou should look to AI for the technology that makes completely new types of\ngames possible. This chapter lays out the case for both of these propositions.\nIt asks the question \"what can video games do for AI\", and discusses how in\nparticular general video game playing is the ideal testbed for artificial\ngeneral intelligence research. It then asks the question \"what can AI do for\nvideo games\", and lays out a vision for what video games might look like if we\nhad significantly more advanced AI at our disposal. The chapter is based on my\nkeynote at IJCCI 2015, and is written in an attempt to be accessible to a broad\naudience.\n",
+    "link": "http://arxiv.org/abs/1612.01608v1",
+    "pdf": "http://arxiv.org/pdf/1612.01608v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Evaluating Go Game Records for Prediction of Player Attributes",
+    "authors": [
+      "\nJosef Moud\u0159\u00edk\n",
+      "\nPetr Baudi\u0161\n",
+      "\nRoman Neruda\n"
+    ],
+    "published": "2015-12-30T15:09:51Z",
+    "summary": "  We propose a way of extracting and aggregating per-move evaluations from sets\nof Go game records. The evaluations capture different aspects of the games such\nas played patterns or statistic of sente/gote sequences. Using machine learning\nalgorithms, the evaluations can be utilized to predict different relevant\ntarget variables. We apply this methodology to predict the strength and playing\nstyle of the player (e.g. territoriality or aggressivity) with good accuracy.\nWe propose a number of possible applications including aiding in Go study,\nseeding real-work ranks of internet players or tuning of Go-playing programs.\n",
+    "link": "http://arxiv.org/abs/1512.08969v1",
+    "pdf": "http://arxiv.org/pdf/1512.08969v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Statistical Feature Combination for the Evaluation of Game Positions",
+    "authors": [
+      "\nM. Buro\n"
+    ],
+    "published": "1995-12-01T00:00:00Z",
+    "summary": "  This article describes an application of three well-known statistical methods\nin the field of game-tree search: using a large number of classified Othello\npositions, feature weights for evaluation functions with a\ngame-phase-independent meaning are estimated by means of logistic regression,\nFisher's linear discriminant, and the quadratic discriminant function for\nnormally distributed features. Thereafter, the playing strengths are compared\nby means of tournaments between the resulting versions of a world-class Othello\nprogram. In this application, logistic regression - which is used here for the\nfirst time in the context of game playing - leads to better results than the\nother approaches.\n",
+    "link": "http://arxiv.org/abs/cs/9512106v1",
+    "pdf": "http://arxiv.org/pdf/cs/9512106v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Artificial Intelligence: Game Playing Systems",
+    "authors": [
+      "J. Schaeffer"
+    ],
+    "year": 2005,
+    "abstract": "This article has no abstract. \n \nKeywords: \n \nartificial intelligence: game playing systems; \ncomputational intelligence",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/5c62d612ca1243b1908ad96657dd0dae2c62b5b1",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Artificial intelligence in sport management education: Playing the AI game with ChatGPT",
+    "authors": [
+      "Margaret C. Keiper",
+      "Gil Fried",
+      "J. Lupinek",
+      "Heidi E. Nordstrom"
+    ],
+    "year": 2023,
+    "abstract": null,
+    "citations": 33,
+    "url": "https://www.semanticscholar.org/paper/ad130483986d11ba853b9efe683dc5e436d936c9",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "The Quest for Artificial Intelligence: Game Playing",
+    "authors": [
+      "N. Nilsson"
+    ],
+    "year": 2009,
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/62065cdf493a52f730e63f820be6f2ee30b2b9df",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Playing the Werewolf game with artificial intelligence for language understanding",
+    "authors": [
+      "Hisaichi Shibata",
+      "S. Miki",
+      "Yuta Nakamura"
+    ],
+    "year": 2023,
+    "abstract": "The Werewolf game is a social deduction game based on free natural language communication, in which players try to deceive others in order to survive. An important feature of this game is that a large portion of the conversations are false information, and the behavior of artificial intelligence (AI) in such a situation has not been widely investigated. The purpose of this study is to develop an AI agent that can play Werewolf through natural language conversations. First, we collected game logs from 15 human players. Next, we fine-tuned a Transformer-based pretrained language model to construct a value network that can predict a posterior probability of winning a game at any given phase of the game and given a candidate for the next action. We then developed an AI agent that can interact with humans and choose the best voting target on the basis of its probability from the value network. Lastly, we evaluated the performance of the agent by having it actually play the game with human players. We found that our AI agent, Deep Wolf, could play Werewolf as competitively as average human players in a villager or a betrayer role, whereas Deep Wolf was inferior to human players in a werewolf or a seer role. These results suggest that current language models have the capability to suspect what others are saying, tell a lie, or detect lies in conversations.",
+    "citations": 10,
+    "url": "https://www.semanticscholar.org/paper/04a343ffba0120ac02e3138ffd6d7b85f753846b",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Designing Game-Based Learning for High School Artificial Intelligence Education",
+    "authors": [
+      "Maxyn Leitner",
+      "E. Greenwald",
+      "Ning Wang",
+      "Ryan Montgomery",
+      "Chirag Merchant"
+    ],
+    "year": 2023,
+    "abstract": null,
+    "citations": 12,
+    "url": "https://www.semanticscholar.org/paper/35b7abe349c92cd9512cec967700e654ef853921",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Application of Artificial Intelligence to the Development of Playing Ability in the Valorant Game",
+    "authors": [
+      "Adwita Fernanda",
+      "Abid Renata Fadri Geovanni",
+      "M. Huda"
+    ],
+    "year": 2022,
+    "abstract": "\u00a0From children to adults, everyone enjoys playing online games as a form of entertainment. Online games have a more popular market because they can meet other players worldwide connected to the internet. NPCs (players controlled by a computer system) are also available in online games as player substitutes or for skill practice. As a result, we have been interacting with artificial intelligence in the competition and our environment without realizing it. The game's AI (Artificial Intelligent) can offer an experience similar to playing with other players. Artificial intelligence may always influence online games, whether to replace opponents or choose the game's plot. First Person Shooter (FPS) game Valorant was made available for free on the Windows platform by Riot Games. With a CS: GO-like concept (Counter Strike Global Offensive). The amount of money you have available for each round must be calculated at the equipment purchasing phase to produce effective gaming equipment. The Greedy Algorithm is one of the algorithms that can be used to choose the equipment for the money/cred owned. This algorithm will select the most expensive item the player can buy each round so that the player's chances of winning that round increase.",
+    "citations": 3,
+    "url": "https://www.semanticscholar.org/paper/36fc3b034faebf3b2e4cbe8c7a7d65e25714fc7c",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Teaching Artificial Intelligence to K-12 Through a Role-Playing Game Questioning the Intelligence Concept",
+    "authors": [
+      "Julie Henry",
+      "Alyson Hernalesteen",
+      "Anne-Sophie Collard"
+    ],
+    "year": 2021,
+    "abstract": null,
+    "citations": 36,
+    "url": "https://www.semanticscholar.org/paper/2e895113eeed00d2f3ab818f6afbeaf5e51e2a76",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "A systematic literature review of game-based learning in Artificial Intelligence education",
+    "authors": [
+      "Zehui Zhan",
+      "Yao Tong",
+      "Xixin Lan",
+      "Baichang Zhong"
+    ],
+    "year": 2022,
+    "abstract": "ABSTRACT In recent years, Game-Based Learning (GBL) has been widely adopted in various educational settings. This paper aims to review empirical studies that adopt GBL in the field of AI education and explore its future research perspectives. After a systematic keyword search in the online database and a snowballing approach, a total of 125 empirical papers with 133 studies were targeted as samples. Results indicated that the games in AI education are mainly fell into five categories: Puzzle games are the most used in the curriculum (27.07%), followed by Reasoning strategy games (23.31%), Robot games (18.05%), Role-playing games (9.02%) and Simulation games (6.77%). Among them, 22.39% of games were with real characters, 11.94% were with virtual characters and 64.18% were with no characters. Besides, games were used in three main forms in AI education: games as teaching tools (78.95%), games as student works (12.03%), and games as a competing mechanism (9.02%). Researchers mainly paid attention to the effect of GBL on students\u2019 Opinions and Attitude (52.96%) and Learning achievement (24.04%), while the other three categories such as Skills and ability, Interaction, and Cognition were not extensively measured. The cross-sectional analysis, research gaps, and potential directions for future research were also discussed.",
+    "citations": 34,
+    "url": "https://www.semanticscholar.org/paper/c43b15ec14a28650e94804e6e2c5054daf565086",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Implementation of Finite State Machine Models on the Artificial Intelligence System of Characters in The Game \"MMORPG\" using RPG Maker",
+    "authors": [
+      "Tengku Syahdina",
+      "M. H. Pardede",
+      "Fuzy Yustika Manik"
+    ],
+    "year": 2023,
+    "abstract": "Technological developments are the main drivers of global social, economic, and cultural change, including in the rapidly growing gaming industry. The Role-Playing Game (RPG) genre, in which players portray characters in the game's story, is gaining popularity. The application of FSM Models and AI technology in character development and RPG game interaction not only resulted in exciting entertainment, but also inspired similar uses in various fields. With AI, characters interact dynamically with players and environments, and FSM Models govern complex character behavior, the game experience is even more immersive. RPG Maker, one of the popular engines, simplifies the process of creating RPG games with an easy user interface. The implementation of the FSM Model is done through events and switches, directing storylines and character situations with structured logic. This study analyzes the application of FSM Model in MMORPG RPG games. Through the design, testing, and analysis stages, FSM proved effective in creating games that combine entertainment with learning. This game invites players to look for requirements and challenges to proceed to the next level. The result is an MMORPG game played on a PC with a Windows operating system, providing an educational and entertaining gaming experience.",
+    "citations": 3,
+    "url": "https://www.semanticscholar.org/paper/babd5c9d263f67b0a38ca9e82b3677a22c818d57",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "How to advance general game playing artificial intelligence by player modelling",
+    "authors": [
+      "Ben Cowley"
+    ],
+    "year": 2016,
+    "abstract": "General game playing artificial intelligence has recently seen important advances due to the various techniques known as 'deep learning'. However the advances conceal equally important limitations in their reliance on: massive data sets; fortuitously constructed problems; and absence of any human-level complexity, including other human opponents. On the other hand, deep learning systems which do beat human champions, such as in Go, do not generalise well. The power of deep learning simultaneously exposes its weakness. Given that deep learning is mostly clever reconfigurations of well-established methods, moving beyond the state of art calls for forward-thinking visionary solutions, not just more of the same. I present the argument that general game playing artificial intelligence will require a generalised player model. This is because games are inherently human artefacts which therefore, as a class of problems, contain cases which require a human-style problem solving approach. I relate this argument to the performance of state of art general game playing agents. I then describe a concept for a formal category theoretic basis to a generalised player model. This formal model approach integrates my existing 'Behavlets' method for psychologically-derived player modelling: \nCowley, B., Charles, D. (2016). Behavlets: a Method for Practical Player Modelling using Psychology-Based Player Traits and Domain Specific Features. User Modeling and User-Adapted Interaction, 26(2), 257-306.",
+    "citations": 2,
+    "url": "https://www.semanticscholar.org/paper/454ce750fd0fbc0d1c0036f71af02a2c351e922a",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "GreedyUCB1 based Monte-Carlo Tree Search for General Video Game Playing Artificial Intelligence",
+    "authors": [
+      "Hyun-Soo Park",
+      "Hyun-Tae Kim",
+      "Kyung-Joong Kim"
+    ],
+    "year": 2015,
+    "abstract": "Generally, the existing Artificial Intelligence (AI) systems were designed for specific purposes and their capabilities handle only specific problems. Alternatively, Artificial General Intelligence can solve new problems as well as those that are already known. Recently, General Video Game Playing the game AI version of General Artificial Intelligence, has garnered a large amount of interest among Game Artificial Intelligence communities. Although video games are the sole concern, the design of a single AI that is capable of playing various video games is not an easy process. In this paper, we propose a GreedyUCB1 algorithm and rollout method that were formulated using the knowledge from a game analysis for the Monte-Carlo Tree Search game AI. An AI that used our method was ranked fourth at the GVG-AI (General Video Game-Artificial Intelligence) competition of the IEEE international conference of CIG (Computational Intelligence in Games) 2014.",
+    "citations": 3,
+    "url": "https://www.semanticscholar.org/paper/5a215284dbac71756b2df92ec2fb321e56c268fb",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Sorting Out the Virtual Patient: How to Exploit Artificial Intelligence, Game Technology and Sound Educational Practices to Create Engaging Role-Playing Simulations",
+    "authors": [
+      "T. Talbot",
+      "Kenji Sagae",
+      "Bruce John",
+      "A. Rizzo"
+    ],
+    "year": 2012,
+    "abstract": null,
+    "citations": 73,
+    "url": "https://www.semanticscholar.org/paper/309d651aa7a56b13d6f5763f77fcb59e0c1a207f",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Challenging Artificial Intelligence with Multi-Opponent and Multi-Movement Prediction for the Card Game Big2",
+    "authors": [
+      "Lien-Wu Chen",
+      "Yi Lu"
+    ],
+    "year": 2022,
+    "abstract": "Big2 is one of the most popular card games in Chinese residential regions; however, there is lack of advanced computer players with challenging artificial intelligence. In this study, we propose the Big2 artificial intelligence (Big2AI) framework consisting of card superiority analysis, dynamic weight adjustment, game feature learning, and multi-opponent movement prediction based on Monte Carlo Tree Search (MCTS) and Information Set Monte Carlo Tree Search (ISMCTS). According to our review of relevant research, this is the first artificial intelligence framework that can perform self-playing with various computer players, improve win rates through historical game features, and predict multiple movements of multiple opponents in the card game Big2. An Android-based prototype of four-player Big2 game is implemented to verify the feasibility and superiority of Big2AI. Experimental results show that Big2AI outperforms existing artificial intelligence and can achieve the highest win rate and the least losing points against computer and human players in Big2 games.",
+    "citations": 2,
+    "url": "https://www.semanticscholar.org/paper/13c00ab010e4d9936cf8e080b37718c6557cd87f",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Artificial Intelligence : Game Techniques Ludo-A Case Study",
+    "authors": [
+      "Veenus Chhabra",
+      "Kuldeep Tomar"
+    ],
+    "year": 2015,
+    "abstract": "Today wide range of people are engaged in playing games. Games are most common in all the age groups, whether being a kid or a young or it\u2019s an old aged person. Gaming is growing at a faster rate day by day in the field of entertainment. Specially, where artificial intelligence is there that means the end user along with live user is also playing. Therefore, artificial intelligence is most important for making the game more interactive and entertaining for the user. As mobile phones are in boom, we can see games are moving from boards and grounds to hand held screens. Ludo is one such example. Ludo is very common game, that is implemented using Q-learning, which is a type of re-inforcement learning. It is optimally customized to reduce the complexity.",
+    "citations": 3,
+    "url": "https://www.semanticscholar.org/paper/2b63277508b6d2909ff75c18c5c098ce64135dca",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Immersive Activities in Educational Role-Playing Game Based on Appreciative Learning and Artificial Intelligence",
+    "authors": [
+      "Hanny Haryanto",
+      "Umi Rosyidah",
+      "Acun Kardianawati"
+    ],
+    "year": 2019,
+    "abstract": "Experience design is a vital factor in improving course material understanding in educational game design. In Role-Playing Game (RPG) educational games, the activity is one of the main elements in shaping the experience. However, the absence of a model for activity design in educational RPG causes the resulting activities to be poorly conceived and lack of synchronization between gaming and educational principles. This paper discusses the design of an activity-based scenario, where the scenario is a collection of activities. Intelligent scenario directs in-game activity using dynamic rewards whose behavior is regulated using artificial intelligence with the Finite State Machine method. Then the resulting behavior is grouped into activity based on Appreciative Learning concept. Appreciative Learning is a concept in learning that focuses on positivity and an optimistic future. This concept consists of four stages, namely Discovery, Dream, Design, and Destiny. The intelligent scenario in this study is part of the Adaptive RPG For Education project, which contributes to the design of adaptive scenarios. Intelligent scenario produces an immersive experience in the form of activities with rewards that are conceptualized and synchronized between gaming and educational principles.",
+    "citations": 6,
+    "url": "https://www.semanticscholar.org/paper/5e04c634e291ec129f04d5c004b8cec8ec171d91",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Probably not a game: Playing with the AI in the ritual of taking pictures on the mobile phone",
+    "authors": [
+      "Christina Neumayer",
+      "M. Sicart"
+    ],
+    "year": 2023,
+    "abstract": "This research explores mediated ritual interactions in the form of pictures taken using a mobile device in tandem with two critical designs: Probably Not and World to GIF. We take our point of departure in Rich Ling\u2019s understanding of mobile interaction as a ritual of social cohesion and social bonding to explore sociotechnical interactions with mobile technology. By means of playful critical interaction design methods, we explore how deviance from the ritual of mediated interaction through taking pictures on the mobile phone may enhance our understanding of artificial agents. Building upon Ling\u2019s work, we mobilize the ritual aspect of mobile communication to open possibilities for imagining alternatives of seeing the world through artificial intelligence. We conclude by arguing that playful designs in mobile communication research may allow us to disassemble and reassemble mobile apps which enables critical reflection on the role of artificial agents in mobile rituals.",
+    "citations": 5,
+    "url": "https://www.semanticscholar.org/paper/a634df758e0bd31a92b550045b84c0144495b2b7",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Catalyzing next-generation Artificial Intelligence through NeuroAI",
+    "authors": [
+      "A. Zador",
+      "Sean Escola",
+      "B. Richards",
+      "B. \u00d6lveczky",
+      "Y. Bengio",
+      "K. Boahen",
+      "M. Botvinick",
+      "D. Chklovskii",
+      "A. Churchland",
+      "C. Clopath",
+      "J. DiCarlo",
+      "Surya",
+      "Ganguli",
+      "J. Hawkins",
+      "Konrad Paul Kording",
+      "A. Koulakov",
+      "Yann LeCun",
+      "T. Lillicrap",
+      "Adam",
+      "Marblestone",
+      "B. Olshausen",
+      "A. Pouget",
+      "Cristina Savin",
+      "T. Sejnowski",
+      "Eero P. Simoncelli",
+      "S. Solla",
+      "David Sussillo",
+      "A. Tolias",
+      "D. Tsao"
+    ],
+    "year": 2022,
+    "abstract": null,
+    "citations": 131,
+    "url": "https://www.semanticscholar.org/paper/5cba4b2a4d0b74c8aad0c94b6f468f6c86ee3db9",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Artificial intelligence moving serious gaming: Presenting reusable game AI components",
+    "authors": [
+      "W. Westera",
+      "R. Prada",
+      "S. Mascarenhas",
+      "P. A. Santos",
+      "Jo\u00e3o Dias",
+      "Manuel Guimar\u00e3es",
+      "K. Georgiadis",
+      "E. Nyamsuren",
+      "Kiavash Bahreini",
+      "Zerrin Yumak",
+      "Christyowidiasmoro Christyowidiasmoro",
+      "M. Dascalu",
+      "Gabriel Gutu-Robu",
+      "Stefan Ruseti"
+    ],
+    "year": 2019,
+    "abstract": null,
+    "citations": 65,
+    "url": "https://www.semanticscholar.org/paper/84f4899b34e1326d317c70b5cb677c47bf57d46a",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Matching Games and Algorithms for General Video Game Playing",
+    "authors": [
+      "Philip Bontrager",
+      "A. Khalifa",
+      "Andr\u00e9 Mendes",
+      "J. Togelius"
+    ],
+    "year": 2021,
+    "abstract": "\n \n This paper examines the performance of a number of AI agents on the games included in the General Video Game Playing Competition. Through analyzing these results, the paper seeks to provide insight into the strengths and weaknesses of the current generation of video game playing algorithms. The paper also provides an analysis of the given games in terms of inherent features which define the different games. Finally, the game features are matched with AI agents, based on performance, in order to demonstrate a plausible case for algorithm portfolios as a general video game playing technique.\n \n",
+    "citations": 55,
+    "url": "https://www.semanticscholar.org/paper/7d73179c58581f0516cb4fa1bb141e6d59568701",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "General Video Game Artificial Intelligence",
+    "authors": [
+      "Diego Perez Liebana",
+      "S. Lucas",
+      "Raluca D. Gaina",
+      "J. Togelius",
+      "A. Khalifa",
+      "Jialin Liu"
+    ],
+    "year": 2019,
+    "abstract": "Abstract Research on general video game playing aims at designing agents or content generators that can perform well in multiple video games, possibly without knowing the game in advance and with l...",
+    "citations": 20,
+    "url": "https://www.semanticscholar.org/paper/d2438787ea729cb7d814268a790b8f6dafd37745",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Width-Based Planning for General Video-Game Playing",
+    "authors": [
+      "Tomas Geffner",
+      "Hector Geffner"
+    ],
+    "year": 2021,
+    "abstract": "\n \n IW(1) is a simple search algorithm that assumes that states can be characterized in terms of a set of boolean features or atoms. IW(1) consists of a standard breadth-first search with one variation: a newly generated state is pruned if it does not make a new atom true. Thus, while a breadth-first search runs in time that is exponential in the number of atoms, IW(1) runs in linear time. Variations of the algorithm have been shown to yield state-of-the-art results in classical planning and more recently in the Atari video games. In this paper, we use the algorithm for selecting actions in the games of the general video-game AI competition (GVG-AI) which, unlike classical planning problems and the Atari games, are stochastic. We evaluate a variation of the algorithm over 30 games under different time windows using the number of wins as the performance measure. We find that IW(1) does better than the sample MCTS and OLMCTS controllers for all time windows with the performance gap growing with the window size. The exception are the puzzle-like games where all the algorithms do poorly. For such problems, we show that much better results can be obtained with the IW(2) algorithm, which is like IW(1), except that states are pruned in the breadth-first search when they fail to make true a new pair of atoms.\n \n",
+    "citations": 35,
+    "url": "https://www.semanticscholar.org/paper/8b8125689c5d677e2f7dedf02c602e39c4f47fac",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence",
+    "authors": [
+      "J. Holland"
+    ],
+    "year": 1992,
+    "abstract": "From the Publisher: \nGenetic algorithms are playing an increasingly important role in studies of complex adaptive systems, ranging from adaptive agents in economic theory to the use of machine learning techniques in the design of complex devices such as aircraft turbines and integrated circuits. Adaptation in Natural and Artificial Systems is the book that initiated this field of study, presenting the theoretical foundations and exploring applications. \nIn its most familiar form, adaptation is a biological process, whereby organisms evolve by rearranging genetic material to survive in environments confronting them. In this now classic work, Holland presents a mathematical model that allows for the nonlinearity of such complex interactions. He demonstrates the model's universality by applying it to economics, physiological psychology, game theory, and artificial intelligence and then outlines the way in which this approach modifies the traditional views of mathematical genetics. \nInitially applying his concepts to simply defined artificial systems with limited numbers of parameters, Holland goes on to explore their use in the study of a wide range of complex, naturally occuring processes, concentrating on systems having multiple factors that interact in nonlinear ways. Along the way he accounts for major effects of coadaptation and coevolution: the emergence of building blocks, or schemata, that are recombined and passed on to succeeding generations to provide, innovations and improvements. \nJohn H. Holland is Professor of Psychology and Professor of Electrical Engineering and Computer Science at the University of Michigan. He is also Maxwell Professor at the Santa Fe Institute and isDirector of the University of Michigan/Santa Fe Institute Advanced Research Program.",
+    "citations": 40032,
+    "url": "https://www.semanticscholar.org/paper/4b4279db68b16e20fbc56f9d41980a950191d30a",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "A Game-centric Approach to Teaching Artificial Intelligence",
+    "authors": [
+      "M. Pouly",
+      "T. Koller",
+      "Ruedi Arnold"
+    ],
+    "year": 2019,
+    "abstract": "Man vs. machine competitions have always been attracting much public attention and the famous defeats of human champions in chess, Jeopardy!, Go or poker undoubtedly mark important milestones in the history of artificial intelligence. In this article we reflect on our experiences with a game-centric approach to teaching artificial intelligence that follows the historical development of algorithms by popping the hood of these champion bots. Moreover, we made available a server infrastructure for playing card games in perfect information and imperfect information playing mode, where students can evaluate their implementations of increasingly sophisticated game-playing algorithms in weekly online competitions, i.e. from rule-based systems to exhaustive and heuristic search in game trees to deep learning enhanced Monte Carlo methods and reinforcement learning completely freed of human domain knowledge. The evaluation of this particular course setting revealed enthusiastic feedback not only from students but also from the university authority. What started as an experiment became part of the standard computer science curriculum after just one implementation.",
+    "citations": 7,
+    "url": "https://www.semanticscholar.org/paper/d8727418a0bbae8038658871abd5cf1a9644242c",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Survey of Artificial Intelligence for Card Games and Its Application to the Swiss Game Jass",
+    "authors": [
+      "Joel Niklaus",
+      "Michele Alberti",
+      "Vinaychandran Pondenkandath",
+      "R. Ingold",
+      "M. Liwicki"
+    ],
+    "year": 2019,
+    "abstract": "In the last decades we have witnessed the success of applications of Artificial Intelligence to playing games. In this work we address the challenging field of games with hidden information and card games in particular. Jass is a very popular card game in Switzerland and is closely connected with Swiss culture. To the best of our knowledge, performances of Artificial Intelligence agents in the game of Jass do not outperform top players yet. Our contribution to the community is two-fold. First, we provide an overview of the current state-of-the-art of Artificial Intelligence methods for card games in general. Second, we discuss their application to the use-case of the Swiss card game Jass. This paper aims to be an entry point for both seasoned researchers and new practitioners who want to join in the Jass challenge.",
+    "citations": 8,
+    "url": "https://www.semanticscholar.org/paper/99703ca243306f5eb0d0db4215c0956f87feec53",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "On Human-Like Performance Artificial Intelligence - A Demonstration Using an Atari Game",
+    "authors": [
+      "Seng-Beng Ho",
+      "Xiwen Yang",
+      "Therese Quieta",
+      "Gangeshwar Krishnamurthy",
+      "Fiona Liausvia"
+    ],
+    "year": 2019,
+    "abstract": null,
+    "citations": 5,
+    "url": "https://www.semanticscholar.org/paper/4c5d5af22bc1e99fd5d3167659440b17edb0c9cd",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Proceedings of the Twenty-Second International Joint Conference on Artificial Intelligence The General Game Playing Description Language Is Universal",
+    "authors": [],
+    "year": null,
+    "abstract": null,
+    "citations": 50,
+    "url": "https://www.semanticscholar.org/paper/fd6d98590770084722b8adfd8e0b1d591479a467",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "\u0410\u0434\u0430\u043f\u0442\u0438\u0432\u043d\u0438\u0439 \u0448\u0442\u0443\u0447\u043d\u0438\u0439 \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442 \u0443 RPG-\u0433\u0440\u0456 \u043d\u0430 \u0456\u0433\u0440\u043e\u0432\u043e\u043c\u0443 \u0440\u0443\u0448\u0456\u0457 Unity (Adaptive artificial intelligence in RPG-game on the Unity game engine)",
+    "authors": [
+      "Oleh M. Haranin",
+      "N. Moiseienko"
+    ],
+    "year": 2018,
+    "abstract": "The purpose of this study is development of RPG-game with built-in adaptive artificial intelligence on the Unity game engine. Objectives of study: development of the system of adaptation of playing situations depending on the actions of player and attachment of this mechanism to the playing process. The object of research: computer RPG-games on the game engines. The subject of research: computer RPG-games with built-in adaptive artificial intelligence on the game engines. Results of the study is developed RPG-game with built-in adaptive artificial intelligence. \u041c\u0435\u0442\u043e\u044e \u0434\u043e\u0441\u043b\u0456\u0434\u0436\u0435\u043d\u043d\u044f \u0454 \u0440\u043e\u0437\u0440\u043e\u0431\u0438\u0442\u0438 \u043a\u043e\u043c\u043f\u2019\u044e\u0442\u0435\u0440\u043d\u0443 RPG-\u0433\u0440\u0443 \u0456\u0437 \u0432\u0431\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u043c \u0430\u0434\u0430\u043f\u0442\u0438\u0432\u043d\u0438\u043c \u0448\u0442\u0443\u0447\u043d\u0438\u043c \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u043e\u043c \u0437\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u043e\u044e \u0440\u0443\u0448\u0456\u044f Unity. \u0417\u0430\u0434\u0430\u0447\u0456 \u0434\u043e\u0441\u043b\u0456\u0434\u0436\u0435\u043d\u043d\u044f: \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0430 \u0441\u0438\u0441\u0442\u0435\u043c\u0438 \u0430\u0434\u0430\u043f\u0442\u0430\u0446\u0456\u0457 \u0456\u0433\u0440\u043e\u0432\u0438\u0445 \u0441\u0438\u0442\u0443\u0430\u0446\u0456\u0439 \u0437\u0430\u043b\u0435\u0436\u043d\u043e \u0432\u0456\u0434 \u0434\u0456\u0439 \u0433\u0440\u0430\u0432\u0446\u044f \u0442\u0430 \u043f\u0440\u0438\u0432\u2019\u044f\u0437\u043a\u0430 \u0446\u044c\u043e\u0433\u043e \u043c\u0435\u0445\u0430\u043d\u0456\u0437\u043c\u0443 \u0434\u043e \u0456\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u0440\u043e\u0446\u0435\u0441\u0443. \u041e\u0431\u2019\u0454\u043a\u0442 \u0434\u043e\u0441\u043b\u0456\u0434\u0436\u0435\u043d\u043d\u044f: \u043a\u043e\u043c\u043f\u2019\u044e\u0442\u0435\u0440\u043d\u0456 RPG-\u0456\u0433\u0440\u0438 \u043d\u0430 \u0431\u0430\u0437\u0456 \u0456\u0433\u0440\u043e\u0432\u0438\u0445 \u0440\u0443\u0448\u0456\u0457\u0432. \u041f\u0440\u0435\u0434\u043c\u0435\u0442 \u0434\u043e\u0441\u043b\u0456\u0434\u0436\u0435\u043d\u043d\u044f: \u043a\u043e\u043c\u043f\u2019\u044e\u0442\u0435\u0440\u043d\u0456 RPG-\u0456\u0433\u0440\u0438 \u0456\u0437 \u0432\u0431\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u043c \u0448\u0442\u0443\u0447\u043d\u0438\u043c \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u043e\u043c \u043d\u0430 \u0431\u0430\u0437\u0456 \u0456\u0433\u0440\u043e\u0432\u0438\u0445 \u0440\u0443\u0448\u0456\u0457\u0432. \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0430\u043c\u0438 \u0434\u043e\u0441\u043b\u0456\u0434\u0436\u0435\u043d\u043d\u044f \u0454 \u0440\u043e\u0437\u0440\u043e\u0431\u043b\u0435\u043d\u0430 RPG-\u0433\u0440\u0430 \u0456\u0437 \u0432\u0431\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u043c \u0430\u0434\u0430\u043f\u0442\u0438\u0432\u043d\u0438\u043c \u0448\u0442\u0443\u0447\u043d\u0438\u043c \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u043e\u043c.",
+    "citations": 34,
+    "url": "https://www.semanticscholar.org/paper/2a7a221b4a9f256835ced38880e0320ef0081a02",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "A unifying learning framework for building artificial game-playing agents",
+    "authors": [
+      "Wenlin Chen",
+      "Yixin Chen",
+      "D. Levine"
+    ],
+    "year": 2015,
+    "abstract": null,
+    "citations": 8,
+    "url": "https://www.semanticscholar.org/paper/cc9055e55af82b2ba801cbd3fccba9042b68274a",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "The mechanical Turk: a short history of \u2018artificial artificial intelligence\u2019",
+    "authors": [
+      "Elizabeth Stephens"
+    ],
+    "year": 2022,
+    "abstract": "ABSTRACT This paper undertakes a comparative analysis of the famous eighteenth-century chess-playing automaton known as Mechanical Turk and the Amazon microwork platform of the same name. The original Mechanical Turk was a life-sized automaton made in 1770 and publicly exhibited until the mid-1800s, and which played games of chess with the audience. Its movements were fully mechanical, but even more remarkably, it was promoted as the world\u2019s first \u2018thinking machine,\u2019 deciding each move of the chess pieces for itself. From the outset, it was widely assumed that the Mechanical Turk was a hoax, and that a human must be hidden inside the machine, directing the game. But it was a clever hoax whose trick was never discovered, and widely admired as such. Amazon\u2019s Mechanical Turk job platform functions in a similarly open way, this paper argues, as a sort of open technological hoax. Mechanical Turk provides a source of human cognitive labour that can be used to invisibly operate digital systems and programs that are widely assumed to be fully automated. Artificial intelligence is a twenty-first century thinking machine, it requires a human brain to make it work. Amazon\u2019s Mechanical Turk is a marketplace in which companies can hire piecemeal cognitive labour to patch gaps and train programs to keep those systems functioning. Providing what Jeff Bezos has called \u2018artificial artificial intelligence,\u2019 Amazon\u2019s Mechanical Turk, like Kempelen\u2019s automaton, both draws attention to and obfuscates the limits of automation and artificial intelligence. Taking the two iterations of the Mechanical Turk as rich cultural figures of automation for their respective periods, this paper will argue that the open secret of their artificial artificial intelligence is itself a form of misdirection that hides other, more successfully guarded secrets: the true extent of that labour, and the conditions in which it is performed.",
+    "citations": 13,
+    "url": "https://www.semanticscholar.org/paper/9a8466461a95293e1ede0fe3d5245e61c5495265",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Botzone : A Game Playing System for Artificial Intelligence Education",
+    "authors": [
+      "Haifeng Zhang",
+      "Ge Gao",
+      "Wenxin Li",
+      "Cheng Zhong",
+      "Wenyuan Yu",
+      "Cheng Wang"
+    ],
+    "year": 2012,
+    "abstract": "The Botzone Intelligent Agent Platform is an online intelligent agent competition platform. The Botzone is designed to evaluate the intelligence of agents through competitions between them. The Botzone provides a context for users to learn basic AI knowledge and apply a variety of AI algorithms. It has been used as a teaching system and has served National Olympiad in Informatics (NOI) as a competition platform for many years. The Botzone is also an expandable system, which provides a set of facilities and clean interfaces, allowing users to design different competing situations and evaluate differing types of intelligent agents. In this paper, we introduce the structure, the applications, and the expansibility of the Botzone Intelligent Agent Platform.",
+    "citations": 5,
+    "url": "https://www.semanticscholar.org/paper/f09578dc3eb459b8e0bba1288dc81ed65830ca63",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Playing Brains: The Ethical Challenges Posed by Silicon Sentience and Hybrid Intelligence in DishBrain",
+    "authors": [
+      "Stephen R. Milford",
+      "D. Shaw",
+      "G. Starke"
+    ],
+    "year": 2023,
+    "abstract": null,
+    "citations": 2,
+    "url": "https://www.semanticscholar.org/paper/aca95956a0ed6cbabd69cd8047d71b509b79a6a7",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Deep Reinforcement Learning for General Game Playing",
+    "authors": [
+      "Adrian Goldwaser",
+      "M. Thielscher"
+    ],
+    "year": 2020,
+    "abstract": "General Game Playing agents are required to play games they have never seen before simply by looking at a formal description of the rules of the game at runtime. Previous successful agents have been based on search with generic heuristics, with almost no work done into using machine learning. Recent advances in deep reinforcement learning have shown it to be successful in some two-player zero-sum board games such as Chess and Go. This work applies deep reinforcement learning to General Game Playing, extending the AlphaZero algorithm and finds that it can provide competitive results.",
+    "citations": 37,
+    "url": "https://www.semanticscholar.org/paper/f905f50a00e89fb025be76be73991dfcc7dbdf32",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Video Analysis of Belt and Road Sports Events Based on Wireless Network and Artificial Intelligence Technology",
+    "authors": [
+      "Linlin Zhao",
+      "Delun Pan"
+    ],
+    "year": 2022,
+    "abstract": "Nonprofessionals pay more and more attention to sports events, but in the process of live sports events, the semantics of professional terms are rich. And it is difficult for nonprofessionals to understand the meaning of the game. In order to improve the viewing experience of nonprofessionals, by intelligent target tracking technology, a system to capture athletes\u2019 movement process is proposed. It is possible to analyze the types of athletes\u2019 movements. In competitions or ball games, the system can predict the location of the ball or the player\u2019s drop point. The four different tennis courts, the player\u2019s motion capture, and the accuracy of the tennis landing prediction are further analyzed. The results show that when the athlete is facing the capture camera, the accuracy of motion recognition is high. In the absence of data on the playing field, the accuracy of the system for determining the position of the tennis ball fluctuates greatly. Therefore, this kind of system needs to have enough data to support it before it can be applied to fall point prediction. The proposed system provides a certain reference basis for the design of intelligent sports control facilities.",
+    "citations": 5,
+    "url": "https://www.semanticscholar.org/paper/aab76a349554232fd00048333f27b3a388d378a2",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Perancangan Game Become a King Berbasis Artificial Intelligence",
+    "authors": [
+      "Budi Serasi Ginting",
+      "Fajar Rahmadan"
+    ],
+    "year": 2018,
+    "abstract": "Game merupakan salah satu bentuk aplikasi yang banyak digunakan orang sebagai media hiburan. Dari sekian banyak jenis game, game RPG (Role Playing Game) merupakan salah satu jenis game yang paling banyak diminati orang. Dari segi tampilan, seni dan kompleksitas, game RPG menawarkan suatu nuansa kretivitas yang tinggi. Dimana Game RPG menggambarkan jalan cerita seperti kehidupan nyata. Oleh karena itu, banyak gamer-gamer yang tertarik akan game RPG itu sendiri. Bagi sebagian orang game hanya untuk diaplikasikan, namun game juga dapat dibuat sendiri. Salah satu software pembuat game RPG yang cukup handal adalah RPG Maker VX dimana software ini sudah cukup terkenal dikalangan pembuat game RPG . Selain itu, dalam membuat game tidak terlepas dari konsep kecerdasan buatan dimana konsep ini mendukung proses pengaplikasian game yang dibuat. Dengan software pembuat game yang telah ditentukan, ditambah lagi dengan menyisipkan konsep kecedasan buatan dalam perancangan game, tentunnya akan menciptakan suatu aplikasi game yang kreatif, inovatif dan imajunatif.",
+    "citations": 7,
+    "url": "https://www.semanticscholar.org/paper/e0db4e86d4b13194f59eb27f06ceb8de3f8ee040",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Building Socially Intelligent AI Systems: Evidence from the Trust Game Using Artificial Agents with Deep Learning",
+    "authors": [
+      "Jason Xianghua Wu",
+      "Y. Wu",
+      "Kay-Yut Chen",
+      "Lei Hua"
+    ],
+    "year": 2023,
+    "abstract": "The trust game, a simple two-player economic exchange, is extensively used as an experimental measure for trust and trustworthiness of individuals. We construct deep neural network\u2013based artificial intelligence (AI) agents to participate a series of experiments based upon the trust game. These artificial agents are trained by playing with one another repeatedly without any prior knowledge, assumption, or data regarding human behaviors. We find that, under certain conditions, AI agents produce actions that are qualitatively similar to decisions of human subjects reported in the trust game literature. Factors that influence the emergence and levels of cooperation by artificial agents in the game are further explored. This study offers evidence that AI agents can develop trusting and cooperative behaviors purely from an interactive trial-and-error learning process. It constitutes a first step to build multiagent-based decision support systems in which interacting artificial agents are capable of leveraging social intelligence to achieve better outcomes collectively. This paper was accepted by Yan Chen, behavioral economics and decision analysis. Funding: Y. (D.) Wu extends her gratitude for the financial support provided through the RSCA Seed [Grant 22-RSG-01-004] from the San Jose State University. Supplemental Material: Data are available at https://doi.org/10.1287/mnsc.2023.4782 .",
+    "citations": 5,
+    "url": "https://www.semanticscholar.org/paper/9185b914d3e10bd3408558dfb86ef053bc7d5f3e",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Rolling Horizon Evolutionary Algorithms for General Video Game Playing",
+    "authors": [
+      "Raluca D. Gaina",
+      "Sam Devlin",
+      "S. Lucas",
+      "Diego P\u00e9rez-Li\u00e9bana"
+    ],
+    "year": 2020,
+    "abstract": "Game-playing evolutionary algorithms, specifically rolling horizon evolutionary algorithms (RHEA), have recently managed to beat the state of the art in win rate across many video games. However, the best results in a game are highly dependent on the specific configuration of modifications introduced over several papers, each adding additional parameters to the core algorithm. Furthermore, the best previously published parameters have been found from only a few human-picked combinations, as the possibility space has grown beyond exhaustive search. This article presents the state of the art in RHEA, combining all modifications described in the literature, as well as new ones. We then use a parameter optimizer, the $N$-tuple bandit evolutionary algorithm, to find the best combination of parameters in 20 games from the general video game Artificial Intelligence (AI) framework. Furthermore, we analyze the algorithm\u2019s parameters and some interesting combinations revealed through the optimization process. Finally, we find new state of the art solutions on several games by automatically exploring the large parameter space of RHEA.",
+    "citations": 19,
+    "url": "https://www.semanticscholar.org/paper/9563f6cd0ef3f51cc44a4fd798705165c4e25f9b",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Co-generation of game levels and game-playing agents",
+    "authors": [
+      "Aaron Dharna",
+      "J. Togelius",
+      "L. Soros"
+    ],
+    "year": 2020,
+    "abstract": "Open-endedness, a longstanding cornerstone of artificial life research, is the ability of systems to generate potentially unbounded ontologies of increasing novelty and complexity. Engineering generative systems displaying at least some degree of this ability is a goal with clear applications to procedural content generation in games. The Paired Open-Ended Trailblazer (POET) algorithm, heretofore explored only in a biped walking domain, is a coevolutionary system that simultaneously generates environments and agents that can solve them. This paper introduces a POET-Inspired Neuroevolutionary System for KreativitY (PINSKY) in games, which co-generates levels for multiple video games and agents that play them. This system leverages the General Video Game Artificial Intelligence (GVGAI) framework to enable co-generation of levels and agents for the 2D Atari-style games Zelda and Solar Fox. Results demonstrate the ability of PINSKY to generate curricula of game levels, opening up a promising new avenue for research at the intersection of procedural content generation and artificial life. At the same time, results in these challenging game domains highlight the limitations of the current algorithm and opportunities for improvement.",
+    "citations": 17,
+    "url": "https://www.semanticscholar.org/paper/19a61593f70dfd994405d62e17dfa127544c7c9e",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "AI: Fears of 'playing God' [Control & Automation Artificial Intelligence]",
+    "authors": [
+      "E. Gent"
+    ],
+    "year": 2015,
+    "abstract": "Man's desire to build something in his own image has a long literary history. From the animated statues of Greek myths, to the clay Golem of Jewish folklore, to Mary Shelley's Frankenstein, alchemists, mystics and mad scientists have long been engaged in the quest for artificial sentience. Google has spearheaded this drive with a particular focus on start-ups specialising in 'deep learning', a sub-branch of machine learning that excels in areas considered crucial to the development of with Al, such as computer vision, speech recognition and natural language processing. But with Facebook announcing the creation of an Al lab in 2013, IBM making steady progress with its Watson Al system, and both Microsoft and Chinese search giant Baidu heavily investing in Al, competition in the field is heating up. The Al arms race has understandably caught the attention of the media and, as is often the case with game-changing technologies, many have been quick to foresee doom. Concerns over the potential existential threat to humankind posed by super-intelligent Al have been aired by influential voices including physicist Stephen Hawking and the SpaceX and Tesla founder Elon Musk, who recently announced a \u00a310m donation to fund research into making Al safe.",
+    "citations": 6,
+    "url": "https://www.semanticscholar.org/paper/814d05b53133a945a9202926475ea2a1d8d818fe",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "When is Psychology Research Useful in Artificial Intelligence? A Case for Reducing Computational Complexity in Problem Solving",
+    "authors": [
+      "S. H\u00e9lie",
+      "Z. Pizlo"
+    ],
+    "year": 2021,
+    "abstract": "A problem is a situation in which an agent seeks to attain a given goal without knowing how to achieve it. Human problem solving is typically studied as a search in a problem space composed of states (information about the environment) and operators (to move between states). A problem such as playing a game of chess has 10 120 possible states, and a traveling salesperson problem with as little as 82 cities already has more than 10 120 different tours (similar to chess). Biological neurons are slower than the digital switches in computers. An exhaustive search of the problem space exceeds the capacity of current computers for most interesting problems, and it is fairly clear that humans cannot in their lifetime exhaustively search even small fractions of these problem spaces. Yet, humans play chess and solve logistical problems of similar complexity on a daily basis. Even for simple problems humans do not typically engage in exploring even a small fraction of the problem space. This begs the question: How do humans solve problems on a daily basis in a fast and efficient way? Recent work suggests that humans build a problem representation and solve the represented problem-not the problem that is out there. The problem representation that is built and the process used to solve it are constrained by limits of cognitive capacity and a cost-benefit analysis discounting effort and reward. In this article, we argue that better understanding the way humans represent and solve problems using heuristics can help inform how simpler algorithms and representations can be used in artificial intelligence to lower computational complexity, reduce computation time, and facilitate real-time computation in complex problem\u00a0solving.",
+    "citations": 9,
+    "url": "https://www.semanticscholar.org/paper/4fc1a31da160e87946c60972d359be82da490a34",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Game AI Competitions: Motivation for the Imitation Game-Playing Competition",
+    "authors": [
+      "M. \u015awiechowski"
+    ],
+    "year": 2020,
+    "abstract": "Games have played crucial role in advancing research in Artificial Intelligence and tracking its progress. In this article, a new proposal for game AI competition is presented. The goal is to create computer players which can learn and mimic the behavior of particular human players given access to their game records. We motivate usefulness of such an approach in various aspects, e.g., new ways of understanding what constitutes the human-like AI or how well it fits into the existing game production workflows. This competition may integrate many problems such as learning, representation, approximation and compression of AI, pattern recognition, knowledge extraction etc. This leads to multi-directional implications both on research and industry. In addition to the proposal, we include a short survey of the available game AI competitions.",
+    "citations": 10,
+    "url": "https://www.semanticscholar.org/paper/4a2c67bae23df695278b812e73a65b1586ba026b",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Combining collective and artificial intelligence for global health diseases diagnosis using crowdsourced annotated medical images",
+    "authors": [
+      "Lin Lin",
+      "D. Bermejo-Pel\u00e1ez",
+      "Daniel Capell\u00e1n-Mart\u00edn",
+      "D. Cuadrado",
+      "Cristina Rodr\u00edguez",
+      "L. Garc\u00eda",
+      "N. D\u00edez",
+      "Roc\u00edo Tom\u00e9",
+      "M. Postigo",
+      "M. Ledesma-Carbayo",
+      "M. Luengo-Oroz"
+    ],
+    "year": 2021,
+    "abstract": "Visual inspection of microscopic samples is still the gold standard diagnostic methodology for many global health diseases. Soil-transmitted helminth infection affects 1.5 billion people worldwide, and is the most prevalent disease among the Neglected Tropical Diseases. It is diagnosed by manual examination of stool samples by microscopy, which is a time-consuming task and requires trained personnel and high specialization. Artificial intelligence could automate this task making the diagnosis more accessible. Still, it needs a large amount of annotated training data coming from experts.In this work, we proposed the use of crowdsourced annotated medical images to train AI models (neural networks) for the detection of soil-transmitted helminthiasis in microscopy images from stool samples leveraging non-expert knowledge collected through playing a video game. We collected annotations made by both school-age children and adults, and we showed that, although the quality of crowdsourced annotations made by school-age children are sightly inferior than the ones made by adults, AI models trained on these crowdsourced annotations perform similarly (AUC of 0.928 and 0.939 respectively), and reach similar performance to the AI model trained on expert annotations (AUC of 0.932). We also showed the impact of the training sample size and continuous training on the performance of the AI models.In conclusion, the workflow proposed in this work combined collective and artificial intelligence for detecting soil-transmitted helminthiasis. Embedded within a digital health platform can be applied to any other medical image analysis task and contribute to reduce the burden of disease.",
+    "citations": 6,
+    "url": "https://www.semanticscholar.org/paper/efe7d64665fb4d086389ad524c7bdcc95c5bf28c",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Your Buddy, the Grandmaster: Repurposing the Game-Playing AI Surplus for Inclusivity",
+    "authors": [
+      "Batu Aytemiz",
+      "Xueer Shu",
+      "Eric Hu",
+      "Adam M. Smith"
+    ],
+    "year": 2020,
+    "abstract": "Advances in artificial intelligence (AI) techniques have resulted in immense breakthroughs in how well we can algorithmically play videogames. Yet, this increased investment in game-playing AI (GPAI) techniques has not translated into a tangible improvement in the game-playing experience for our players. This paper is inspired by the positive impact of accessibility modes in recent games as well as previous calls in games research literature to focus on player experience. Responding to these calls, we propose utilizing GPAI techniques not to beat the player, as is traditionally done, but to support them in fully experiencing the game. We claim that utilizing GPAI agents to help players overcome barriers is a productive way of repurposing the capabilities of these agents. We further contribute a design exercise to help developers explore the space of possible GPAI-driven assistance methods. This exercise helps developers discover types of challenges and ideate methods that vary in magnitude and assistance type. We first apply this design exercise to explore the design space of possible assistance methods for the action platformer game Celeste. We then implement two of the discovered methods that target different challenge types in a Unity clone of Celeste. Through this implementation, we discover several additional research questions we must answer before GPAI-driven assistance methods can be truly effective. We believe this research direction furthers the discussion on how to utilize GPAI in service of the player experience and also contributes to the creation of more inclusive games.",
+    "citations": 5,
+    "url": "https://www.semanticscholar.org/paper/90fbd9df9a33b7f4c690d2705bdededf986347d4",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Evaluating Generalisation in General Video Game Playing",
+    "authors": [
+      "Martin Balla",
+      "S. Lucas",
+      "Diego P\u00e9rez-Li\u00e9bana"
+    ],
+    "year": 2020,
+    "abstract": "The General Video Game Artificial Intelligence (GVGAI) competition has been running for several years with various tracks. This paper focuses on the challenge of the GVGAI learning track in which 3 games are selected and 2 levels are given for training, while 3 hidden levels are left for evaluation. This setup poses a difficult challenge for current Reinforcement Learning (RL) algorithms, as they typically require much more data. This work investigates 3 versions of the Advantage Actor-Critic (A2C) algorithm trained on a maximum of 2 levels from the available 5 from the GVGAI framework and compares their performance on all levels. The selected sub-set of games have different characteristics, like stochasticity, reward distribution and objectives. We found that stochasticity improves the generalisation, but too much can cause the algorithms to fail to learn the training levels. The quality of the training levels also matters, different sets of training levels can boost generalisation over all levels. In the GVGAI competition agents are scored based on their win rates and then their scores achieved in the games. We found that solely using the rewards provided by the game might not encourage winning.",
+    "citations": 2,
+    "url": "https://www.semanticscholar.org/paper/1236684409af2735dedfb4d191afe8141baa523b",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models",
+    "authors": [
+      "W. Samek",
+      "T. Wiegand",
+      "K. M\u00fcller"
+    ],
+    "year": 2017,
+    "abstract": "With the availability of large databases and recent improvements in deep learning methodology, the performance of AI systems is reaching or even exceeding the human level on an increasing number of complex tasks. Impressive examples of this development can be found in domains such as image classification, sentiment analysis, speech understanding or strategic game playing. However, because of their nested non-linear structure, these highly successful machine learning and artificial intelligence models are usually applied in a black box manner, i.e., no information is provided about what exactly makes them arrive at their predictions. Since this lack of transparency can be a major drawback, e.g., in medical applications, the development of methods for visualizing, explaining and interpreting deep learning models has recently attracted increasing attention. This paper summarizes recent developments in this field and makes a plea for more interpretability in artificial intelligence. Furthermore, it presents two approaches to explaining predictions of deep learning models, one method which computes the sensitivity of the prediction with respect to changes in the input and one approach which meaningfully decomposes the decision in terms of the input variables. These methods are evaluated on three classification tasks.",
+    "citations": 1093,
+    "url": "https://www.semanticscholar.org/paper/58e0ca33ae3068fee7005f339bf6c444fc17d55f",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Mimicking human player strategies in fighting games using game artificial intelligence techniques",
+    "authors": [
+      "S. Saini"
+    ],
+    "year": 2014,
+    "abstract": "Fighting videogames (also known as fighting games) are ever growing in popularity and accessibility. The isolated console experiences of 20th century gaming has been replaced by online gaming services that allow gamers to play from almost anywhere in the world with one another. This gives rise to competitive gaming on a global scale enabling them to experience fresh play styles and challenges by playing someone new. \nFighting games can typically be played either as a single player experience, or against another human player, whether it is via a network or a traditional multiplayer experience. However, there are two issues with these approaches. First, the single player offering in many fighting games is regarded as being simplistic in design, making the moves by the computer predictable. Secondly, while playing against other human players can be more varied and challenging, this may not always be achievable due to the logistics involved in setting up such a bout. Game Artificial Intelligence could provide a solution to both of these issues, allowing a human player s strategy to be learned and then mimicked by the AI fighter. \nIn this thesis, game AI techniques have been researched to provide a means of mimicking human player strategies in strategic fighting games with multiple parameters. Various techniques and their current usages are surveyed, informing the design of two separate solutions to this problem. The first solution relies solely on leveraging k nearest neighbour classification to identify which move should be executed based on the in-game parameters, resulting in decisions being made at the operational level and being fed from the bottom-up to the strategic level. The second solution utilises a number of existing Artificial Intelligence techniques, including data driven finite state machines, hierarchical clustering and k nearest neighbour classification, in an architecture that makes decisions at the strategic level and feeds them from the top-down to the operational level, resulting in the execution of moves. This design is underpinned by a novel algorithm to aid the mimicking process, which is used to identify patterns and strategies within data collated during bouts between two human players. Both solutions are evaluated quantitatively and qualitatively. A conclusion summarising the findings, as well as future work, is provided. The conclusions highlight the fact that both solutions are proficient in mimicking human strategies, but each has its own strengths depending on the type of strategy played out by the human. More structured, methodical strategies are better mimicked by the data driven finite state machine hybrid architecture, whereas the k nearest neighbour approach is better suited to tactical approaches, or even random button bashing that does not always conform to a pre-defined strategy.",
+    "citations": 3,
+    "url": "https://www.semanticscholar.org/paper/2643ead78720275ea482fddd780bc6c9caefed23",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "The 2014 General Video Game Playing Competition",
+    "authors": [
+      "Diego Perez Liebana",
+      "Spyridon Samothrakis",
+      "J. Togelius",
+      "T. Schaul",
+      "S. Lucas",
+      "Adrien Cou\u00ebtoux",
+      "Jerry Lee",
+      "Chong-U Lim",
+      "Tommy Thompson"
+    ],
+    "year": 2016,
+    "abstract": "This paper presents the framework, rules, games, controllers, and results of the first General Video Game Playing Competition, held at the IEEE Conference on Computational Intelligence and Games in 2014. The competition proposes the challenge of creating controllers for general video game play, where a single agent must be able to play many different games, some of them unknown to the participants at the time of submitting their entries. This test can be seen as an approximation of general artificial intelligence, as the amount of game-dependent heuristics needs to be severely limited. The games employed are stochastic real-time scenarios (where the time budget to provide the next action is measured in milliseconds) with different winning conditions, scoring mechanisms, sprite types, and available actions for the player. It is a responsibility of the agents to discover the mechanics of each game, the requirements to obtain a high score and the requisites to finally achieve victory. This paper describes all controllers submitted to the competition, with an in-depth description of four of them by their authors, including the winner and the runner-up entries of the contest. The paper also analyzes the performance of the different approaches submitted, and finally proposes future tracks for the competition.",
+    "citations": 201,
+    "url": "https://www.semanticscholar.org/paper/e77f15c59deafb411bba62df4b06e9b95cfc6252",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Network Tournament Pedagogical Approach Involving Game Playing in Artificial Intelligence",
+    "authors": [
+      "Ming-Da Wu",
+      "Ying-Hong Liao",
+      "Chuen-Tsai Sun"
+    ],
+    "year": 2003,
+    "abstract": "Game playing and genetic algorithms (GAs) are two important topics in artificial intelligence (AI). In this work we employ network tournament to assist in teaching these concepts associated with AI. Three exercises that implement a game-playing program are designed to help students learn relevant topics in AI. The first exercise involves game theory, e.g. mini-max search and alpha-beta pruning. The second exercise helps students understand the critical nature of a good heuristic function in game playing. And, the third exercise introduces GAs to learn a heuristic function. In addition to these exercises, this work also designs several programming toolkits to help students complete their exercises, such as a network tournament interface, a graphical man-machine interface, and a genetic algorithm based game-playing engine. These exercises encompass pertinent topics involving artificial intelligence and the network tournament. The network tournament provides a relatively easy means of Othello competition, and has merit in improving students\u2019 motivation for learning relevant topics.",
+    "citations": 2,
+    "url": "https://www.semanticscholar.org/paper/370375bec03cd892845f28f5ca01e4e917af455b",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "GDL-III: A Description Language for Epistemic General Game Playing",
+    "authors": [
+      "M. Thielscher"
+    ],
+    "year": 2017,
+    "abstract": "We present an extension of the standard game description language for general game playing to include epistemic games, which are characterised by rules that depend on the knowledge of players. A single additional keyword suffices to define GDL-III, a game description language with imperfect information and introspection. We define syntax and semantics and present an execution model for this extended language. We develop a provably correct answer set program (ASP) for reasoning about GDL-III games. We also show how the extended language can be used to formalise general epistemic puzzles and how those can be solved using a mere game controller for GDL-III, that is, without requiring any game-playing intelligence beyond the ability to generate legal play sequences.",
+    "citations": 40,
+    "url": "https://www.semanticscholar.org/paper/a44e789d737ff8be4e60ec61e37ebf7cd408b79f",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "N-person game playing and artificial intelligence",
+    "authors": [
+      "C. Luckhardt",
+      "K. Irani"
+    ],
+    "year": 1989,
+    "abstract": "Game playing in artificial intelligence (AI) has produced effective algorithms enabling a computer to play two-person, non-cooperative, zero-sum and perfect information games such as checkers and chess. Game theory suggests solution sets for games, but does not shed much light on how to make moves in a game. This dissertation couples AI with game theory and determines ways for a computer to play multi-player games. The max$\\sp{\\rm n}$ algorithm is defined and analyzed for playing non-cooperative, n-person games. The max$\\sp{\\rm n}$ procedure finds an equilibrium point for a game and allows some pruning of calculated payoff values but not pruning of subtrees. An evaluation for representing a cooperative game is defined using the max$\\sp{\\rm n}$ procedure on all possible coalitions. This evaluation is used along with an earnings function in order to define the stability of a coalition and coalition structure. Finally, a solution algorithm is developed that is based on coalition stability for a computer to use in playing cooperative n-person games using look ahead, heuristic evaluation function, and back-up techniques. The solution algorithm gives a result that is sometimes in game-theoretic solution sets such as the core, stable set, kernel, and bargaining set. Potential applications for this work are in AI, conflict resolution, economics, mathematics, and social psychology.",
+    "citations": 2,
+    "url": "https://www.semanticscholar.org/paper/ce14b0009b07e3eec33afbc44decbb0d693961ae",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "General Game Playing with Imperfect Information",
+    "authors": [
+      "M. Schofield",
+      "M. Thielscher"
+    ],
+    "year": 2019,
+    "abstract": "General Game Playing is a field which allows the researcher to investigate techniques that might eventually be used in an agent capable of Artificial General Intelligence.\u00a0 Game playing presents a controlled environment in which to evaluate AI techniques, and so we have seen an increase in interest in this field of research.\u00a0 Games of imperfect information offer the researcher an additional challenge in terms of complexity over games with perfect information.\u00a0 In this article, we look at imperfect-information games: their expression, their complexity, and the additional demands of their players.\u00a0 We consider the problems of working with imperfect information and introduce a technique called HyperPlay, for efficiently sampling very large information sets, and present a formalism together with pseudo code so that others may implement it. We examine the design choices for the technique, show its soundness and completeness then provide some experimental results and demonstrate the use of the technique in a variety of imperfect-information games, revealing its strengths, weaknesses, and its efficiency against randomly generating samples.\u00a0 Improving the technique, we present HyperPlay-II, capable of correctly valuing information-gathering moves.\u00a0 Again, we provide some experimental results and demonstrate the use of the new technique revealing its strengths, weaknesses and its limitations.",
+    "citations": 4,
+    "url": "https://www.semanticscholar.org/paper/958d387493abf9e0e96c868f60ac40652e81a35b",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Computer Games - 5th Workshop on Computer Games, CGW 2016, and 5th Workshop on General Intelligence in Game-Playing Agents, GIGA 2016, Held in Conjunction with the 25th International Conference on Artificial Intelligence, IJCAI 2016, New York City, NY, USA, July 9-10, 2016, Revised Selected Papers",
+    "authors": [
+      {
+        "@pid": "c/TristanCazenave",
+        "text": "Tristan Cazenave"
+      },
+      {
+        "@pid": "32/436",
+        "text": "Mark H. M. Winands"
+      },
+      {
+        "@pid": "98/3919",
+        "text": "Stefan Edelkamp"
+      },
+      {
+        "@pid": "67/2985",
+        "text": "Stephan Schiffel"
+      },
+      {
+        "@pid": "t/MichaelThielscher",
+        "text": "Michael Thielscher"
+      },
+      {
+        "@pid": "47/767",
+        "text": "Julian Togelius"
+      }
+    ],
+    "year": "2017",
+    "venue": [
+      "CGW@IJCAI",
+      "Communications in Computer and Information Science"
+    ],
+    "type": "Editorship",
+    "url": "https://dblp.org/rec/conf/ijcai/2016cgw",
+    "source": "DBLP"
+  },
+  {
+    "title": "Computer Games - Fourth Workshop on Computer Games, CGW 2015, and the Fourth Workshop on General Intelligence in Game-Playing Agents, GIGA 2015, Held in Conjunction with the 24th International Conference on Artificial Intelligence, IJCAI 2015, Buenos Aires, Argentina, July 26-27, 2015, Revised Selected Papers",
+    "authors": [
+      {
+        "@pid": "c/TristanCazenave",
+        "text": "Tristan Cazenave"
+      },
+      {
+        "@pid": "32/436",
+        "text": "Mark H. M. Winands"
+      },
+      {
+        "@pid": "98/3919",
+        "text": "Stefan Edelkamp"
+      },
+      {
+        "@pid": "67/2985",
+        "text": "Stephan Schiffel"
+      },
+      {
+        "@pid": "t/MichaelThielscher",
+        "text": "Michael Thielscher"
+      },
+      {
+        "@pid": "47/767",
+        "text": "Julian Togelius"
+      }
+    ],
+    "year": "2016",
+    "venue": [
+      "CGW/GIGA@IJCAI",
+      "Communications in Computer and Information Science"
+    ],
+    "type": "Editorship",
+    "url": "https://dblp.org/rec/conf/ijcai/2015cgw",
+    "source": "DBLP"
+  },
+  {
+    "title": "Teaching Artificial Intelligence to K-12 Through a Role-Playing Game Questioning the Intelligence Concept.",
+    "authors": [
+      {
+        "@pid": "54/1061",
+        "text": "Julie Henry"
+      },
+      {
+        "@pid": "280/6557",
+        "text": "Alyson Hernalesteen"
+      },
+      {
+        "@pid": "137/2822",
+        "text": "Anne-Sophie Collard"
+      }
+    ],
+    "year": "2021",
+    "venue": "K\u00fcnstliche Intell.",
+    "type": "Journal Articles",
+    "url": "https://dblp.org/rec/journals/ki/HenryHC21",
+    "source": "DBLP"
+  },
+  {
+    "title": "Towards General Game-Playing Robots: Models, Architecture and Game Controller.",
+    "authors": [
+      {
+        "@pid": "59/4677",
+        "text": "David Rajaratnam"
+      },
+      {
+        "@pid": "t/MichaelThielscher",
+        "text": "Michael Thielscher"
+      }
+    ],
+    "year": "2013",
+    "venue": "Australasian Conference on Artificial Intelligence",
+    "type": "Conference and Workshop Papers",
+    "url": "https://dblp.org/rec/conf/ausai/RajaratnamT13",
+    "source": "DBLP"
+  },
+  {
+    "title": "General Video Game Playing.",
+    "authors": [
+      {
+        "@pid": "60/802",
+        "text": "John Levine"
+      },
+      {
+        "@pid": "82/4560",
+        "text": "Clare Bates Congdon"
+      },
+      {
+        "@pid": "80/2025",
+        "text": "Marc Ebner"
+      },
+      {
+        "@pid": "68/1742",
+        "text": "Graham Kendall"
+      },
+      {
+        "@pid": "50/4174",
+        "text": "Simon M. Lucas"
+      },
+      {
+        "@pid": "m/RistoMiikkulainen",
+        "text": "Risto Miikkulainen"
+      },
+      {
+        "@pid": "50/254",
+        "text": "Tom Schaul"
+      },
+      {
+        "@pid": "73/10073",
+        "text": "Tommy Thompson"
+      }
+    ],
+    "year": "2013",
+    "venue": "Artificial and Computational Intelligence in Games",
+    "type": "Parts in Books or Collections",
+    "url": "https://dblp.org/rec/conf/dagstuhl/LevineCEKLMST13",
+    "source": "DBLP"
+  },
+  {
+    "title": "Playing the Werewolf game with artificial intelligence for language understanding.",
+    "authors": [
+      {
+        "@pid": "211/1646",
+        "text": "Hisaichi Shibata"
+      },
+      {
+        "@pid": "02/8603",
+        "text": "Soichiro Miki"
+      },
+      {
+        "@pid": "143/9494",
+        "text": "Yuta Nakamura"
+      }
+    ],
+    "year": "2023",
+    "venue": "CoRR",
+    "type": "Informal and Other Publications",
+    "url": "https://dblp.org/rec/journals/corr/abs-2302-10646",
+    "source": "DBLP"
+  },
+  {
+    "title": "Exploring a Learning Architecture for General Game Playing.",
+    "authors": [
+      {
+        "@pid": "279/5036",
+        "text": "Alvaro Gunawan"
+      },
+      {
+        "@pid": "78/3817",
+        "text": "Ji Ruan"
+      },
+      {
+        "@pid": "t/MichaelThielscher",
+        "text": "Michael Thielscher"
+      },
+      {
+        "@pid": "76/5768",
+        "text": "Ajit Narayanan"
+      }
+    ],
+    "year": "2020",
+    "venue": "Australasian Conference on Artificial Intelligence",
+    "type": "Conference and Workshop Papers",
+    "url": "https://dblp.org/rec/conf/ausai/GunawanRTN20",
+    "source": "DBLP"
+  },
+  {
+    "title": "Applications of Artificial Intelligence in Live Action Role-Playing Games (LARP).",
+    "authors": [
+      {
+        "@pid": "36/8194",
+        "text": "Christoph Salge"
+      },
+      {
+        "@pid": "147/1516",
+        "text": "Emily Short"
+      },
+      {
+        "@pid": "p/MikePreuss",
+        "text": "Mike Preuss"
+      },
+      {
+        "@pid": "16/9838",
+        "text": "Spyridon Samothrakis"
+      },
+      {
+        "@pid": "90/4265",
+        "text": "Pieter Spronck"
+      }
+    ],
+    "year": "2020",
+    "venue": "CoG",
+    "type": "Conference and Workshop Papers",
+    "url": "https://dblp.org/rec/conf/cig/SalgeSPSS20",
+    "source": "DBLP"
+  },
+  {
+    "title": "Applications of Artificial Intelligence in Live Action Role-Playing Games (LARP).",
+    "authors": [
+      {
+        "@pid": "36/8194",
+        "text": "Christoph Salge"
+      },
+      {
+        "@pid": "147/1516",
+        "text": "Emily Short"
+      },
+      {
+        "@pid": "p/MikePreuss",
+        "text": "Mike Preuss"
+      },
+      {
+        "@pid": "16/9838",
+        "text": "Spyridon Samothrakis"
+      },
+      {
+        "@pid": "90/4265",
+        "text": "Pieter Spronck"
+      }
+    ],
+    "year": "2020",
+    "venue": "CoRR",
+    "type": "Informal and Other Publications",
+    "url": "https://dblp.org/rec/journals/corr/abs-2008-11003",
+    "source": "DBLP"
+  },
+  {
+    "title": "General Language Evolution in General Game Playing.",
+    "authors": [
+      {
+        "@pid": "231/0975",
+        "text": "Armin Chitizadeh"
+      },
+      {
+        "@pid": "t/MichaelThielscher",
+        "text": "Michael Thielscher"
+      }
+    ],
+    "year": "2018",
+    "venue": "Australasian Conference on Artificial Intelligence",
+    "type": "Conference and Workshop Papers",
+    "url": "https://dblp.org/rec/conf/ausai/ChitizadehT18",
+    "source": "DBLP"
+  },
+  {
+    "title": "Lifted Backward Search for General Game Playing.",
+    "authors": [
+      {
+        "@pid": "11/11086",
+        "text": "Dave de Jonge"
+      },
+      {
+        "@pid": "12/4822",
+        "text": "Dongmo Zhang"
+      }
+    ],
+    "year": "2016",
+    "venue": "Australasian Conference on Artificial Intelligence",
+    "type": "Conference and Workshop Papers",
+    "url": "https://dblp.org/rec/conf/ausai/JongeZ16",
+    "source": "DBLP"
+  },
+  {
+    "title": "How to advance general game playing artificial intelligence by player modelling.",
+    "authors": {
+      "@pid": "36/3345",
+      "text": "Benjamin Ultan Cowley"
+    },
+    "year": "2016",
+    "venue": "CoRR",
+    "type": "Informal and Other Publications",
+    "url": "https://dblp.org/rec/journals/corr/Cowley16",
+    "source": "DBLP"
+  },
+  {
+    "title": "General Game Playing",
+    "authors": [
+      {
+        "@pid": "g/MRGenesereth",
+        "text": "Michael R. Genesereth"
+      },
+      {
+        "@pid": "t/MichaelThielscher",
+        "text": "Michael Thielscher"
+      }
+    ],
+    "year": "2014",
+    "venue": "Synthesis Lectures on Artificial Intelligence and Machine Learning",
+    "type": "Books and Theses",
+    "url": "https://dblp.org/rec/series/synthesis/2014Genesereth",
+    "source": "DBLP"
+  },
+  {
+    "title": "Sorting Out the Virtual Patient: How to Exploit Artificial Intelligence, Game Technology and Sound Educational Practices to Create Engaging Role-Playing Simulations.",
+    "authors": [
+      {
+        "@pid": "300/5071",
+        "text": "Thomas Brett Talbot"
+      },
+      {
+        "@pid": "18/141",
+        "text": "Kenji Sagae"
+      },
+      {
+        "@pid": "42/11181",
+        "text": "Bruce John"
+      },
+      {
+        "@pid": "59/3290",
+        "text": "Albert A. Rizzo"
+      }
+    ],
+    "year": "2012",
+    "venue": "Int. J. Gaming Comput. Mediat. Simulations",
+    "type": "Journal Articles",
+    "url": "https://dblp.org/rec/journals/ijgcms/TalbotSJR12",
+    "source": "DBLP"
+  },
+  {
+    "title": "Modeling and designing of machine learning procedures as applied to game playing using artificial intelligence.",
+    "authors": [
+      {
+        "@pid": "16/11477",
+        "text": "Avneet Kaur Dhawan"
+      },
+      {
+        "@pid": "42/4005",
+        "text": "Jaswinder Singh"
+      }
+    ],
+    "year": "2011",
+    "venue": "ACAI",
+    "type": "Conference and Workshop Papers",
+    "url": "https://dblp.org/rec/conf/acai/DhawanS11",
+    "source": "DBLP"
+  },
+  {
+    "title": "Artificial Intelligence Design in a Multiplayer Online Role Playing Game.",
+    "authors": [
+      {
+        "@pid": "17/9944",
+        "text": "Christopher A. Ballinger"
+      },
+      {
+        "@pid": "15/3482",
+        "text": "David A. Turner"
+      },
+      {
+        "@pid": "13/3848",
+        "text": "Arturo I. Concepcion"
+      }
+    ],
+    "year": "2011",
+    "venue": "ITNG",
+    "type": "Conference and Workshop Papers",
+    "url": "https://dblp.org/rec/conf/itng/BallingerTC11",
+    "source": "DBLP"
+  },
+  {
+    "title": "Knowledge Generation for Improving Simulations in UCT for General Game Playing.",
+    "authors": [
+      {
+        "@pid": "59/3958",
+        "text": "Shiven Sharma"
+      },
+      {
+        "@pid": "36/167",
+        "text": "Ziad Kobti"
+      },
+      {
+        "@pid": "29/6460",
+        "text": "Scott D. Goodwin"
+      }
+    ],
+    "year": "2008",
+    "venue": "Australasian Conference on Artificial Intelligence",
+    "type": "Conference and Workshop Papers",
+    "url": "https://dblp.org/rec/conf/ausai/SharmaKG08",
+    "source": "DBLP"
+  },
+  {
+    "title": "Enhancing Artificial Intelligence in Games by Learning the Opponent&apos;s Playing Style.",
+    "authors": [
+      {
+        "@pid": "66/1574",
+        "text": "Fabio Aiolli"
+      },
+      {
+        "@pid": "43/425",
+        "text": "Claudio Enrico Palazzi"
+      }
+    ],
+    "year": "2008",
+    "venue": "ECS",
+    "type": "Conference and Workshop Papers",
+    "url": "https://dblp.org/rec/conf/ifip/AiolliP08",
+    "source": "DBLP"
+  },
+  {
+    "title": "Network Tournament Pedagogical Approach Involving Game Playing in Artificial Intelligence.",
+    "authors": [
+      {
+        "@pid": "06/5652",
+        "text": "Ming-Da Wu"
+      },
+      {
+        "@pid": "49/1787",
+        "text": "Ying-Hong Liao"
+      },
+      {
+        "@pid": "08/6610",
+        "text": "Chuen-Tsai Sun"
+      }
+    ],
+    "year": "2003",
+    "venue": "J. Inf. Sci. Eng.",
+    "type": "Journal Articles",
+    "url": "https://dblp.org/rec/journals/jise/WuLS03",
+    "source": "DBLP"
+  },
+  {
+    "title": "N-person game playing and artificial intelligence.",
+    "authors": {
+      "@pid": "79/8897",
+      "text": "Carol Luckhardt Redfield"
+    },
+    "year": "1989",
+    "venue": "",
+    "type": "Books and Theses",
+    "url": "https://dblp.org/rec/phd/us/Luckhardt89",
+    "source": "DBLP"
+  }
+]

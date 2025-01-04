@@ -1,0 +1,20 @@
+AI systems are trained to play games for several reasons:
+
+* **Testing and Benchmarking:** Games provide a controlled environment to test and benchmark AI algorithms. The rules of the game are well-defined, and success can be easily measured (e.g., winning or losing). This allows researchers to compare different algorithms and track progress in AI development.
+* **Learning Complex Strategies:** Games often involve complex decision-making, planning, and strategic thinking. By training AI agents to play games, researchers can gain insights into how these cognitive abilities work and develop algorithms that can learn and adapt to new situations.
+* **Developing General-Purpose AI:** Some believe that training AI on games can help develop more general-purpose intelligence. The skills learned in a game environment, such as problem-solving, pattern recognition, and decision-making under uncertainty, could potentially be transferable to other domains.
+
+* **Entertainment and Applications:** Game-playing AI can be used for entertainment purposes (e.g., creating challenging opponents for human players) and has potential applications in areas like robotics, autonomous driving, and resource management.
+
+
+
+Let me know if you'd like more detail on any of these points!
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/1-s2.0-S092523121930493X-main.pdf.md
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+Source: uol-docs/1-s2.0-S092523121930493X-main.pdf.md

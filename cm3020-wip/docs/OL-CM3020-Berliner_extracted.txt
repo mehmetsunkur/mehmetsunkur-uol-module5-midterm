@@ -1,0 +1,44 @@
+Researchers create AI systems that play games for several reasons, including:
+
+* **To understand intelligence:** Games provide a controlled environment to study how intelligence works and develop algorithms that can learn and make decisions like humans.
+
+* **To test and improve AI algorithms:** Games offer complex challenges that push the boundaries of AI capabilities and allow researchers to evaluate the performance of different algorithms.
+* **To explore new applications for AI:** Game-playing AI can be adapted for other tasks, such as robotics, planning, and optimization.
+
+The specific reasons for creating a game-playing AI system will vary depending on the researchers' goals and the particular game being studied.
+
+
+SOURCES: docs/OL-CM3020-Berliner.md
+
+Researchers create AI systems that play games to investigate the structure of evaluation functions. Games provide a complex domain where decisions can be made based solely on static evaluation, allowing researchers to study how AI agents learn to evaluate different game states and make strategic choices.
+
+SOURCES: docs/OL-CM3020-Berliner.md
+
+not found
+SOURCES:
+
+Researchers create AI systems that play games for several reasons, including:
+
+* **Testing and improving AI algorithms:** Games provide a complex and challenging environment for AI to learn and improve its decision-making abilities.
+
+* **Understanding human intelligence:** By studying how AI learns to play games, researchers can gain insights into the nature of human intelligence and problem-solving.
+* **Developing new applications:** Game-playing AI can be adapted for use in other domains, such as robotics, autonomous vehicles, and financial modeling.
+
+
+SOURCES: docs/OL-CM3020-Berliner.md
+
+not found
+SOURCES: 
+
+
+
+
+
+Researchers create AI systems that play games for several reasons:
+
+* **To test and improve AI algorithms:** Games provide a controlled environment where researchers can evaluate the performance of different AI techniques. The rules of the game are well-defined, and the goal is clear, making it easier to measure progress.
+
+* **To explore complex decision-making processes:** Games often involve strategic thinking, planning, and adaptation, which are all important aspects of intelligence. By studying how AI agents play games, researchers can gain insights into these cognitive processes.
+* **To develop new applications for AI:** The knowledge and techniques gained from developing game-playing AI can be applied to other domains, such as robotics, autonomous driving, and financial modeling.
+
+SOURCES: docs/OL-CM3020-Berliner.md

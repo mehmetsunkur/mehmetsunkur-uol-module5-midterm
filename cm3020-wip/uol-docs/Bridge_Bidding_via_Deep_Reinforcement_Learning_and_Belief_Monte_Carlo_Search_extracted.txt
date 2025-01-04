@@ -1,0 +1,16 @@
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text explains that AI systems are created to play games for several reasons, including:
+
+* **Advancement of AI research:** Games provide a controlled environment to test and develop new AI algorithms and techniques.
+
+* **Understanding human intelligence:** By studying how AI agents learn to play games, researchers can gain insights into the cognitive processes involved in human decision-making and strategic thinking.
+* **Development of practical applications:** The skills and knowledge acquired by AI agents through game playing can be transferred to real-world applications such as robotics, autonomous driving, and resource management.
+
+While the text focuses on Bridge as a specific example, it highlights the broader motivations behind creating AI systems that play games.
+
+not found 
+SOURCES:

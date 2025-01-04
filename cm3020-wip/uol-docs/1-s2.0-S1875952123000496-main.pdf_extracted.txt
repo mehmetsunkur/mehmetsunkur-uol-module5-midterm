@@ -1,0 +1,41 @@
+The provided text discusses the use of AI in collectible card games (CCGs) and mentions that deep reinforcement learning approaches have become state-of-the-art for battling in CCGs.
+
+However, it does not explicitly state why creating AI systems to play games is desirable. 
+
+Therefore, the answer is **not found**.
+SOURCES: uol-docs/1-s2.0-S1875952123000496-main.pdf.md
+
+not found 
+SOURCES:
+
+AI systems are trained to play games for several reasons:
+
+* **Testing and Benchmarking:** Games provide a controlled environment to test and benchmark AI algorithms. The complexity of game rules and the need for strategic thinking make them ideal for evaluating an AI's ability to learn, plan, and adapt.
+
+* **Understanding Intelligence:** By studying how AI agents learn to play games, researchers gain insights into the nature of intelligence itself. Games often involve tasks like pattern recognition, decision-making under uncertainty, and long-term planning, which are all hallmarks of intelligent behavior.
+* **Developing New Algorithms:** The challenges posed by game environments often lead to the development of novel AI algorithms and techniques. These advancements can then be applied to other domains, such as robotics, autonomous driving, and natural language processing.
+
+* **Entertainment and Education:** Game-playing AI agents can provide entertainment for humans and also serve as educational tools. They can demonstrate complex strategies and decision-making processes, helping people understand the capabilities and limitations of AI.
+
+
+Let me know if you have any other questions!
+
+The text discusses why researchers create AI systems that play games, but it doesn't explicitly state a reason for creating AI to play collectible card games. 
+
+It does mention the following benefits of strong AI agents in CCGs:
+
+* **Challenging human players:**  AI opponents can provide a stimulating and engaging experience for both amateur and professional players.
+* **Improving game design:** AI agents can help designers identify potential balance issues and refine gameplay mechanics by playing thousands of matches quickly. This can save time and resources compared to traditional playtesting methods.
+
+**SOURCES:** uol-docs/1-s2.0-S1875952123000496-main.pdf.md 
+
+
+AI systems are created to play games for several reasons, including:
+
+* **Testing and improving AI algorithms:** Games provide a complex and challenging environment for AI agents to learn and improve their decision-making abilities.
+
+* **Understanding human cognition:** By studying how AI agents play games, researchers can gain insights into human cognitive processes such as planning, strategy, and learning.
+* **Developing new applications:** Game-playing AI can be adapted for use in other domains, such as robotics, autonomous driving, and finance.
+
+The provided text focuses on various research papers that explore the application of AI techniques to collectible card games like Hearthstone. These papers discuss different approaches, including reinforcement learning, evolutionary algorithms, and deep learning, to develop AI agents capable of playing these games effectively.
+SOURCES: uol-docs/1-s2.0-S1875952123000496-main.pdf.md

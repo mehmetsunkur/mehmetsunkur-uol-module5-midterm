@@ -1,0 +1,26 @@
+not found 
+SOURCES:
+
+The text explains why creating AI systems that play games is beneficial for research and development. It highlights the following reasons:
+
+* **Complex Goal Pursuit:** Game-playing AI can be trained to pursue multiple, potentially changing goals, making them more adaptable and intelligent.
+* **Rich Feedback Environments:** Games often provide a wealth of data (measurements) that AI can learn from, leading to better performance.
+* **Benchmarking and Evaluation:** Games offer standardized environments for testing and comparing different AI algorithms.
+
+The text doesn't explicitly state "why create AI systems that play games," but it strongly implies the benefits through its detailed explanation of how game-playing AI works and what advantages it offers. 
+
+
+SOURCES: uol-docs/1-s2.0-S1875952119300497-main.md
+
+not found 
+SOURCES:
+
+AI systems that play games can be used for a variety of reasons, including:
+
+* **Developing competent opponents:** These AI systems can provide challenging and engaging opponents in video games without the need for pre-programmed scripts or instructions. This can enhance the gaming experience for human players.
+* **Research and development:** Game environments provide complex and dynamic settings for testing and refining machine learning algorithms. By training AI agents to play games, researchers can gain insights into how these algorithms learn and adapt in challenging situations.
+
+The paper you provided focuses on using different machine learning techniques to train AI agents to play the game VizDoom. The authors highlight the benefits of using supervised learning approaches like DFP (Deep Feature Prediction) for improved performance and faster training times. They also discuss the effectiveness of various reinforcement learning algorithms, such as A3C, C51_DDQN, and Dueling DQN, in training game-playing agents.
+
+Overall, creating AI systems that play games is a valuable pursuit with applications in both entertainment and scientific research.
+SOURCES: uol-docs/1-s2.0-S1875952119300497-main.md

@@ -1,0 +1,26 @@
+not found 
+SOURCES:
+
+AI systems that play games can be created for a variety of reasons, including:
+
+* **To advance the field of artificial intelligence:** Game playing provides a challenging and controlled environment for testing and developing new AI algorithms. 
+* **To understand human cognition:** By studying how AI agents learn to play games, researchers can gain insights into human decision-making processes.
+* **To create entertaining and engaging experiences:** Games are a popular form of entertainment, and AI opponents can provide a challenging and rewarding experience for players.
+
+The specific reasons for creating an AI system that plays Bridge in this paper are:
+
+* **To achieve superhuman performance:** The authors aim to develop an agent that can outperform the best human Bridge players.
+* **To explore novel reinforcement learning techniques:** They introduce a new search method called Belief Monte Carlo Search (BMCS) which combines reinforcement learning with belief reasoning. 
+
+
+SOURCES: uol-docs/Bridge_Bidding_via_Deep_Reinforcement_Learning_and_Belief_Monte_Carlo_Search.pdf.md
+
+The text does not mention why to create AI systems that play games. 
+SOURCES: uol-docs/Bridge_Bidding_via_Deep_Reinforcement_Learning_and_Belief_Monte_Carlo_Search.pdf.md
+
+The text explains why researchers are developing AI systems that play games like bridge. They aim to create agents capable of strategic decision-making, bidding optimization, and competitive performance in complex, partially observable environments.
+
+SOURCES: uol-docs/Bridge_Bidding_via_Deep_Reinforcement_Learning_and_Belief_Monte_Carlo_Search.pdf.md
+
+not found 
+SOURCES:

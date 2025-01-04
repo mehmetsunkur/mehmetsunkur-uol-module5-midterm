@@ -1,0 +1,1304 @@
+[
+    {
+        "element_id": "789afbcbd23aa7ae0aaea2fa778b6795",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        51.6,
+                        98.1
+                    ],
+                    [
+                        51.6,
+                        140.2
+                    ],
+                    [
+                        553.2,
+                        140.2
+                    ],
+                    [
+                        553.2,
+                        98.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.41559,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 1
+        },
+        "text": "\u00a9 FROM THE GUEST EDITORS",
+        "type": "Title"
+    },
+    {
+        "element_id": "fcf9062dc8e00c0fa213528b9ee180df",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        112.3,
+                        640.4
+                    ],
+                    [
+                        112.3,
+                        809.2
+                    ],
+                    [
+                        550.7,
+                        809.2
+                    ],
+                    [
+                        550.7,
+                        640.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 1,
+            "parent_id": "789afbcbd23aa7ae0aaea2fa778b6795"
+        },
+        "text": "Deep learning has gone through",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4c7d5f5ffea82a2a3109eb80cea5970f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        125.0,
+                        747.1
+                    ],
+                    [
+                        125.0,
+                        943.3
+                    ],
+                    [
+                        550.8,
+                        943.3
+                    ],
+                    [
+                        550.8,
+                        747.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83509,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 1,
+            "parent_id": "789afbcbd23aa7ae0aaea2fa778b6795"
+        },
+        "text": "puter vision, speech re cogni tion, machine translation, game playing, and others\u2014deep learning has brought unprecedented progress and become the method of choice. Will the same happen in robotics and automation?",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a613f87be35c806119aac1d25c24d3f3",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        123.6,
+                        941.9
+                    ],
+                    [
+                        123.6,
+                        1896.0
+                    ],
+                    [
+                        551.8,
+                        1896.0
+                    ],
+                    [
+                        551.8,
+                        941.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.89507,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 1,
+            "parent_id": "789afbcbd23aa7ae0aaea2fa778b6795"
+        },
+        "text": "In a sense, it is already happening. Today, deep learning is often the most common keyword for work presented at major robotics conferences. At the same time, robots, as physical systems, pose unique challenges for deep learn ing in terms of sample efficiency and safety in realworld robot applications. With robots, data are abundant, but labels are sparse and expensive to acquire. Reinforcement learning in principle does not require data labeling but does require a significant number of iterations on real robots. Transferring the capabilities learned in simulation to real robots and collecting sufficient data for practical robot applications both present major challenges. Further, mis takes by robot learning systems are often much more costly than those by their counterparts in the virtual world. These mistakes may cause irreversible damage to robot hardware or, even worse, loss of human lives. Safety is thus paramount for robot learning systems. A related issue is interpretability, i.e., the ability for humans to understand the learning process. We need shared",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8b28a8df0ab738d2cf50677ce899926f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        125.0,
+                        1882.2
+                    ],
+                    [
+                        125.0,
+                        1910.0
+                    ],
+                    [
+                        550.7,
+                        1910.0
+                    ],
+                    [
+                        550.7,
+                        1882.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 1
+        },
+        "text": "supervision and control approaches",
+        "type": "Title"
+    },
+    {
+        "element_id": "a1c0579b111827bb91f05b25e18f1551",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        121.9,
+                        1960.6
+                    ],
+                    [
+                        121.9,
+                        2006.0
+                    ],
+                    [
+                        480.3,
+                        2006.0
+                    ],
+                    [
+                        480.3,
+                        1960.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.55478,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 1
+        },
+        "text": "Digital Object Identifier 10.1109/MRA.2020.2984470 Date of current version: 10 June 2020",
+        "type": "Footer"
+    },
+    {
+        "element_id": "99687157a3192773b8a2acad374c13dc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        78.5,
+                        2068.0
+                    ],
+                    [
+                        78.5,
+                        2088.2
+                    ],
+                    [
+                        572.4,
+                        2088.2
+                    ],
+                    [
+                        572.4,
+                        2068.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.48823,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 1
+        },
+        "text": "20",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "f01840e70968f6fed0da50bfd8dc3f9f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        610.0,
+                        254.8
+                    ],
+                    [
+                        610.0,
+                        391.6
+                    ],
+                    [
+                        1467.8,
+                        391.6
+                    ],
+                    [
+                        1467.8,
+                        254.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.63438,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 1
+        },
+        "text": "Deep Learning and Machine Learning in Robotics",
+        "type": "Title"
+    },
+    {
+        "element_id": "d9b852e3c6a2af56bd64ed22f139a4d0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        692.9,
+                        394.6
+                    ],
+                    [
+                        692.9,
+                        420.2
+                    ],
+                    [
+                        1453.8,
+                        420.2
+                    ],
+                    [
+                        1453.8,
+                        394.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.78403,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 1,
+            "parent_id": "f01840e70968f6fed0da50bfd8dc3f9f"
+        },
+        "text": "By Fabio Bonsignorio, David Hsu, Matthew Johnson-Roberson, and Jens Kober",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6a799c49a9407adb60ac90ba2e607ab0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        577.5,
+                        646.6
+                    ],
+                    [
+                        577.5,
+                        843.3
+                    ],
+                    [
+                        1003.6,
+                        843.3
+                    ],
+                    [
+                        1003.6,
+                        646.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93693,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 1,
+            "parent_id": "f01840e70968f6fed0da50bfd8dc3f9f"
+        },
+        "text": "where humans have the option to inte grate with machine learning systems and overcome the systems\u2019 cognitive limitations. This requires that humans understand the decision processes of the machine in sufficient detail.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a2d3eaea02cb9d0c4486584b88abf7f5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        611.1,
+                        848.9
+                    ],
+                    [
+                        611.1,
+                        876.7
+                    ],
+                    [
+                        1003.5,
+                        876.7
+                    ],
+                    [
+                        1003.5,
+                        848.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 1
+        },
+        "text": "This special issue of IEEE Robotics",
+        "type": "Title"
+    },
+    {
+        "element_id": "7f48d8c359eab17c6e5a432e9df34987",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        577.8,
+                        855.9
+                    ],
+                    [
+                        577.8,
+                        1576.7
+                    ],
+                    [
+                        1003.7,
+                        1576.7
+                    ],
+                    [
+                        1003.7,
+                        855.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91278,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 1,
+            "parent_id": "a2d3eaea02cb9d0c4486584b88abf7f5"
+        },
+        "text": "and Automation Magazine focuses on approaches that have been validated on realworld robots, scenarios, and auto mation problems. It features an excep tionally large number of scientific articles, 11 in total, in keeping with the recent massive growth in the field of robot learning. The articles were careful ly selected by the guest editors in two rounds of reviews and provide a good account of the depth and breadth of the research in this area. The methods range from algorithms based on probability theory to deep learning. The whole spec trum of robotics\u2014from manipulators to legged robots to drones to autonomous vehicles\u2014is covered, with applications ranging from rehabilitation to cargo transportation. Additionally, this issue contains two other loosely connected regular articles.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "83eb17327d4a645939952c5f70abf747",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        576.7,
+                        1580.4
+                    ],
+                    [
+                        576.7,
+                        2010.0
+                    ],
+                    [
+                        1003.6,
+                        2010.0
+                    ],
+                    [
+                        1003.6,
+                        1580.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93024,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 1,
+            "parent_id": "a2d3eaea02cb9d0c4486584b88abf7f5"
+        },
+        "text": "\u201cMovement Primitive Learning and Generalization\u201d by You Zhou et al. con siders the representation of movements capable of generalizing according to variations in the environment and task, rather than simply reproducing a dem onstration. The focus of this article is the ability to represent behaviors that have multiple modes (i.e., different strategies) in a joint representation. The final evaluation is a throwing task where the robot decides whether to bounce the ball off a wall or not",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c501bfdf82482a8a7434fd5816e9baae",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        1030.6,
+                        648.9
+                    ],
+                    [
+                        1030.6,
+                        676.7
+                    ],
+                    [
+                        1456.1,
+                        676.7
+                    ],
+                    [
+                        1456.1,
+                        648.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 1,
+            "parent_id": "a2d3eaea02cb9d0c4486584b88abf7f5"
+        },
+        "text": "depending on the target\u2019s location.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ca3d87855b909d78a1235965e9da95dd",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        1030.6,
+                        663.9
+                    ],
+                    [
+                        1030.6,
+                        1410.0
+                    ],
+                    [
+                        1459.7,
+                        1410.0
+                    ],
+                    [
+                        1459.7,
+                        663.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90529,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 1,
+            "parent_id": "a2d3eaea02cb9d0c4486584b88abf7f5"
+        },
+        "text": "\u201cGaussians on Riemannian Manifolds\u201d by Sylvain Calinon provides an over view of the use of Riemannian geome try in robotics. The article then illustrates the use of Gaussians on Rie mannian manifolds for movement gen eration in more detail. This is important as a possible way to reduce the compu tational burden of learning strategies by considering the manifold structure of the data coming from robot motions. Similarly, the following article proposes a structured approach to deal with tem poral features, another characteristic aspect of robotic systems. \u201cInteractive Learning of Temporal Features for Control\u201d by Rodrigo P\u00e9rezDattari et al. explores how robots can be taught new skills interactively by human teachers. The authors focus on tasks where the learning agent needs to be equipped with memory to succeed.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0564159a1c7f3c11a7190b2cb618eac6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        1030.6,
+                        1414.5
+                    ],
+                    [
+                        1030.6,
+                        1997.1
+                    ],
+                    [
+                        1461.0,
+                        1997.1
+                    ],
+                    [
+                        1461.0,
+                        1414.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91498,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 1,
+            "parent_id": "a2d3eaea02cb9d0c4486584b88abf7f5"
+        },
+        "text": "\u201cMultifingered Grasp Planning via Inference in Deep Neural Networks\u201d by Qingkai Lu et al. employs deep learning to predict grasp success, using a voxel representation of the object and the grasp pose as inputs. This model, jointly with a prior over grasp pose, is then used to infer the grasp with the highest chance of suc cess on unseen, novel objects. \u201cOpti mal Deep Learning for Robot Touch\u201d by Nathan Lepora and John Lloyd shows how deep learning methods can be employed to estimate object poses based on input from optical tactile sensors. The authors also demonstrate how the method can then be employed",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2b244d6114d6802cf330a9be33e3ec8a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        1030.6,
+                        1982.2
+                    ],
+                    [
+                        1030.6,
+                        2010.0
+                    ],
+                    [
+                        1309.4,
+                        2010.0
+                    ],
+                    [
+                        1309.4,
+                        1982.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 1
+        },
+        "text": "for 3D object exploration.",
+        "type": "Title"
+    },
+    {
+        "element_id": "3e6fb8477dd6f8a9354e7801d494d0f2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        125.0,
+                        148.9
+                    ],
+                    [
+                        125.0,
+                        743.3
+                    ],
+                    [
+                        550.8,
+                        743.3
+                    ],
+                    [
+                        550.8,
+                        148.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92367,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 2,
+            "parent_id": "2b244d6114d6802cf330a9be33e3ec8a"
+        },
+        "text": "\u201cMachine Learning for Active Gravi ty Compensation in Robotics\u201d by Axier Ugartemendia et al. improves the per formance of mechatronic systems used in rehabilitation, bringing their capabili ties closer to those of human physio therapists. The article compares various methods for learning to compensate for gravity. \u201cDecoding Motor Skills of Artificial Intelligence and Human Poli cies\u201d by Kai Yuan et al. offers the oppo site perspective. It shows how using machine learning to discover how a humanoid robot\u2019s push recovery strate gies can be used to better understand and study human balance control. Those discovered strategies can then be employed for control design.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "5a2b3deae02166d8d22108cfbd344411",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        125.0,
+                        748.9
+                    ],
+                    [
+                        125.0,
+                        1076.7
+                    ],
+                    [
+                        551.5,
+                        1076.7
+                    ],
+                    [
+                        551.5,
+                        748.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93701,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 2,
+            "parent_id": "2b244d6114d6802cf330a9be33e3ec8a"
+        },
+        "text": "\u201cAssured Runtime Monitoring and Planning\u201d by Esen Yel et al. addresses one of the biggest open questions in robot learning: safety and verification. This article proposes to speed up online reachability analysis with a pretrained neural network where the neural net work itself has been verified. The approach is demonstrated experimen tally with quadrotors.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c885ab31a7125d1cdd01a36f4ebe94a9",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        125.0,
+                        1081.3
+                    ],
+                    [
+                        125.0,
+                        1276.7
+                    ],
+                    [
+                        551.0,
+                        1276.7
+                    ],
+                    [
+                        551.0,
+                        1081.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93596,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 2,
+            "parent_id": "2b244d6114d6802cf330a9be33e3ec8a"
+        },
+        "text": "\u201cMultifidelity Reinforcement Learn ing With Gaussian Processes\u201d by Varun Suryan et al. shows how data collected on less realistic simulations can be used to minimize the amount of data that need to be collected on a real robot. The",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ec9897f8fed956ed06d61324e83a5408",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        577.8,
+                        148.9
+                    ],
+                    [
+                        577.8,
+                        176.7
+                    ],
+                    [
+                        1003.5,
+                        176.7
+                    ],
+                    [
+                        1003.5,
+                        148.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 2,
+            "parent_id": "2b244d6114d6802cf330a9be33e3ec8a"
+        },
+        "text": "approach is validated with a navigation",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d4742dd5a19163444d2e1b54aa748578",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        577.8,
+                        158.7
+                    ],
+                    [
+                        577.8,
+                        843.3
+                    ],
+                    [
+                        1003.7,
+                        843.3
+                    ],
+                    [
+                        1003.7,
+                        158.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91386,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 2,
+            "parent_id": "2b244d6114d6802cf330a9be33e3ec8a"
+        },
+        "text": "task on a Pioneer robot. \u201cUnsupervised Pedestrian Pose Prediction\u201d by Xiaoxiao Du et al. addresses a problem that is highly relevant for autonomous driving, i.e., not only detecting pedestrians but also predicting their future behavior. In particular, the authors present a method that does not require labeled pedestrian data for training, which has been a major bottleneck in the practical appli cation of such methods. \u201cDeep Learning Based Localization and Perception Systems\u201d by Zhe Liu et al. presents a sys tem, based on deep learning, that can very accurately localize itself. This is an essential building block toward enabling autonomous navigation, in this case in the Hong Kong International Airport, without requiring modifications to the environment.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "033488002cd8d5c5ae4bcdc1e2950d1a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        577.8,
+                        848.0
+                    ],
+                    [
+                        577.8,
+                        1276.7
+                    ],
+                    [
+                        1003.6,
+                        1276.7
+                    ],
+                    [
+                        1003.6,
+                        848.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92834,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 2,
+            "parent_id": "2b244d6114d6802cf330a9be33e3ec8a"
+        },
+        "text": "As a whole, the 11 articles in this spe cial issue cover a broad range of chal lenges, ranging from crucial theoretical problems (manifold structure of data, temporal features, unsupervised learn ing, and multifidelity reinforcement learning) to key transversal needs (assurance and verification of autono mous operations, gravity compensation, and human skill decoding) while cover ing a wide and diverse set of applications and robotic morphological structures. In addition, the article on the CUDA",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7af7f2d75035e91ba6889d78c8991ab5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        1030.6,
+                        145.6
+                    ],
+                    [
+                        1030.6,
+                        476.7
+                    ],
+                    [
+                        1456.3,
+                        476.7
+                    ],
+                    [
+                        1456.3,
+                        145.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93203,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 2,
+            "parent_id": "2b244d6114d6802cf330a9be33e3ec8a"
+        },
+        "text": "parallel computing platform and pro gramming model by Enric Cervera suggests some interesting technical in sights that can be useful for the practical implementation of machine/deep learn ing systems. Further, the article by David StOnge et al. on planetary exploration provides an example of an application where those approaches could have huge benefits in the future.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4ca74b43c52767bdb7964d4783798aa3",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        1030.6,
+                        480.6
+                    ],
+                    [
+                        1030.6,
+                        710.0
+                    ],
+                    [
+                        1456.4,
+                        710.0
+                    ],
+                    [
+                        1456.4,
+                        480.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93403,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 2,
+            "parent_id": "2b244d6114d6802cf330a9be33e3ec8a"
+        },
+        "text": "We hope that, while providing a rich picture of the state of the art in the application of machine and deep learning in intelligent robotics, this spe cial issue will inspire further research from both the theoretical and applica tion standpoints.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "653c1c3ac999a9c3f9470c6475432074",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        1030.6,
+                        746.7
+                    ],
+                    [
+                        1030.6,
+                        843.3
+                    ],
+                    [
+                        1456.3,
+                        843.3
+                    ],
+                    [
+                        1456.3,
+                        746.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.89741,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 2,
+            "parent_id": "2b244d6114d6802cf330a9be33e3ec8a"
+        },
+        "text": "Fabio Bonsignorio is with Heron Robots, Genoa, Italy. Email: fabio.bonsignorio @heronrobots.com.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "87c65b3d8df91e29db48e67f71358aca",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        1030.6,
+                        878.7
+                    ],
+                    [
+                        1030.6,
+                        976.7
+                    ],
+                    [
+                        1456.3,
+                        976.7
+                    ],
+                    [
+                        1456.3,
+                        878.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90157,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 2,
+            "parent_id": "2b244d6114d6802cf330a9be33e3ec8a"
+        },
+        "text": "David Hsu is with the National Univer sity of Singapore. Email: dyhsu@comp .nus.edu.sg.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "95bc2e69855aaf517e0bee5a5663308c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        1030.5,
+                        1013.1
+                    ],
+                    [
+                        1030.5,
+                        1110.0
+                    ],
+                    [
+                        1456.4,
+                        1110.0
+                    ],
+                    [
+                        1456.4,
+                        1013.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.88849,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 2,
+            "parent_id": "2b244d6114d6802cf330a9be33e3ec8a"
+        },
+        "text": "Matthew Johnson-Roberson is with the University of Michigan, Ann Arbor, United States. Email: mattjr@umich.edu.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e54570a4e05f28ce9adb4717b13226aa",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        1028.4,
+                        1145.0
+                    ],
+                    [
+                        1028.4,
+                        1243.3
+                    ],
+                    [
+                        1458.8,
+                        1243.3
+                    ],
+                    [
+                        1458.8,
+                        1145.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.88373,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 2,
+            "parent_id": "2b244d6114d6802cf330a9be33e3ec8a"
+        },
+        "text": "Jens Kober is with the Delft University of Technology, The Netherlands. Email: j.kober@tudelft.nl.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "52954fd8733468f085ee8036c3fd31a7",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        1421.0,
+                        1245.0
+                    ],
+                    [
+                        1421.0,
+                        1268.0
+                    ],
+                    [
+                        1447.0,
+                        1268.0
+                    ],
+                    [
+                        1447.0,
+                        1245.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 2
+        },
+        "text": "a",
+        "type": "Title"
+    },
+    {
+        "element_id": "dc2e028e10996f32a035209a09bf8c7b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        125.0,
+                        1467.6
+                    ],
+                    [
+                        125.0,
+                        2000.0
+                    ],
+                    [
+                        1450.0,
+                        2000.0
+                    ],
+                    [
+                        1450.0,
+                        1467.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "image_path": "/home/msunkur/dev/projects/uol/Module5/midterm/CM3020_Artificial_Intelligence/parta/docs/tmp/tmp_ingest/output/figure-2-1.jpg",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 2
+        },
+        "text": "IEEE connects you to a universe of information!  As the world\u2019s largest professional association dedicated to advancing   technological innovation and excellence for the benefit of humanity,   the IEEE and its Members inspire a global community through its   highly cited publications, conferences, technology standards,   and professional and educational activities.   Visit www.ieee.org.   Publications  /  IEEE Xplore \u00ae  /  Standards  /  Membership  /  Conferences  /  Education   IMAGE LICENSED BY INGRAM PUBLISHING ",
+        "type": "Image"
+    },
+    {
+        "element_id": "459085fbb02130b97dabf09c290a3361",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        812.2,
+                        1975.7
+                    ],
+                    [
+                        812.2,
+                        1985.2
+                    ],
+                    [
+                        1000.3,
+                        1985.2
+                    ],
+                    [
+                        1000.3,
+                        1975.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 2
+        },
+        "text": "IMAGE LICENSED BY INGRAM PUBLISHING",
+        "type": "Title"
+    },
+    {
+        "element_id": "8f2c18ed415dce954bc9a10e1cd6802a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2150,
+                "layout_width": 1575,
+                "points": [
+                    [
+                        990.6,
+                        2065.9
+                    ],
+                    [
+                        990.6,
+                        2088.4
+                    ],
+                    [
+                        1497.4,
+                        2088.4
+                    ],
+                    [
+                        1497.4,
+                        2065.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.64321,
+            "file_directory": "./uol-docs",
+            "filename": "Deep_Learning_and_Machine_Learning_in_Robotics_From_the_Guest_Editors.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T23:11:15",
+            "page_number": 2,
+            "parent_id": "459085fbb02130b97dabf09c290a3361"
+        },
+        "text": "21",
+        "type": "ListItem"
+    }
+]

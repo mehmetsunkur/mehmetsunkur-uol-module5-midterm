@@ -1,0 +1,19 @@
+The text does not explicitly state why AI systems are created to play games. However, it heavily implies that training AI in game environments is a valuable testing ground for developing and refining AI algorithms before applying them to real-world scenarios.
+
+The text mentions several benefits of using games for AI research:
+
+* **Complex Environments:** Games often present complex and dynamic 3D environments that challenge AI systems to learn and adapt.
+* **Benchmarking Performance:** Games provide a standardized platform for comparing the performance of different AI algorithms.
+* **Real-World Applications:** The skills and knowledge gained by training AI in games can be transferred to real-world applications such as robotics, autonomous vehicles, and decision-making systems.
+
+Therefore, while the text doesn't explicitly state "why" AI is created to play games, it strongly suggests that game environments serve as valuable testing grounds for developing and refining AI algorithms with potential real-world applications.
+
+
+AI systems that play games are created for several reasons, including:
+
+* **Testing and improving AI algorithms:** Games provide complex and dynamic environments where AI agents can learn and adapt.
+
+* **Developing new AI techniques:** Game AI often requires innovative solutions to problems like pathfinding, decision-making, and opponent modeling.
+
+* **Creating engaging and entertaining experiences:** Game AI can make games more challenging, realistic, and fun for human players.
+SOURCES: uol-docs/1-s2.0-S1875952119300497-main.pdf.md 

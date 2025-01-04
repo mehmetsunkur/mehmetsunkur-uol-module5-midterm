@@ -1,0 +1,28 @@
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/ASE.2019.00077.pdf.md
+
+not found 
+SOURCES:
+
+The text does not mention why AI systems are created to play games.
+
+SOURCES: uol-docs/ASE.2019.00077.pdf.md 
+
+
+The text explains why AI systems are created to play games.
+
+Here's a breakdown from the provided excerpt:
+
+* **Testing:** Games are becoming increasingly complex, making testing crucial for quality assurance. Traditional testing methods are often insufficient.
+* **Learning and Improvement:** AI, particularly deep reinforcement learning (DRL), can be used to automatically test games. This allows for more comprehensive exploration of game states and identification of bugs.
+* **Beyond Traditional Testing:**  AI-powered testing goes beyond simply checking if a game works; it can learn strategies, identify weaknesses in game design, and even potentially suggest improvements.
+
+Therefore, AI systems are created to play games to improve the testing process, leading to higher quality and more enjoyable gaming experiences. 
+SOURCES: uol-docs/ASE.2019.00077.pdf.md
+
+not found 
+SOURCES:

@@ -1,0 +1,51 @@
+not found 
+SOURCES:
+
+The text explains why creating AI systems that play games can be beneficial for research and development, but it doesn't explicitly state "why" as a standalone reason.
+
+Here are some reasons implied in the text for creating AI systems that play games:
+
+* **Testing and Improving Deep Reinforcement Learning Algorithms:** Games provide complex, dynamic environments where AI agents can learn and improve their decision-making abilities.
+* **Understanding Complex Systems:** Game environments can be used to study how AI agents learn and adapt to changing conditions, providing insights into the workings of intelligence itself.
+* **Developing New Technologies:** The challenges posed by game environments often lead to the development of new algorithms and techniques that can be applied to other areas, such as robotics or autonomous driving.
+
+**Therefore, while the text doesn't directly answer "why" create AI systems that play games, it highlights the value of such systems for research and technological advancement.**
+SOURCES: uol-docs/3631970.pdf.md
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text discusses using AI to play games for several reasons:
+
+* **Testing:** AI agents trained to play games can be used to test the robustness and limitations of those games. By exposing the game to a variety of AI-generated strategies, developers can identify weaknesses or unexpected behaviors.
+* **Understanding Intelligence:** Games provide a controlled environment to study how AI learns and makes decisions. Observing how AI agents master complex game mechanics can offer insights into the nature of intelligence itself.
+
+The text does not explicitly state "why" to create AI systems that play games but implies these reasons through its discussion of using DRL (Deep Reinforcement Learning) agents for testing and analysis within game environments. 
+
+
+not found
+SOURCES:  
+
+
+
+
+
+Why to create AI systems that play games?
+
+AI systems that can play games are valuable for several reasons:
+
+* **Testing and Benchmarking:** Games provide complex, dynamic environments where AI agents can be tested and evaluated. Success in games often requires sophisticated decision-making, planning, and learning capabilities.
+
+* **Developing General Intelligence:** Many researchers believe that creating AI agents capable of mastering a variety of games can contribute to the development of more general artificial intelligence. The skills learned in games, such as strategic thinking, adaptation, and problem-solving, are transferable to other domains.
+* **Understanding Human Cognition:** Studying how AI agents learn to play games can provide insights into human cognition and decision-making processes.
+
+* **Entertainment and Innovation:** Game-playing AI can lead to new forms of entertainment and interactive experiences.
+
+SOURCES:
+
+not found
+
+SOURCES:  

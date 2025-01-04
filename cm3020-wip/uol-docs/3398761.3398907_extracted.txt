@@ -1,0 +1,20 @@
+not found 
+SOURCES:
+
+The text does not explicitly state why to create AI systems that play games. However, it suggests that training AI agents to play games can be beneficial for several reasons:
+
+* **Learning a perceptual model of the world:** Games often involve complex visual and auditory environments, requiring AI agents to learn how to perceive and interpret these inputs.
+* **Developing reinforcement learning algorithms:** Games provide a controlled environment for testing and refining reinforcement learning algorithms, which are crucial for training AI agents to make decisions and achieve goals.
+* **Zero-shot modality transfer:** The ability to transfer learned policies from one input modality (e.g., images) to another (e.g., sound) is a valuable capability for AI systems.
+
+Therefore, while the text doesn't explicitly state "why" create AI that plays games, it implies that doing so can advance our understanding of perception, learning, and transferability in AI systems.
+SOURCES: uol-docs/3398761.3398907.md
+
+The text discusses creating AI systems that play games as a way to explore the potential of reinforcement learning and multimodal representation learning. It doesn't explicitly state why playing games is chosen, but it implies several reasons:
+
+* **Controlled Environment:** Games provide a structured and controlled environment for testing AI algorithms. The rules are well-defined, and the agent's interactions with the environment are predictable.
+* **Benchmarking Performance:** Many classic games serve as benchmarks for evaluating AI performance. By comparing an agent's performance to human players or other AI agents, researchers can assess its capabilities.
+* **Exploring Generalization:** Training an agent to play a game in one modality (e.g., visual input) and then testing its ability to perform in another modality (e.g., auditory input) allows for studying the agent's ability to generalize knowledge across different sensory experiences.
+
+Therefore, while the text doesn't explicitly state "why" games are used, it highlights the benefits of using games as a testbed for developing and evaluating AI systems.
+SOURCES: uol-docs/3398761.3398907.md

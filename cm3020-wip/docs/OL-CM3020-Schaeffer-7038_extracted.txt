@@ -1,0 +1,67 @@
+Researchers create AI systems that play games like checkers for several reasons:
+
+* **To push the boundaries of artificial intelligence:** Games like checkers provide a complex and challenging environment for AI to learn and improve in. Success in these domains demonstrates advancements in areas like search algorithms, evaluation functions, and machine learning.
+
+* **To test and refine algorithms:** Game playing offers a controlled setting to test and compare different AI algorithms. Researchers can analyze the performance of various techniques and identify strengths and weaknesses.
+
+* **To gain insights into human cognition:** By studying how AI systems learn to play games, researchers can gain insights into human thought processes, decision-making, and problem-solving strategies.
+
+* **For educational purposes:** Game-playing AI can be a valuable tool for teaching students about artificial intelligence concepts and programming techniques.
+
+SOURCES: docs/OL-CM3020-Schaeffer-7038.md
+
+Researchers create AI systems that play games for several reasons, including:
+
+* **To explore and test artificial intelligence techniques:** Games provide a challenging and well-defined environment for testing AI algorithms, such as search, evaluation, and learning.
+
+* **To understand human cognition:** By studying how AI agents learn to play games, researchers can gain insights into the cognitive processes involved in human game playing.
+* **To develop new algorithms and techniques:** The competitive nature of games drives innovation in AI research, leading to the development of new algorithms and techniques that can be applied to other domains.
+
+Specifically, checkers is chosen as a problem domain due to its reduced complexity compared to chess, making it easier to experiment with and analyze different AI approaches.
+SOURCES: 2-pl
+
+Researchers create AI systems that play games for several reasons, including:
+
+* **Testing and advancing AI algorithms:** Games provide a complex and challenging environment for AI to learn and improve in areas like planning, strategy, and decision-making.
+
+* **Understanding human intelligence:** By studying how AI learns to play games, researchers can gain insights into the cognitive processes involved in human gameplay.
+* **Developing new technologies:** Game-playing AI often leads to advancements in other fields, such as robotics, natural language processing, and computer vision.
+
+
+SOURCES: docs/OL-CM3020-Schaeffer-7038.md
+
+not found
+
+SOURCES: 
+
+
+Researchers create AI systems that play games for several reasons, including:
+
+* **To test and improve AI algorithms:** Games provide a challenging and well-defined environment for testing the capabilities of AI systems. By pitting AI agents against each other or human opponents, researchers can evaluate their performance in areas such as planning, strategy, and learning.
+* **To explore fundamental questions about intelligence:** Games have long been used as a tool for studying human intelligence. By creating AI systems that can play games at a high level, researchers hope to gain insights into the nature of intelligence itself.
+
+* **To develop new applications:** The techniques developed for building game-playing AI can often be applied to other domains, such as robotics, autonomous driving, and natural language processing.
+
+
+SOURCES: docs/OL-CM3020-Schaeffer-7038.md
+
+Researchers create AI systems that play games for several reasons, including:
+
+* **Testing and improving AI algorithms:** Games provide a complex and challenging environment for AI to learn and improve its decision-making abilities.
+
+* **Understanding human intelligence:** By studying how AI learns to play games, researchers can gain insights into the nature of human intelligence and problem-solving.
+* **Developing new technologies:** The techniques used to create game-playing AI can be applied to other areas, such as robotics, autonomous vehicles, and financial modeling.
+
+This excerpt focuses on using checkers databases to potentially solve the game of checkers. 
+
+
+SOURCES: docs/OL-CM3020-Schaeffer-7038.md
+
+Researchers create AI systems that play games for a variety of reasons, including:
+
+* **Testing and benchmarking AI algorithms:** Games provide a controlled environment to evaluate the performance of different AI techniques, such as search algorithms, machine learning methods, and knowledge representation schemes.
+
+* **Understanding human intelligence:** By studying how AI agents learn to play games, researchers can gain insights into the cognitive processes involved in human decision-making, planning, and problem-solving.
+* **Developing new AI applications:** Game-playing AI systems often incorporate advanced techniques that can be applied to other domains, such as robotics, autonomous driving, and natural language processing.
+
+SOURCES: docs/OL-CM3020-Schaeffer-7038.md 

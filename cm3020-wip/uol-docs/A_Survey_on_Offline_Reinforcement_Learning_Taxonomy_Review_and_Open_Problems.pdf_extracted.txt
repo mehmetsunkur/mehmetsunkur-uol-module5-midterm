@@ -1,0 +1,33 @@
+not found 
+SOURCES:
+
+While the text discusses various reasons for creating AI systems that play games, it doesn't explicitly state "why" as a primary reason. The document focuses on explaining the mechanics and challenges of offline reinforcement learning in the context of game-playing AI.
+
+Therefore, the answer is **not found**. 
+
+
+While the text discusses various methods for creating AI systems that play games, it doesn't explicitly state *why* researchers create such systems. 
+
+However, we can infer some reasons based on the information provided:
+
+* **Understanding Intelligence:** Creating AI agents that can learn to play games complex games helps researchers understand how intelligence and learning work. Games often involve strategic thinking, planning, and adaptation – qualities also found in human intelligence.
+* **Developing New Algorithms:**  The challenge of creating game-playing AI pushes the development of new algorithms and techniques in machine learning and reinforcement learning. These advancements can then be applied to other fields.
+* **Benchmarking Progress:** Games provide a standardized environment to benchmark the progress of AI research. By comparing how well different algorithms perform on the same games, researchers can track improvements over time.
+
+Let me know if you have any other questions! 
+
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES: uol-docs/A_Survey_on_Offline_Reinforcement_Learning_Taxonomy_Review_and_Open_Problems.pdf.md
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+uol-docs/A_Survey_on_Offline_Reinforcement_Learning_Taxonomy_Review_and_Open_Problems.pdf.md
+
+not found 
+SOURCES:

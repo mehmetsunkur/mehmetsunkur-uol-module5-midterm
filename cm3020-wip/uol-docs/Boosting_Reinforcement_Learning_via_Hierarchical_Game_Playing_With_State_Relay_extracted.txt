@@ -1,0 +1,22 @@
+The text does not explicitly state why to create AI systems that play games. However, it does mention several benefits of using game playing in reinforcement learning:
+
+* **Improved Sample Efficiency:** Game-playing agents can learn more efficiently by retaining intermediate states and exploring a wider range of the environment.
+* **Addressing Sparse Rewards:** Games can be designed with clear win/loss conditions, providing more frequent and meaningful rewards for the agent to learn from.
+* **Hierarchical Learning:** Games can be used to train hierarchical reinforcement learning (HRL) agents, where higher-level policies set goals for lower-level policies, enabling them to solve complex tasks.
+
+Therefore, while the text doesn't directly state "why" to create AI systems that play games, it highlights several advantages of this approach in the context of reinforcement learning.
+SOURCES: uol-docs/Boosting_Reinforcement_Learning_via_Hierarchical_Game_Playing_With_State_Relay.md
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text describes a hierarchical reinforcement learning algorithm for motion planning but does not explicitly state why to create AI systems that play games. 
+
+Therefore, the answer is **not found**. 
+SOURCES: uol-docs/Boosting_Reinforcement_Learning_via_Hierarchical_Game_Playing_With_State_Relay.md
+
+not found 
+
+SOURCES:

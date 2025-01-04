@@ -1,0 +1,28 @@
+Researchers create AI systems that play games for several reasons:
+
+* **To test and develop new AI algorithms:** Games provide a challenging and controlled environment to evaluate the performance of AI agents, especially in areas like strategic thinking, planning, and decision-making under uncertainty.
+
+* **To explore fundamental questions about intelligence:** By studying how AI agents learn to play games, researchers can gain insights into the nature of intelligence, learning, and problem-solving.
+
+* **To create entertaining and engaging experiences:** Game-playing AI can be used to develop new types of video games and interactive entertainment experiences.
+SOURCES: docs/2412.02016v1.md
+
+Researchers create AI systems that play games for several reasons, including:
+
+* **Testing and benchmarking:** Games provide a controlled environment to test and compare the performance of different AI algorithms. 
+* **Understanding intelligence:** By building AI that can play games, researchers gain insights into the nature of intelligence and decision-making.
+* **Developing new algorithms:** The challenges posed by games often lead to the development of novel AI algorithms with broader applications.
+
+While this document focuses on a specific algorithm (Exp3-IXrl) for game playing, it highlights the general motivations behind using games as a testing ground for AI research. 
+
+
+SOURCES: docs/2412.02016v1.md
+
+Researchers create AI systems that play games for several reasons, including:
+
+* **Testing and benchmarking algorithms:** Games provide a controlled environment to evaluate the performance of different AI algorithms, such as reinforcement learning techniques.
+
+* **Understanding strategic decision-making:** Games often involve complex strategic interactions between agents, allowing researchers to study how AI systems learn and adapt to these challenges.
+* **Developing new AI techniques:** The competitive nature of games drives innovation in AI research, leading to the development of novel algorithms and approaches.
+
+SOURCES: docs/2412.02016v1.md

@@ -1,0 +1,25 @@
+The text explains that AI systems are trained to play games for educational and research purposes.
+
+It mentions several reasons why creating AI systems that play games is beneficial, including:
+
+* **Educational Perspective:** It helps students learn about game learning concepts and algorithms in a practical setting.
+* **Research Perspective:** It allows researchers to compare different AI agents on various games and evaluate their strengths and weaknesses.
+* **Understanding Game Mechanics:** Training AI agents can reveal insights into the underlying mechanics and strategies of a game.
+
+The text also describes the GBG framework, which is designed to facilitate the development and testing of AI agents for board games.
+
+
+SOURCES: uol-docs/General_Board_Game_Playing_for_Education_and_Research_in_Generic_AI_Game_Learning.md
+
+The text does not explicitly state why to create AI systems that play games, but it heavily implies several reasons:
+
+* **Educational Benefits:** The framework allows students to quickly grasp complex concepts in game learning and AI by providing ready-made agents and a standardized interface. This accelerates the development process and encourages experimentation.
+* **Research Opportunities:**  The framework facilitates research into different game-playing algorithms (like TD-n-tuple, MCTS) and their performance across various games. It allows for comparisons and insights into the strengths and weaknesses of each approach.
+* **Generalizability of AI Techniques:** The success of agents like TD-n-tuple across diverse games (2048, Connect-4, Hex) demonstrates the potential for developing general-purpose AI techniques applicable to a wide range of problems.
+
+Therefore, while the text doesn't explicitly state "why" create AI systems that play games, it strongly suggests that such systems serve as valuable tools for education, research, and the development of more broadly applicable AI techniques. 
+
+
+not found
+
+SOURCES:

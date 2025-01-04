@@ -1,0 +1,24 @@
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text explains that the framework is designed to detect bugs in video games, particularly perceptual bugs. It mentions using reinforcement learning (RL) agents to gather datasets and identify anomalies within gameplay footage.
+
+While the text focuses on the benefits of using AI for bug detection in games, it doesn't explicitly state why developers create AI systems for this purpose. However, we can infer some reasons:
+
+
+* **Efficiency:** Automating bug detection saves time and effort compared to manual testing.
+* **Accuracy:** AI systems can potentially identify subtle bugs that human testers might miss.
+* **Scalability:** AI-powered tools can analyze large amounts of gameplay data quickly and efficiently.
+
+Therefore, developers create AI systems for game bug detection to improve the efficiency, accuracy, and scalability of the testing process. 
+
+
+not found
+
+SOURCES: 

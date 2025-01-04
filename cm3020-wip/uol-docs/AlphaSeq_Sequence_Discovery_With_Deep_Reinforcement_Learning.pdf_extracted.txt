@@ -1,0 +1,23 @@
+The text describes using AI to discover sequences with desired properties, but it doesn't explicitly state why this is done.
+
+It mentions that traditional methods for sequence design can be limited, so a more flexible algorithmic approach using deep reinforcement learning (DRL) is proposed. 
+
+While the "why" isn't directly stated, we can infer that creating AI systems to play games and discover sequences aims to:
+
+* **Overcome limitations of analytical methods:** Traditional mathematical approaches may struggle with complex design criteria.
+* **Explore a wider range of solutions:** Algorithmic search allows for discovering sequences that might not be found through traditional means.
+* **Potentially find better solutions:** The AI system can learn and improve over time, potentially leading to sequences with superior properties compared to existing ones.
+
+Therefore, the ultimate goal is likely to develop more efficient and effective methods for designing sequences with specific desired characteristics. 
+
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. It focuses on describing a DRL-based paradigm called AlphaSeq for sequence discovery and provides details about its implementation and applications in MC CDMA systems and pulse compression radar systems. 
+
+Therefore, the answer is **not found**.
+
+The text describes a deep reinforcement learning approach to sequence discovery called AlphaSeq, but it does not mention why one would create AI systems that play games. 
+
+SOURCES: uol-docs/AlphaSeq_Sequence_Discovery_With_Deep_Reinforcement_Learning.pdf.md

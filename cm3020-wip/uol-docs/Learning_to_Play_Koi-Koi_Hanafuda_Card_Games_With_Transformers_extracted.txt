@@ -1,0 +1,32 @@
+AI systems are created to play games for several reasons:
+
+* **Testing and Improving AI Algorithms:** Games provide a complex and challenging environment for AI to learn and improve. They require strategic thinking, planning, and adaptation, which are all important skills for AI systems.
+
+* **Understanding Human Cognition:** By studying how AI agents learn to play games, researchers can gain insights into human cognition and decision-making processes.
+
+* **Developing New Applications:** Game-playing AI can be applied to other domains, such as robotics, finance, and healthcare. For example, the techniques used to train game-playing AI can be adapted to train robots to navigate complex environments or to develop algorithms for financial trading.
+* **Entertainment and Education:** Game-playing AI can provide entertainment and educational value. Playing against a strong AI opponent can be both challenging and fun, while also helping players to improve their own skills.
+
+The specific reasons for creating AI systems that play Koi-Koi may include the desire to:
+
+* **Explore the capabilities of transformer networks in handling complex card games.**
+* **Develop a high-performing AI agent that can compete with human players.**
+* **Gain insights into the strategies and tactics used in Koi-Koi.**
+
+
+SOURCES: uol-docs/Learning_to_Play_Koi-Koi_Hanafuda_Card_Games_With_Transformers.md
+
+AI systems are created to play games for several reasons:
+
+* **To test and improve AI algorithms:** Games provide a complex and challenging environment for AI agents to learn and adapt. By playing games, researchers can evaluate the performance of different AI techniques and identify areas for improvement.
+
+* **To explore strategic thinking and decision-making:** Games often require players to make strategic decisions under uncertainty. AI systems that can play games well can provide insights into how humans make decisions and develop new strategies.
+
+* **For entertainment and education:** Game-playing AI can be used to create engaging and educational experiences for users. For example, AI opponents in video games can provide a challenging and fun experience for players of all skill levels.
+* **To advance research in areas like reinforcement learning:** Games provide a natural testbed for reinforcement learning algorithms, where agents learn by interacting with their environment and receiving rewards for good performance.
+
+The specific reasons for creating an AI system to play Koi-Koi may include the desire to understand the complex rules and strategies of the game, to develop AI agents that can compete with human players, or to explore new techniques in reinforcement learning.
+
+
+not found 
+SOURCES:

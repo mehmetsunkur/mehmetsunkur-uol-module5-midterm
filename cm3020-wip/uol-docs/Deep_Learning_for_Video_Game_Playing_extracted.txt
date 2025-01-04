@@ -1,0 +1,30 @@
+The text explains that Deep Learning (DL) is used for creating AI systems that can play video games. It discusses different DL methods and how they are applied to various game genres.
+
+It highlights the challenges of using DL for game playing, such as dealing with large decision spaces and sparse rewards. The text also mentions the importance of exploration vs. exploitation in RL algorithms.
+SOURCES: uol-docs/Deep_Learning_for_Video_Game_Playing.md
+
+AI systems are trained to play games for several reasons:
+
+* **Intrinsic Motivation:** Games provide a fun and engaging environment for AI agents to learn, explore, and develop problem-solving skills.
+
+* **Benchmarking Progress:** Game playing serves as a benchmark to evaluate the capabilities of AI algorithms and track progress in artificial intelligence research.
+
+* **Understanding Intelligence:** By studying how AI agents learn to play games, researchers gain insights into the nature of intelligence, decision-making, and learning processes.
+* **Real-World Applications:** Techniques developed for game playing can be applied to real-world problems such as robotics, autonomous driving, and resource management.
+
+The text provides examples of how different deep learning architectures have been used to train AI agents in various types of games, from simple Atari games to complex strategy games like StarCraft.
+
+The text explains why creating AI systems that play games is important for research, but it doesn't explicitly state a reason for "creating AI systems that play games" in the sense of entertainment or commercial purposes.
+
+SOURCES: uol-docs/Deep_Learning_for_Video_Game_Playing.md
+
+AI systems are trained to play games for several reasons:
+
+* **Testing and Benchmarking:** Games provide complex, dynamic environments that can be used to test the capabilities of AI algorithms. Success in games often requires sophisticated planning, decision-making, and learning abilities.
+
+* **Understanding Intelligence:** By studying how AI agents learn to play games, researchers gain insights into the nature of intelligence and problem-solving.
+
+* **Developing New Algorithms:** The challenges posed by game environments often lead to the development of novel AI algorithms and techniques that can be applied to other domains.
+* **Entertainment and Education:** AI-powered game opponents can provide challenging and engaging experiences for human players. They can also be used in educational settings to teach concepts related to AI, game theory, and programming.
+
+SOURCES: uol-docs/Deep_Learning_for_Video_Game_Playing.md

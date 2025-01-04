@@ -1,0 +1,11 @@
+not found 
+SOURCES:
+
+The text explains that AI systems are trained to play games for several reasons, including:
+
+* **Improving AI Capabilities:** Playing games requires complex decision-making, strategy development, and adaptation to changing environments. These are all skills that can be transferred to other areas of AI development.
+* **Benchmarking Progress:** Games provide a standardized environment where AI performance can be measured and compared. This helps researchers track progress in the field.
+
+* **Exploring New Algorithms:** The challenge of game playing often leads to the development of novel algorithms and techniques that can be applied to other problems.
+
+SOURCES: uol-docs/electronics-08-01128-v2.md

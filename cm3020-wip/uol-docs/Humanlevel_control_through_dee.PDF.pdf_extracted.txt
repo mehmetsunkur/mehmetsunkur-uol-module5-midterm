@@ -1,0 +1,56 @@
+AI systems that play games are created for several reasons, including:
+
+* **Understanding Intelligence:** Games provide a controlled environment to study how intelligence works. By building AI that can master games, researchers gain insights into learning, decision-making, and problem-solving.
+
+* **Developing New Algorithms:** The challenge of creating game-playing AI pushes the boundaries of computer science and leads to the development of novel algorithms and techniques that can be applied to other fields.
+
+* **Benchmarking Progress:** Games serve as benchmarks to measure the progress of AI research. As AI systems improve their performance in games, it indicates advancements in the field.
+* **Entertainment and Education:** Game-playing AI can create engaging and challenging experiences for humans. It can also be used for educational purposes, teaching concepts like strategy and logic.
+
+While this document doesn't explicitly state *why* the researchers created the DQN agent, it heavily implies that they were interested in understanding how to build artificial intelligence capable of learning from high-dimensional sensory input (like video game visuals) and making complex decisions in a dynamic environment.
+SOURCES: uol-docs/Humanlevel_control_through_dee.PDF.pdf.md
+
+The text explains that AI systems are trained to play games because it allows researchers to test their ability to learn complex strategies and adapt to changing environments without requiring explicit programming. This is a valuable tool for understanding how intelligence emerges and can be applied to real-world problems.
+
+SOURCES: uol-docs/Humanlevel_control_through_dee.PDF.pdf.md
+
+The text provided does not contain information about why to create AI systems that play games. Therefore, the answer is **not found**. 
+
+
+
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text describes a method for training artificial intelligence agents to play Atari games using deep Q-learning. While it mentions the benefits and mechanics of this approach, it does not explicitly state why one would create AI systems that play games.
+
+Therefore, the answer is **not found**. 
+SOURCES:
+
+AI systems that play games are created for several reasons, including:
+
+* **Testing and benchmarking AI algorithms:** Games provide a challenging and controlled environment to evaluate the performance of AI agents in tasks like planning, decision-making, and learning.
+
+* **Understanding human intelligence:** By studying how AI learns to play games, researchers can gain insights into the cognitive processes involved in human game playing.
+* **Developing new AI techniques:** The complexity of games often pushes the boundaries of existing AI methods, leading to the development of novel algorithms and approaches.
+* **Creating entertaining and engaging experiences:** Game-playing AI can be used to create interactive and challenging experiences for human players.
+
+SOURCES: uol-docs/Humanlevel_control_through_dee.PDF.pdf.md 

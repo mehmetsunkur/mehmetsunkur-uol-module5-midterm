@@ -1,0 +1,10 @@
+I need to write a python script to a create an llm agent with langchain.
+the agent should have the following properties:
+
+   a. Import the necessary modules from the langchain library.
+   b. Initialize an LLM (Language Model) of your choice (e.g., OpenAI, Hugging Face).
+   c. Create a document loader to load the provided text document.
+   d. Split the document into smaller chunks for processing.
+   e. implement map reduce prompt to process the document in small chaunks. 
+   f. extract the relevant information to the given subject from each chunk.
+   g. combine the extracted information to form each chunk.

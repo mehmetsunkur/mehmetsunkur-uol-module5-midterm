@@ -1,0 +1,10 @@
+The text explains that AI systems are trained to play games for several reasons, including:
+
+* **Faster convergence rate:** AI can learn and improve at playing games much faster than humans.
+* **Less computing resources:** Some architectures, like the RQDNN described in the text, require less computational power compared to traditional deep reinforcement learning algorithms.
+* **Performance improvement:** AI systems can often achieve scores higher than human players.
+
+The text provides examples of AI successfully playing games like Flappy Bird and Breakout. 
+
+
+SOURCES: uol-docs/electronics-08-01128-v2.pdf.md

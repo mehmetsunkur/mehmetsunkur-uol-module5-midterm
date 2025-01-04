@@ -1,0 +1,14 @@
+The text does not mention why to create AI systems that play games. 
+
+SOURCES: uol-docs/1-s2.0-S0747563220303873-main.pdf.md
+
+not found 
+SOURCES:
+
+The text does not explicitly state why to create AI systems that play games. However, it suggests several potential benefits of such systems:
+
+* **Understanding the impact of games on emotions:** The research aims to identify how different types of games affect players' emotional states. This information could be valuable for game developers, psychologists, and educators.
+* **Developing tools for addiction prevention:** By identifying games that trigger negative emotions, researchers could develop tools to help people avoid or manage gaming addiction.
+
+While the text doesn't directly answer "why" create AI systems that play games, it highlights potential applications in understanding human behavior and promoting well-being. 
+SOURCES: uol-docs/1-s2.0-S0747563220303873-main.pdf.md

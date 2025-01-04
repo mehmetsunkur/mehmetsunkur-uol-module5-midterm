@@ -1,0 +1,11 @@
+The text does not explicitly state why AI systems are created for playing games. However, it implies that game-playing agents based on deep reinforcement learning can be used to solve complex problems in dynamic environments.
+
+For example, the article mentions using DDPG (Deep Deterministic Policy Gradient) to train an agent to navigate a confrontation scenario with obstacles and an opponent. This suggests that game-playing AI can be used for:
+
+
+* **Testing and developing new algorithms:** Games provide a controlled environment to test and refine AI algorithms in complex situations.
+* **Understanding decision-making processes:** Analyzing how AI agents play games can shed light on decision-making strategies and problem-solving techniques.
+* **Developing real-world applications:** The skills learned by game-playing AI, such as planning, adaptation, and strategic thinking, can be applied to real-world problems in robotics, autonomous driving, and other fields.
+
+While the article focuses on a specific application of game-playing AI, it highlights the broader potential of this technology for advancing artificial intelligence research and development.
+SOURCES: uol-docs/robotics-11-00035.md

@@ -1,0 +1,23 @@
+not found 
+SOURCES:
+
+AI systems are trained to play games for several reasons:
+
+* **Understanding Intelligence:** Games provide a controlled environment to study decision-making, strategy, and learning in artificial intelligence. By observing how AI agents learn and adapt in games, researchers gain insights into the nature of intelligence itself.
+
+* **Developing New Algorithms:** The challenges posed by game environments often lead to the development of novel algorithms and techniques that can be applied to other domains, such as robotics, optimization, and natural language processing.
+
+* **Benchmarking Performance:** Games offer standardized benchmarks for evaluating the performance of AI systems. Comparing AI agents' scores in games allows researchers to track progress and identify areas for improvement.
+
+* **Entertainment and Education:** Game-playing AI can provide entertainment and educational value. For example, playing against a strong chess AI can be both challenging and instructive.
+
+
+Let me know if you have any other questions!
+
+The text describes a method for teaching AI to play the card game Koi-Koi using Transformers, but it does not mention why AI systems are created to play games. 
+
+Therefore, the answer is **not found**.
+SOURCES: uol-docs/Learning_to_Play_Koi-Koi_Hanafuda_Card_Games_With_Transformers.pdf.md
+
+not found 
+SOURCES: 

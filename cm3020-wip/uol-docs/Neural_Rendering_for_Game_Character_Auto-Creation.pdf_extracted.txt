@@ -1,0 +1,23 @@
+The text does not explicitly state why AI systems are created to play games. However, it does mention that the proposed method for creating game characters is novel and has been applied to two role-playing games.
+
+Therefore, we can infer that AI systems are used to create game characters to **improve player immersion and interactivity**. The text states that character customization systems in RPGs are becoming sophisticated, allowing players to precisely manipulate their characters' facial features. This process can be time-consuming for players.
+
+The proposed method aims to automate this process, making it easier and faster for players to create unique characters.
+
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/Neural_Rendering_for_Game_Character_Auto-Creation.pdf.md
+
+The text does not explicitly state why AI systems are created to play games. However, it suggests that creating AI systems capable of playing games can be beneficial for several reasons:
+
+* **Understanding human intelligence:** By building AI that can learn and play games like humans, researchers can gain insights into how our brains process information, make decisions, and strategize.
+* **Developing new algorithms and techniques:** The challenge of creating game-playing AI often leads to the development of novel algorithms and machine learning techniques that can be applied to other domains.
+* **Entertainment and recreation:** Game-playing AI can provide a fun and challenging experience for human players, as well as create new forms of interactive entertainment.
+
+While the text doesn't directly answer "why," it implies these are potential motivations for developing AI systems that play games. 
+
+
+not found
+
+SOURCES:

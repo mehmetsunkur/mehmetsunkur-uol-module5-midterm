@@ -1,0 +1,375 @@
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not explicitly state why to create AI systems that play games, but it heavily implies the following reasons:
+
+* **Testing and developing new algorithms:** Games provide a controlled environment for testing and refining machine learning algorithms, particularly reinforcement learning techniques. The complex decision-making and strategic thinking required in games push the boundaries of AI development.
+* **Benchmarking performance:** Game playing serves as a benchmark for evaluating the capabilities of AI systems. Comparing performance on standardized game tasks allows researchers to track progress and compare different approaches.
+
+While not explicitly stated, other potential reasons could include:
+
+* **Entertainment and creativity:** Creating AI agents that can play games can be entertaining and lead to novel gameplay experiences.
+* **Understanding human intelligence:** Studying how AI learns to play games can provide insights into human cognitive processes and decision-making.
+
+
+Let me know if you have any other questions!
+
+not found 
+
+
+
+
+The text does not mention why to create AI systems that play games. 
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+The text does not mention why to create AI systems that play games. 
+
+
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+SOURCES:
+
+This paper proposes a method for interactive area topics extraction with policy gradient.
+
+SOURCES: 
+- uol-docs/978-3-030-01424-7.pdf.md
+
+The text does not mention why to create AI systems that play games. 
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+The text does not mention why AI systems are created to play games. 
+
+
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+The text provided does not contain information about why to create AI systems that play games. 
+
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+The text does not mention why to create AI systems that play games. 
+SOURCES:
+
+The text provided discusses using regular languages to explore the representational capacity of recurrent neural architectures, but it does not mention why to create AI systems that play games. 
+
+Therefore, the answer is **not found**.
+
+
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text does not mention why we should create AI systems that play games.
+
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text does not mention why to create AI systems that play games. 
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not contain information about why to create AI systems that play games. 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES:
+
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+The text does not contain information about why to create AI systems that play games. 
+SOURCES:
+
+The provided text does not contain information about why to create AI systems that play games. 
+
+
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES:
+
+The provided text does not contain the answer to why create AI systems that play games. 
+
+SOURCES:
+
+The text provided does not contain information about why to create AI systems that play games. 
+
+SOURCES:
+
+The text does not contain the answer to why create AI systems that play games.
+
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not contain information about why to create AI systems that play games.
+
+SOURCES: 
+
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+
+
+SOURCES:
+
+The text does not contain the answer to why create AI systems that play games. 
+SOURCES:
+
+The text does not mention Michael Jackson. 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+The provided text does not contain information about why to create AI systems that play games.
+
+SOURCES: 
+
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text provided does not contain the answer to why AI systems are created to play games. 
+
+
+SOURCES:
+
+not found 
+SOURCES:
+
+AI systems that play games can be used for a variety of reasons, including:
+
+* **Research:** Studying how AI learns and makes decisions in complex environments. This can lead to advancements in machine learning algorithms and our understanding of intelligence.
+* **Entertainment:** Creating challenging and engaging opponents for human players. 
+* **Testing and Development:** Evaluating the performance of new hardware and software. Games provide a controlled environment where AI systems can be tested under different conditions.
+* **Education:** Teaching concepts like strategy, planning, and problem-solving.
+
+While not explicitly stated in the text, creating AI that plays games can also lead to advancements in other fields, such as robotics and autonomous systems. 
+
+
+
+
+The text does not contain the answer to why create AI systems that play games.
+
+SOURCES: 
+uoi-docs/978-3-030-01424-7.pdf.md
+
+The text does not mention why to create AI systems that play games. 
+
+
+SOURCES:
+
+The text does not mention why AI systems are created to play games. 
+
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+The text provided does not contain information about why to create AI systems that play games. 
+
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+not found 
+SOURCES:
+
+The text provided does not contain the answer to why create AI systems that play games. 
+
+Therefore, the answer is **not found**.
+
+The text does not contain information about why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text does not mention why AI systems are created to play games.
+
+SOURCES: 
+
+
+not found 
+SOURCES:
+
+The text does not contain the answer to why create AI systems that play games. 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+The text does not explicitly state why AI systems are created to play games. However, it hints at the potential benefits of such systems by mentioning the following:
+
+* **Understanding and analyzing visual pathways:** Studying AI that plays games can help researchers understand how biological neural networks process information, particularly in tasks like object recognition and motion detection.
+* **Designing artificial visual systems:** Game-playing AI can serve as a platform for developing and testing new algorithms and architectures for computer vision applications.
+
+Therefore, while the text doesn't directly answer "why," it suggests that creating AI systems to play games is valuable for advancing our understanding of intelligence and developing more sophisticated artificial vision systems.
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+The text does not mention why to create AI systems that play games. 
+SOURCES:
+
+The text does not mention Michael Jackson. 
+SOURCES:
+
+The text does not mention why AI systems are created to play games.
+
+SOURCES: 
+uol-docs/978-3-030-01424-7.pdf.md
+
+The text does not mention why AI systems are created to play games. 
+
+
+
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+not found 
+SOURCES:
+
+not found
+
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+uol-docs/978-3-030-01424-7.pdf.md
+
+The text provided does not contain information about why to create AI systems that play games. 
+
+Therefore, the answer is **not found**.
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/978-3-030-01424-7.pdf.md
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+The provided text does not contain information about why to create AI systems that play games. 
+
+
+SOURCES:
+
+
+
+The text provided does not contain information about why to create AI systems that play games.
+
+SOURCES: 
+uol-docs/978-3-030-01424-7.pdf.md

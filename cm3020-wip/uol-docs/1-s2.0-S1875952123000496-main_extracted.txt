@@ -1,0 +1,15 @@
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+AI systems are created to play games for several reasons, including:
+
+* **Testing and improving AI algorithms:** Games provide a complex and challenging environment for AI agents to learn and improve their decision-making abilities.
+
+* **Understanding human cognition:** By studying how AI agents play games, researchers can gain insights into human cognitive processes such as planning, strategy, and learning.
+* **Developing new applications:** Game AI techniques can be applied to other domains, such as robotics, autonomous driving, and finance.
+* **Entertainment and education:** Game AI can create more engaging and challenging gaming experiences for humans.
+
+SOURCES: uol-docs/1-s2.0-S1875952123000496-main.md

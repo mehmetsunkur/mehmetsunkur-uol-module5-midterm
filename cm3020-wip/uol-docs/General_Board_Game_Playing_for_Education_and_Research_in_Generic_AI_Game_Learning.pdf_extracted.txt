@@ -1,0 +1,15 @@
+not found 
+SOURCES:
+
+The text explains that AI systems are created to play games for several reasons, including:
+
+* **Ability to win:**  Agents are designed and trained to maximize their chances of winning against opponents.
+* **Time efficiency:** Researchers aim to develop agents that can make decisions quickly and efficiently during gameplay.
+* **Understanding game mechanics:** Playing games allows AI systems to learn complex rules, strategies, and decision-making processes.
+
+The text focuses on the GBG framework, which provides a platform for developing and testing generic game-playing agents. It highlights the educational benefits of using GBG, as it enables students to quickly implement and experiment with different AI algorithms in various games.
+
+
+The text discusses the use of AI systems to play games, specifically mentioning Connect-4 and Hex as examples. It highlights the benefits of using a general game playing framework (GBG) for research and education in AI.
+
+However, it does **not** explicitly state why AI systems are created to play games. 

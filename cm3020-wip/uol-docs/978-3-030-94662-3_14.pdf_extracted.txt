@@ -1,0 +1,10 @@
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: uol-docs/978-3-030-94662-3_14.pdf.md
+
+While the provided text discusses AI systems that play games, it doesn't explicitly state *why* these systems are created. 
+
+SOURCES: uol-docs/978-3-030-94662-3_14.pdf.md 

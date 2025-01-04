@@ -1,0 +1,10 @@
+not found 
+SOURCES:
+
+The text does not explicitly state why to create AI systems that play games. However, it does mention the use of Deep Q Networks (DQN) for powertrain control in a real-world environment.
+
+It suggests that training AI agents to play games can be beneficial for developing algorithms that can learn complex tasks and adapt to changing environments. This is because games often involve strategic decision-making, pattern recognition, and learning from experience, which are skills transferable to real-world applications like controlling dynamic systems.
+SOURCES: uol-docs/Shifting_Deep_Reinforcement_Learning_Algorithm_Toward_Training_Directly_in_Transient_Real-World_Environment_A_Case_Study_in_Powertrain_Control.md
+
+not found 
+SOURCES:

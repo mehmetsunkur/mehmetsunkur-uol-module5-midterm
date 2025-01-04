@@ -1,0 +1,62 @@
+### Part A: Essay on Game Playing AI
+
+Here's a suggested structure and plan for your essay on game-playing AI, incorporating the questions provided in the coursework specification:
+
+---
+
+**Title: The Significance and Implications of Game-Playing AI**
+
+**Introduction**
+- Provide a brief introduction to the topic, discussing the growth of artificial intelligence (AI) and its applications in game playing. Mention the relevance and importance of studying game-playing AI.
+
+**Section 1: Why do researchers create AI systems that play games?**
+- Explain the purpose behind developing game-playing AI.
+- Discuss how games serve as a benchmark for AI research due to their strategic complexity and decision-making requirements.
+- Mention the aspect of human-computer interaction and how AI in games can enhance our understanding of AI capabilities.
+
+**Section 2: What are THREE possible application areas for AI systems that play games?**
+1. **Entertainment Industry**
+   - Discuss how AI enhances the gaming experience by providing dynamic and challenging opponents.
+   - Mention applications in virtual reality and interactive narrative storytelling.
+
+2. **Training and Skill Development**
+   - Explain how AI-driven simulations can be used for training purposes, such as improving strategic thinking and decision-making skills.
+   - Include examples of AI in military and medical training simulations.
+
+3. **Research and Development**
+   - Discuss AI's role in solving complex problems and developing algorithms.
+   - Mention how AI in games contributes to advancements in natural language processing, computer vision, and robotic planning.
+
+**Section 3: What do researchers think are the ethical problems with game-playing AIs?**
+- Discuss the concerns related to AI replacing human players, leading to unemployment in online gaming platforms.
+- Examine issues of fairness and transparency in AI decision-making.
+- Consider the risk of AI being used to perpetuate addictive gaming behaviors.
+
+**Section 4: Are neural networks the best game players?**
+- Present arguments about the effectiveness of neural networks in game-playing.
+- Cite examples such as AlphaGo and OpenAI's Dota 2 bot.
+- Discuss the limitations and challenges of neural networks, such as computational demands and lack of transparency.
+- Compare neural networks with other AI approaches like rule-based systems or evolutionary algorithms.
+
+**Section 5: How reliable are my references?**
+- Select three key references used in the essay.
+- Evaluate each reference's reliability based on authorship, publication venue, and how recently it was published.
+- Discuss how these references contribute to your arguments.
+
+**Conclusion**
+- Summarize the key points discussed in the essay.
+- Reinforce the significance of game-playing AI in advancing both technology and societal applications.
+- Highlight potential future directions for game-playing AI.
+
+**References**
+- List all sources used in your essay, formatted according to a citation style of your choice (e.g., APA, MLA).
+
+---
+
+### Tips for Writing the Essay:
+
+1. **Research Extensively**: Use reputable sources, including academic papers, books, and conference proceedings, to gather data and insights for each section.
+2. **Use Direct Quotes**: Incorporate relevant quotes from research papers and provide your commentary to connect them with your discussion.
+3. **Structure and Flow**: Ensure each section flows logically to the next, maintaining the essay's cohesion.
+4. **Proofread**: Check for grammatical errors, proper citation, and clarity in writing before finalizing your essay.
+5. **Word Count**: Adhere to the 1,500-word limit while ensuring you cover all necessary points adequately.

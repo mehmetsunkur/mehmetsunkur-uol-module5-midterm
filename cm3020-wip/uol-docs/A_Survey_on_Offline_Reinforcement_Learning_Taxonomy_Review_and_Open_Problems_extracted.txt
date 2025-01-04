@@ -1,0 +1,30 @@
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+not found 
+SOURCES:
+
+The text provided does not contain information about why AI systems are created to play games. 
+
+SOURCES: uol-docs/A_Survey_on_Offline_Reinforcement_Learning_Taxonomy_Review_and_Open_Problems.md
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+uol-docs/A_Survey_on_Offline_Reinforcement_Learning_Taxonomy_Review_and_Open_Problems.md
+
+Why to create AI systems that play games?
+
+AI systems that play games are valuable for several reasons:
+
+* **Benchmarking and Evaluation:** Games provide controlled environments to test and compare the performance of different AI algorithms. The complexity and strategic nature of many games make them excellent benchmarks for evaluating an AI's ability to learn, plan, and adapt.
+* **Fundamental Research:** Studying how AI agents learn to play games can lead to insights into fundamental questions about intelligence, learning, and decision-making. These insights can be applied to other domains beyond gaming.
+* **Developing New Algorithms:** The challenges posed by game environments often drive the development of novel AI algorithms and techniques. These advancements can then be transferred to real-world applications in areas like robotics, autonomous driving, and resource management.
+* **Entertainment and Education:** Game-playing AI agents can provide engaging and entertaining experiences for users. They can also be used as educational tools to teach concepts about game theory, strategy, and programming.
+
+In summary, creating AI systems that play games is a multifaceted endeavor with benefits for both fundamental research and practical applications.

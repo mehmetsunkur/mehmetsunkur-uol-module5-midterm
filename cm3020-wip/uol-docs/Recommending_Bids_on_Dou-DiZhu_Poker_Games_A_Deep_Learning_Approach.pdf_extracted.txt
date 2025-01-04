@@ -1,0 +1,15 @@
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text describes a deep learning model for recommending bids in the Dou-DiZhu poker game, but it doesn't explicitly state why AI systems are created to play games.
+
+However, we can infer some reasons from the context:
+
+
+* **Research and Development:** Creating AI agents that can play games effectively is a challenging task that pushes the boundaries of artificial intelligence research. It allows researchers to explore new algorithms, architectures, and learning techniques.
+* **Understanding Human Cognition:** Games often involve complex decision-making, strategic thinking, and adaptation to changing environments. Studying how AI learns to play games can provide insights into human cognitive processes.
+* **Entertainment and Competition:** Game-playing AI can create engaging and challenging experiences for human players. It can also lead to the development of new game genres and mechanics.
+
+Therefore, while the text doesn't directly answer "why" AI systems are created for playing games, it highlights some potential benefits and motivations behind this research area.

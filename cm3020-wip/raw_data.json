@@ -1,0 +1,111 @@
+[
+  {
+    "title": "War-gaming needs argument-justified ai more than explainable ai",
+    "authors": [
+      "J Licato"
+    ],
+    "year": "",
+    "citations": 3,
+    "abstract": "of war-games that is typically played on a board between teams of human or human/AI  players,  Explainable AI (XAI) comes first to mind, as it is an active area of research in machine",
+    "url": "https://personales.upv.es/thinkmind/dl/conferences/digital/digital_2022/digital_2022_1_10_28001.pdf"
+  },
+  {
+    "title": "Motivate AI class with interactive computer game",
+    "authors": [
+      "A Chiang"
+    ],
+    "year": "",
+    "citations": 11,
+    "abstract": "AI or Machine Learning subject in the beginning stages. This paper reports how the study  transforms the SOAR tutorial EATER game\u2019s playing  to adopt human justification about the",
+    "url": "https://ieeexplore.ieee.org/abstract/document/4148839/"
+  },
+  {
+    "title": "'Artificial intelligence is better than none': Strategies of identification, justification, and development in AI",
+    "authors": [
+      "W Carleton"
+    ],
+    "year": "",
+    "citations": 1,
+    "abstract": "AI methods reveals an even larger array of epistemic criteria. What we find in application  among AI researchers  As in our earlier examples, I conjecture that for AI researchers the",
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/08351818909389317"
+  },
+  {
+    "title": "Artificial intelligence, responsibility attribution, and a relational justification of explainability",
+    "authors": [
+      "M Coeckelbergh"
+    ],
+    "year": "",
+    "citations": 402,
+    "abstract": "This may be relatively harmless when an AI plays a board game; in other situations, it may  be very  Research on explanation has shown that generally people do not provide or expect",
+    "url": "https://link.springer.com/article/10.1007/s11948-019-00146-8"
+  },
+  {
+    "title": "Performance evaluation gaps in a real-time strategy game between human and artificial intelligence players",
+    "authors": [
+      "MJ Kim",
+      "KJ Kim",
+      "S Kim",
+      "AK Dey"
+    ],
+    "year": "",
+    "citations": 29,
+    "abstract": "Finally, this study will help connect game AI developers and game users to design a  AI  players for users\u2019 expertise. It provides justification for AI developers to design multiple AI players",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8276283/"
+  },
+  {
+    "title": "Adaptive game AI with dynamic scripting",
+    "authors": [
+      "P Spronck",
+      "M Ponsen",
+      "I Sprinkhuizen-Kuyper"
+    ],
+    "year": "",
+    "citations": 416,
+    "abstract": "in the game AI, and to respond to changes in human player  in current game AI, for the present  research they are mostly  which only means it will collect justified penalties faster. \u2013 Clarity",
+    "url": "https://link.springer.com/article/10.1007/s10994-006-6205-6"
+  },
+  {
+    "title": "The pleadings game: An artificial intelligence model of procedural justice",
+    "authors": [
+      "TF Gordon"
+    ],
+    "year": "",
+    "citations": 257,
+    "abstract": "are correct or justified, given these limits? The Pleadings  my artificial intelligence and  law independent-study project,  games, for one or more players, where the rules of the game",
+    "url": "https://books.google.com/books?hl=en&lr=&id=-PapCAAAQBAJ&oi=fnd&pg=PR9&dq=AI+game+playing+systems+research+justification&ots=7o9UI3BX_I&sig=JrVO-GN0qBFEmUCxAaRaPkuWHCU"
+  },
+  {
+    "title": "Artificial Intelligence in Education as a Rawlsian Massively Multiplayer Game: A Thought Experiment on AI Ethics",
+    "authors": [
+      "BU Cowley",
+      "D Charles",
+      "G Pfuhl"
+    ],
+    "year": "",
+    "citations": 5,
+    "abstract": "the crux of the AI evaluation problem: if AI research is the  may mean a comprehensible  justification for the decision  human playing style based on the \u2018seed\u2019games played initially by",
+    "url": "https://library.oapen.org/bitstream/handle/20.500.12657/61269/978-3-031-09687-7.pdf?sequence=1#page=308"
+  },
+  {
+    "title": "Artificial intelligence in fps games: Npc difficulty effects on gameplay",
+    "authors": [
+      "A Hubble",
+      "J Moorin",
+      "AS Khuman"
+    ],
+    "year": "",
+    "citations": 10,
+    "abstract": "The design for each system is further detailed and justified in  systems (FIS) is static, and  therefore means that a player  Therefore, we used this measure from the study to justify our",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-030-66474-9_11"
+  },
+  {
+    "title": "AI for Games",
+    "authors": [
+      "I Millington"
+    ],
+    "year": "",
+    "citations": 1437,
+    "abstract": "the main thrust of AI research was \u201csymbolic\u201d systems. A symbolic system is one in which the   Surrounding the player looks impressive, but the underlying AI is no more complex than Pac",
+    "url": "https://www.taylorfrancis.com/books/mono/10.1201/9781351053303/ai-games-third-edition-ian-millington"
+  }
+]

@@ -1,0 +1,12 @@
+--extra-index-url http://host.docker.internal:9191/index
+--trusted-host host.docker.internal
+numpy
+scikit-learn
+matplotlib
+tensorflow
+autokeras
+ipykernel
+regex
+poetry
+llm
+docling

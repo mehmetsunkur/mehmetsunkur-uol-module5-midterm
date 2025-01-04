@@ -1,0 +1,11 @@
+{
+    "python-envs.pythonProjects": [],
+    "python.testing.pytestArgs": [
+        "ai-cw-starter-code"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.analysis.extraPaths": [
+        "./parta"
+    ]
+}

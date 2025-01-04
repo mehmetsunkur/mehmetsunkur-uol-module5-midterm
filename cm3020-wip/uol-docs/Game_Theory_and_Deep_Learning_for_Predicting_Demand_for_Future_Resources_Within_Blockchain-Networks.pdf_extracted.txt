@@ -1,0 +1,25 @@
+not found 
+SOURCES:
+
+The text discusses using AI to predict the demand for resources in Blockchain networks, but it doesn't explicitly state why creating AI systems that play games is desirable.
+
+SOURCES: uol-docs/Game_Theory_and_Deep_Learning_for_Predicting_Demand_for_Future_Resources_Within_Blockchain-Networks.pdf.md
+
+AI systems are created to play games for several reasons, including:
+
+* **Understanding Game Theory:** Games provide a controlled environment to study strategic decision-making and the interactions between rational agents. AI playing games helps researchers test and refine game theory models.
+
+* **Developing Learning Algorithms:** Games often involve complex rules and strategies, making them excellent testbeds for developing and evaluating machine learning algorithms.
+
+* **Benchmarking Performance:** Game-playing AI can be used to benchmark the performance of different algorithms and architectures. Standardized game environments allow for fair comparisons.
+
+* **Exploring Creativity and Problem Solving:** Creating AI that can play games at a high level requires innovative solutions and pushes the boundaries of artificial intelligence research.
+
+* **Entertainment and Applications:** Game-playing AI can lead to the development of more challenging and engaging video games, as well as applications in other fields like robotics and autonomous systems.
+
+
+
+SOURCES: uol-docs/Game_Theory_and_Deep_Learning_for_Predicting_Demand_for_Future_Resources_Within_Blockchain-Networks.pdf.md
+
+not found 
+SOURCES:

@@ -1,0 +1,20 @@
+AI systems are trained to play games like Atari for several reasons, including:
+
+* **Understanding Human-like Performance:** Games provide a controlled environment to study how AI can achieve human-level performance in terms of both score and the time taken to learn.
+
+* **Developing General Learning Abilities:** Success in diverse games suggests the AI system might possess general problem-solving capabilities applicable to real-world scenarios.
+* **Testing Causal Reasoning:** Games often require understanding cause-and-effect relationships (e.g., pressing a button makes something happen). This helps researchers develop AI that can learn and reason about causality.
+
+* **Benchmarking Progress:** Game playing serves as a benchmark to track the progress of AI development and compare different algorithms.
+
+
+SOURCES: uol-docs/978-3-030-24265-7_3.md
+
+The text describes a system designed to play the game Space Invaders. It learns causal rules and scripts from observing gameplay, then uses these to solve problems and achieve goals like destroying invaders and avoiding being destroyed itself.
+
+While the system is described as achieving "human-like performance," it doesn't explicitly state why AI systems should play games. 
+SOURCES: uol-docs/978-3-030-24265-7_3.md
+
+not found
+
+SOURCES:  

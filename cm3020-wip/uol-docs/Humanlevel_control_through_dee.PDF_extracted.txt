@@ -1,0 +1,41 @@
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text provided does not contain information about why AI systems are created that play games. 
+
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text discusses using AI systems to play games for several reasons, including:
+
+* **Understanding intelligence:** Playing games requires complex decision-making and strategic thinking, which are hallmarks of intelligence. By training AI agents to play games, researchers can gain insights into how intelligence works and develop more sophisticated AI algorithms.
+* **Benchmarking progress:** Games provide a standardized environment for evaluating the performance of AI systems. Comparing the scores of different AI agents on the same game allows researchers to track progress in the field and identify areas for improvement.
+
+* **Developing new algorithms:** The challenges posed by games often lead to the development of novel AI algorithms and techniques that can be applied to other domains, such as robotics, autonomous driving, and natural language processing.
+SOURCES: uol-docs/Humanlevel_control_through_dee.PDF.md

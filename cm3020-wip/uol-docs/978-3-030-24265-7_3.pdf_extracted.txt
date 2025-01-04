@@ -1,0 +1,17 @@
+The text describes a system designed to learn causal rules from playing Atari games, specifically Space Invaders. It aims to achieve human-like performance by learning both the "level" (score) and the "time" taken to learn.
+
+While it doesn't explicitly state why AI systems should be able to play games, it implies that game-playing can serve as a benchmark for testing an AI's ability to learn and adapt quickly, similar to how humans learn. 
+
+
+AI systems are created to play games for several reasons:
+
+* **To understand and replicate human intelligence:** Games provide a controlled environment where AI can learn complex decision-making, planning, and problem-solving skills similar to humans.
+
+* **To develop new algorithms and techniques:** The challenges posed by game environments often lead to the development of innovative AI algorithms that can be applied to other domains.
+* **To test and benchmark AI performance:** Games offer standardized benchmarks for evaluating the capabilities of different AI systems.
+
+* **For entertainment and educational purposes:** Game-playing AI can provide engaging and interactive experiences for users, while also demonstrating the potential of artificial intelligence.
+
+The text discusses creating AI systems that play games as a way to study and understand human-like performance, learning, and problem solving.
+
+SOURCES: uol-docs/978-3-030-24265-7_3.pdf.md 

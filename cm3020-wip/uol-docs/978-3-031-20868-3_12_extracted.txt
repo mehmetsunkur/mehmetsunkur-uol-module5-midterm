@@ -1,0 +1,13 @@
+not found 
+
+SOURCES:
+
+AI systems are created to play games for several reasons:
+
+* **Research:** Games provide a controlled environment to study complex decision-making, learning, and strategic thinking in AI agents.
+
+* **Benchmarking:** Game playing serves as a benchmark to evaluate the performance and capabilities of different AI algorithms and architectures.
+
+* **Entertainment:** Creating AI that can play games at a high level can be entertaining and engaging for humans.
+
+* **Applications:** Techniques developed for game-playing AI can often be applied to real-world problems, such as resource allocation, robotics control, and financial modeling. 

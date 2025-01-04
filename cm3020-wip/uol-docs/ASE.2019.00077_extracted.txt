@@ -1,0 +1,20 @@
+The text does not mention why to create AI systems that play games.
+
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+SOURCES: uol-docs/ASE.2019.00077.md
+
+The text explains why creating AI systems that play games is beneficial for several reasons:
+
+* **Bug Detection:** AI agents can be trained to identify bugs and unexpected behavior in games by exploring different states and actions. This can help developers find and fix issues more efficiently.
+* **Testing Coverage:** AI players can explore a wider range of game scenarios and actions compared to manual testing, leading to better test coverage and potentially uncovering hidden bugs.
+
+The text also mentions the use of Deep Reinforcement Learning (DRL) combined with evolutionary algorithms for effective game testing. 
+
+
+Let me know if you have any other questions!
+
+not found
+
+SOURCES:  

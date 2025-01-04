@@ -1,0 +1,20 @@
+AI systems that play games can be used to study human behavior and decision-making in a controlled environment. This can lead to advancements in artificial intelligence, psychology, and game design.
+
+Specifically, the text mentions that video games can help detect autism in children because they provide a structured and predictable environment where autistic traits may become more apparent. 
+SOURCES: uol-docs/Paper_12-Autism_Spectrum_Disorder_Detection.pdf.md
+
+not found 
+
+SOURCES:
+
+not found 
+SOURCES: 
+
+
+The text does not mention why AI systems are created to play games.
+
+SOURCES:  uol-docs/Paper_12-Autism_Spectrum_Disorder_Detection.pdf.md
+
+not found
+
+SOURCES:

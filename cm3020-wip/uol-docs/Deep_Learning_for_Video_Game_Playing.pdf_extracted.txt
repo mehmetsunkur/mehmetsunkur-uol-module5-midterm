@@ -1,0 +1,34 @@
+AI systems are created to play games for several reasons, including:
+
+* **Testing and Benchmarking:** Games provide complex, dynamic environments that can be used to test the capabilities of AI algorithms and benchmark their performance against human players or other AI agents.
+
+* **Understanding Intelligence:** By studying how AI learns to play games, researchers gain insights into the nature of intelligence, decision-making, and problem-solving.
+
+* **Developing New Algorithms:** The challenges posed by game environments often lead to the development of novel AI algorithms and techniques that can be applied to other domains.
+* **Entertainment and Education:** AI-powered game opponents can provide challenging and engaging experiences for human players, while also offering opportunities for learning about game strategy and tactics.
+
+SOURCES: uol-docs/Deep_Learning_for_Video_Game_Playing.pdf.md
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+SOURCES:
+
+AI systems are created to play games for several reasons:
+
+* **General Intelligence:** Video games provide a complex and diverse environment for AI agents to learn, potentially leading to the development of more general intelligence.
+
+* **Transfer Learning:** Success in one game can sometimes translate to success in other games with similar mechanics, allowing for the development of adaptable AI.
+* **Testing and Development:** AI agents can be used to test game balance, identify bugs, and evaluate the overall player experience.
+* **Creating New Game Types:** AI can be used to generate novel gameplay mechanics and level designs, leading to innovative and unexpected gaming experiences.
+
+Let me know if you'd like more detail on any of these points!
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+uol-docs/Deep_Learning_for_Video_Game_Playing.pdf.md

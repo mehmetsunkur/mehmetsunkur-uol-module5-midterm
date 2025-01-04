@@ -1,0 +1,33 @@
+The text explains that AI can be used to automate and enhance the bug detection process in video games, making it more efficient and effective.
+
+AI systems are trained to detect bugs by identifying anomalies in gameplay footage. This approach is beneficial because traditional methods like manual testing are time-consuming and costly. 
+
+The specific example given in the text focuses on using a Long Short-Term Memory (LSTM) network, a type of deep learning algorithm, to identify both perceptual (visual) and behavioral (game logic) bugs.
+SOURCES: uol-docs/AstroBug_Automatic_Game_Bug_Detection_Using_Deep_Learning.pdf.md
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+AI systems are created to play games for several reasons, including:
+
+* **Testing and Debugging:** AI agents can be used to automatically test games, identifying bugs and glitches that human testers might miss. This can save time and resources during the development process.
+
+* **Game Balancing and Design:** By playing millions of games, AI can help developers understand game mechanics, identify overpowered strategies, and fine-tune difficulty levels for a better player experience.
+* **Creating Challenging Opponents:** AI opponents can provide a more engaging and challenging experience for human players, adapting to their play style and offering a constantly evolving challenge.
+
+* **Researching Game AI:** Training AI to play games is a valuable tool for researchers studying artificial intelligence, machine learning, and game theory. It allows them to experiment with new algorithms and techniques in a controlled environment.
+
+
+SOURCES: uol-docs/AstroBug_Automatic_Game_Bug_Detection_Using_Deep_Learning.pdf.md

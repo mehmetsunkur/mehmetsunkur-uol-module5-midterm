@@ -1,0 +1,8 @@
+.venv
+.env
+.envrc
+CM3020_AI_Coursework.pdf
+tmp
+__pycache__
+YT_LangChain_Agents.ipynb
+parta/tmp*

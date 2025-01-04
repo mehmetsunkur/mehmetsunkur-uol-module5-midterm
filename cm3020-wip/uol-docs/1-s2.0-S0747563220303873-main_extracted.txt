@@ -1,0 +1,9 @@
+not found 
+SOURCES:
+
+The paper presents a novel method of real-time emotion recognition of android-gamers using the concept of multi-modal fusion. The proposed technique works automatically by fusing the results obtained by EEG classification using GT2FS and facial expression classification by 3D-CNN.
+
+The work aims to demonstrate the psychosomatic changes in gamers who spend a lot of time playing android games. A gaming application can be rated based on how it affects the emotional states of a gamer during execution. If negative emotions dominate over positive ones, then it can be concluded that the game imposes adversarial effects on the gamers.
+
+The paper does not explicitly state why AI systems are created to play games. However, it implies that understanding the emotional impact of games on players is important for developing responsible and engaging gaming experiences.
+SOURCES: uol-docs/1-s2.0-S0747563220303873-main.md

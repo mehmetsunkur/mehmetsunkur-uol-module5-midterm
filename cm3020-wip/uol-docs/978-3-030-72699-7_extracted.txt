@@ -1,0 +1,284 @@
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES:
+
+The text discusses using AI systems to play games as a way to test and improve algorithms for optimization and problem solving. It doesn't explicitly state why playing games is beneficial, but it implies that the complexity and strategic nature of games provide a challenging environment for AI development.
+
+The text focuses on:
+
+* **Feature selection:** Identifying key characteristics (features) from game data that help predict successful strategies.
+* **Classification accuracy:** Evaluating how well an AI model can correctly identify the type of game based on its features.
+* **Sample size and dimensionality:** Exploring the impact of the amount of game data and the complexity of the game on feature selection and classification accuracy.
+
+While not directly stated, playing games likely offers these benefits for AI development:
+
+* **Complex decision-making:** Games often involve making strategic choices under uncertainty, mimicking real-world problems.
+* **Adaptability and learning:** AI agents need to adapt to changing game states and opponent strategies, fostering learning capabilities.
+* **Benchmarking and evaluation:** Game environments provide standardized benchmarks for comparing different AI algorithms and techniques.
+
+Therefore, while the text doesn't explicitly state "why" play games, it strongly suggests that game-playing serves as a valuable tool for advancing AI research and development.
+
+not found 
+
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES: uol-docs/978-3-030-72699-7.md
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+SOURCES:
+
+AI systems are trained to play games for several reasons:
+
+* **Testing and Benchmarking AI Algorithms:** Games provide complex, rule-based environments that can be used to test the capabilities of different AI algorithms. By pitting AIs against each other in games, researchers can evaluate their performance and identify areas for improvement.
+
+* **Developing General Intelligence:** Some researchers believe that training AI systems to play games can help them develop more general intelligence. Games require a variety of cognitive skills, such as planning, problem-solving, and learning from experience.
+
+* **Creating Entertaining and Engaging Experiences:** AI-powered game opponents can provide challenging and unpredictable experiences for human players. This can make games more fun and engaging.
+* **Exploring Novel Game Mechanics:** AI can be used to design and test new game mechanics that would be difficult or impossible for humans to conceive of.
+
+Let me know if you have any other questions!
+
+not found 
+SOURCES:
+
+The provided text does not contain information about why AI systems are created to play games. 
+
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not explicitly state why to create AI systems that play games. However, it does mention that researchers attempt to achieve this aim by exploiting information about the optimization problem within the design of algorithms.
+
+It further explains that modern algorithms include mechanisms to make them suitable for specific features of a problem and identifies two algorithmic philosophies: fitness landscape analysis and adaptive algorithms. 
+
+
+The text you provided does not contain any information about why AI systems are created to play games. 
+
+Therefore, I cannot answer your question based on the given text.
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text provided does not contain the answer to why create AI systems that play games. 
+
+SOURCES:  uol-docs/978-3-030-72699-7.md
+
+The text provided does not mention why AI systems are created to play games. 
+
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+
+SOURCES:
+
+The text does not explicitly state why to create AI systems that play games. However, it mentions that playing with dynamic systems like swarms can provide an engaging and immersive experience to foster players' understanding of networked systems.
+
+Therefore, a possible reason for creating AI systems that play games is to use them as tools for education and learning about complex concepts in a fun and interactive way. 
+
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text describes the creation of AI agents that play Hearthstone, but it doesn't explicitly state why creating AI systems to play games is important.
+
+It does mention that these agents are designed to optimize for different playstyles (Aggro, Control, Midrange) and can compete with other strong AI agents like EVA. This suggests that the goal might be:
+
+* **To understand and model complex decision-making:** Games like Hearthstone require strategic thinking, planning, and adaptation. Creating AI agents that can play these games effectively can help researchers better understand how humans make decisions in complex environments.
+* **To develop new AI algorithms:** The process of designing and training these agents involves developing and refining new AI algorithms, which can have applications beyond just gaming.
+
+* **For entertainment and competition:**  Creating strong AI opponents can enhance the gaming experience for human players and lead to exciting competitions between AI agents. 
+
+
+While the text doesn't explicitly state the "why," it provides clues that point towards these potential benefits of creating AI systems that play games.
+SOURCES: uol-docs/978-3-030-72699-7.md
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES: uol-docs/978-3-030-72699-7.md
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text provided describes a novel lateralized system for emotion categorization from images, inspired by the lateralization in biological intelligence. The system aims to be more robust against adversarial attacks and image changes compared to traditional deep learning approaches.
+
+Here's a breakdown of the key points:
+
+* **Problem:** Deep learning models for image classification are vulnerable to adversarial attacks, where small, imperceptible changes to an image can significantly reduce accuracy.
+* **Solution:** The proposed lateralized system leverages heterogeneous feature representation, inspired by how the human brain processes information at both constituent (elementary) and holistic levels. One part of the system focuses on individual features like eyes, mouth, and jaw, while the other considers the overall facial expression.
+
+* **Benefits:** This heterogeneity is expected to make the system more robust against changes because if one feature representation is affected by an attack, the other may still provide a reliable prediction.
+* **Comparison:** The performance of the lateralized system will be compared to a standard deep learning model (VGG19) before and after introducing image changes.
+
+**The text does not explicitly state whether the researchers have already implemented and tested this system.** It primarily outlines the motivation, design principles, and expected benefits of the approach.
+
+
+SOURCES: uol-docs/978-3-030-72699-7.md
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES: uol-docs/978-3-030-72699-7.md
+
+The text does not explicitly state why to create AI systems that play games. However, it does mention that planning by searching for action sequences that maximize expected reward is a powerful approach to reinforcement learning problems and has recently lead to breakthroughs in complex domains such Go, Shogi, Chess, and Atari games.
+
+Therefore, we can infer that creating AI systems that play games is a way to:
+
+* **Test and develop new reinforcement learning algorithms:** Games provide a controlled environment where researchers can test the effectiveness of different planning and learning techniques.
+* **Understand intelligence and decision-making:** By studying how AI agents learn to play games, researchers can gain insights into the nature of intelligence and decision-making processes.
+* **Develop AI systems with real-world applications:** The skills and knowledge acquired by AI agents through playing games can be transferred to other domains, such as robotics, autonomous driving, and resource management.
+
+While the text focuses on the technical aspects of using evolutionary planning in latent space for game playing, it implicitly highlights the broader significance of this research area.
+
+
+The text does not mention why to create AI systems that play games. 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not contain the answer to why create AI systems that play games. 
+
+SOURCES:
+
+
+not found 
+SOURCES:
+
+The text does not contain information about why to create AI systems that play games. 
+
+
+SOURCES:
+
+The text provided discusses the use of Lamarckian weight inheritance in a neuroevolutionary algorithm called EXAMM for training recurrent neural networks (RNNs). The authors found that using Lamarckian weight inheritance, where weights learned during training are passed on to offspring, generally led to better performance compared to traditional methods.
+
+However, the text does not explicitly state why we should train AI models with games. 
+
+Therefore, I cannot answer your question based on the provided text.
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES: 
+
+
+The text does not mention why to create AI systems that play games. 
+
+
+SOURCES:  
+
+
+The text does not mention why AI systems are created to play games.
+
+SOURCES: 
+uoi-docs/978-3-030-72699-7.md
+
+The text does not contain the answer to why create AI systems that play games.
+
+SOURCES: 
+
+
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES:
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES:
+
+The text does not contain the answer to why create AI systems that play games. 
+
+SOURCES: uol-docs/978-3-030-72699-7.md

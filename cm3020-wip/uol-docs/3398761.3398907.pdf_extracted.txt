@@ -1,0 +1,9 @@
+The text describes a method for training AI agents to play games using reinforcement learning, but it doesn't explicitly state why creating AI systems that play games is important. 
+
+It does mention some potential benefits of this approach:
+
+* **Learning robust policies:** The method aims to teach agents policies that can be reused across different input modalities (like visual and auditory information). This could make AI agents more adaptable to changing environments.
+* **Zero-shot transfer:** The system allows for transferring a policy learned in one domain (e.g., using images) to another (e.g., using sound), enabling the agent to perform tasks even without prior experience with that specific input modality.
+
+While the text focuses on the technical aspects of the method, it implies that creating AI agents capable of playing games could contribute to developing more versatile and adaptable AI systems in general.
+SOURCES: uol-docs/3398761.3398907.pdf.md

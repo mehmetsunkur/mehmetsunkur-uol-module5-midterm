@@ -1,0 +1,13 @@
+not found 
+SOURCES:
+
+not found 
+SOURCES:
+
+The text does not mention why to create AI systems that play games. 
+
+SOURCES: uol-docs/Mobility-Aware_Charging_Scheduling_for_Shared_On-Demand_Electric_Vehicle_Fleet_Using_Deep_Reinforcement_Learning.pdf.md
+
+The text discusses using deep reinforcement learning to optimize charging schedules for shared electric vehicle fleets, but it does not mention why AI systems are created to play games.
+
+SOURCES: uol-docs/Mobility-Aware_Charging_Scheduling_for_Shared_On-Demand_Electric_Vehicle_Fleet_Using_Deep_Reinforcement_Learning.pdf.md

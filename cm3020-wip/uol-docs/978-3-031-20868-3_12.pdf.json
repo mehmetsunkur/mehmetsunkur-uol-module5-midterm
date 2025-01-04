@@ -1,0 +1,4594 @@
+[
+    {
+        "element_id": "010cd7fb137f75ef9115cbd84c5f1075",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        238.1,
+                        142.8
+                    ],
+                    [
+                        238.1,
+                        237.8
+                    ],
+                    [
+                        1020.2,
+                        237.8
+                    ],
+                    [
+                        1020.2,
+                        142.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.45645,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 1
+        },
+        "text": "Hidden Information General Game Playing with Deep Learning and Search",
+        "type": "Title"
+    },
+    {
+        "element_id": "db769f6d3a037630fb791ae8568ba75a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        584.2,
+                        301.7
+                    ],
+                    [
+                        584.2,
+                        344.5
+                    ],
+                    [
+                        903.0,
+                        344.5
+                    ],
+                    [
+                        903.0,
+                        301.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 1
+        },
+        "text": "and Michael Thielscher(B)",
+        "type": "Title"
+    },
+    {
+        "element_id": "1a3956d94337afc4ff351e341c63a24c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        327.6,
+                        314.3
+                    ],
+                    [
+                        327.6,
+                        345.1
+                    ],
+                    [
+                        925.7,
+                        345.1
+                    ],
+                    [
+                        925.7,
+                        314.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.66726,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 1,
+            "parent_id": "db769f6d3a037630fb791ae8568ba75a"
+        },
+        "text": "Zachary Partridge",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "527450fd72cc2ccba637d72fb46d6bfa",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        425.9,
+                        375.7
+                    ],
+                    [
+                        425.9,
+                        432.9
+                    ],
+                    [
+                        832.2,
+                        432.9
+                    ],
+                    [
+                        832.2,
+                        375.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.54647,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 1,
+            "parent_id": "db769f6d3a037630fb791ae8568ba75a"
+        },
+        "text": "UNSW Australia, Sydney, Australia {z.partridge,mit}@unsw.edu.au",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "177c87db8393bf99061356a354e0af28",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        227.5,
+                        493.0
+                    ],
+                    [
+                        227.5,
+                        884.7
+                    ],
+                    [
+                        1033.7,
+                        884.7
+                    ],
+                    [
+                        1033.7,
+                        493.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94583,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 1,
+            "parent_id": "db769f6d3a037630fb791ae8568ba75a"
+        },
+        "text": "Abstract. General Game Playing agents are capable of learning to play games they have never seen before, merely by looking at a formal descrip- tion of the rules of a game. Recent developments in deep learning have in\ufb02u- enced the way state-of-the-art AI systems can learn to play games with per- fect information like Chess and Go. This development is popularised by the success of AlphaZero and was subsequently generalised to arbitrary games describable in the general Game Description Language, GDL. Many real- world problems, however, are non-deterministic and involve actors with concealed information, or events with probabilistic outcomes. We describe a framework and system for General Game Playing with self-play rein- forcement learning and search for hidden-information games, which can be applied to any game describable in the extended Game Description Lan- guage for imperfect-information games, GDL-II.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "53ff2f34893214213bcb3dbf1127edcf",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        227.6,
+                        902.9
+                    ],
+                    [
+                        227.6,
+                        941.3
+                    ],
+                    [
+                        922.9,
+                        941.3
+                    ],
+                    [
+                        922.9,
+                        902.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 1,
+            "parent_id": "db769f6d3a037630fb791ae8568ba75a"
+        },
+        "text": "Keywords: General game playing \u00b7 Reinforcement learning \u00b7",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "22a37ee5d70c755adb9de189301c9db5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        224.0,
+                        915.9
+                    ],
+                    [
+                        224.0,
+                        971.8
+                    ],
+                    [
+                        935.7,
+                        971.8
+                    ],
+                    [
+                        935.7,
+                        915.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83731,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 1,
+            "parent_id": "db769f6d3a037630fb791ae8568ba75a"
+        },
+        "text": "Imperfect information",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "fec981b7f0de9de34dd6f9528bf91a6e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        148.8,
+                        1029.9
+                    ],
+                    [
+                        148.8,
+                        1063.4
+                    ],
+                    [
+                        410.6,
+                        1063.4
+                    ],
+                    [
+                        410.6,
+                        1029.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84499,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 1
+        },
+        "text": "1 Introduction",
+        "type": "Title"
+    },
+    {
+        "element_id": "e3b62620ba0c1cf4b6fd295f62a65b0a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        148.8,
+                        1101.1
+                    ],
+                    [
+                        148.8,
+                        1361.3
+                    ],
+                    [
+                        1113.7,
+                        1361.3
+                    ],
+                    [
+                        1113.7,
+                        1101.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95498,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 1,
+            "parent_id": "fec981b7f0de9de34dd6f9528bf91a6e"
+        },
+        "text": "The \ufb01eld of Arti\ufb01cial Intelligence has been around almost as long as computers have existed, and the development of algorithms to play games has been central to AI development. Games provide a great testbed for developing and measuring the success of an algorithm which could eventually be deployed into the real world as they can possess the same core challenges without the noise [19]. As technology has been improving, humans are surpassed in more and more games: AlphaGo in the game of Go [19], Pluribus in six player poker [3], and AlphaStar in Starcraft 2 [22].",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "cd0c09ee99d1ad15526f8c8d2d213cd2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        145.3,
+                        1366.8
+                    ],
+                    [
+                        145.3,
+                        1660.2
+                    ],
+                    [
+                        1112.6,
+                        1660.2
+                    ],
+                    [
+                        1112.6,
+                        1366.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9525,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 1,
+            "parent_id": "fec981b7f0de9de34dd6f9528bf91a6e"
+        },
+        "text": "These are very impressive achievements for AI, but the algorithms are spe- cialised: they cannot play any of the other games at even a beginner level. Whilst most AI algorithms are built for a singular purpose, the \ufb01eld of general game playing (GGP) attempts to broaden this concept. In the general game playing setting, an agent should be able to solve any problem (play any game) that is given to it in a formal game description language (GDL). Such an agent may not be as strong as an agent that was speci\ufb01cally designed for a single game but makes up for it in its generalisability. AlphaZero (a successor to AlphaGo) was able to achieve state of the art performance across multiple games (Go, Chess",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "62e5cb45268f88aa2fb7338197e8ee50",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        141.6,
+                        1685.0
+                    ],
+                    [
+                        141.6,
+                        1756.7
+                    ],
+                    [
+                        959.0,
+                        1756.7
+                    ],
+                    [
+                        959.0,
+                        1685.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.81691,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 1,
+            "parent_id": "fec981b7f0de9de34dd6f9528bf91a6e"
+        },
+        "text": "\u00a9 The Author(s), under exclusive license to Springer Nature Switzerland AG 2022 S. Khanna et al. (Eds.): PRICAI 2022, LNCS 13631, pp. 161-172, 2022. https: / /doi.org/10.1007/978-3-031-20868-3_12",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0d33c93acdb1c424d73858ddfaaa8084",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        1073.7,
+                        60.1
+                    ],
+                    [
+                        1073.7,
+                        146.8
+                    ],
+                    [
+                        1160.5,
+                        146.8
+                    ],
+                    [
+                        1160.5,
+                        60.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "image_path": "/home/msunkur/dev/projects/uol/Module5/midterm/CM3020_Artificial_Intelligence/parta/docs/tmp/tmp_ingest/output/figure-1-1.jpg",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 1
+        },
+        "text": "\u00ae Check for updates",
+        "type": "Image"
+    },
+    {
+        "element_id": "2afd1bad9fbd4ef968067f33548936e5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.5,
+                        85.1
+                    ],
+                    [
+                        109.5,
+                        110.0
+                    ],
+                    [
+                        549.6,
+                        110.0
+                    ],
+                    [
+                        549.6,
+                        85.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.40246,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 2
+        },
+        "text": "Z. Partridge and M. Thielscher",
+        "type": "Header"
+    },
+    {
+        "element_id": "bb303516744f4754f65ef7fb4a403899",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.4,
+                        154.7
+                    ],
+                    [
+                        109.4,
+                        348.6
+                    ],
+                    [
+                        1071.7,
+                        348.6
+                    ],
+                    [
+                        1071.7,
+                        154.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95139,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 2,
+            "parent_id": "2afd1bad9fbd4ef968067f33548936e5"
+        },
+        "text": "and Shogi) [20] indicating its potential for GGP. Consequently, AlphaZero has recently been further generalised to learn to play any game described by GDL, not just the two-player, turn-based games that AlphaZero could play [11]. How- ever, GDL only describes deterministic games with perfect information, meaning that there are still a large class of hidden information games that cannot be solved with the current methods.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9b16ca45ecf30b53d61af4141f64bb2a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.2,
+                        354.2
+                    ],
+                    [
+                        109.2,
+                        713.9
+                    ],
+                    [
+                        1077.6,
+                        713.9
+                    ],
+                    [
+                        1077.6,
+                        354.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95195,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 2,
+            "parent_id": "2afd1bad9fbd4ef968067f33548936e5"
+        },
+        "text": "A successor to GDL (GDL-II) was developed to describe a larger, more gen- eral class of games that include hidden information and stochastic events [21]. Some real world problems such as auctions, network tra\ufb03c, cybersecurity, pric- ing, negotiations and politics are all part of this wider class of imperfect infor- mation scenarios, and such games and are quite di\ufb03cult to solve for traditional algorithms. There has been little research done into applying deep reinforcement learning to hidden information games and just one recent work Player of Games [16] that applies this to a range of games. Player of Games incorporates some game speci\ufb01c knowledge, e.g. poker bet size abstractions and game speci\ufb01c net- work architectural designs. Also, all information states per public state must be enumerated, limiting the approach to games with small action space.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c70f5da65a714d833db6df3f80950295",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        103.9,
+                        719.5
+                    ],
+                    [
+                        103.9,
+                        913.3
+                    ],
+                    [
+                        1075.6,
+                        913.3
+                    ],
+                    [
+                        1075.6,
+                        719.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95175,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 2,
+            "parent_id": "2afd1bad9fbd4ef968067f33548936e5"
+        },
+        "text": "In this paper, we address these limitations and generalise the approach fur- ther by developing a method and system that can successfully learn to play hidden information games described in GDL-II with the help of the recently developed technique of recursive belief-based learning (ReBeL) [2]. A \ufb01rst exper- imental evaluation shows that our system can even outperform handcrafted algo- rithms in some games.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "78b282f9f289cd85dc991a140a180fdb",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        108.5,
+                        969.5
+                    ],
+                    [
+                        108.5,
+                        1002.7
+                    ],
+                    [
+                        361.4,
+                        1002.7
+                    ],
+                    [
+                        361.4,
+                        969.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.81836,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 2,
+            "parent_id": "2afd1bad9fbd4ef968067f33548936e5"
+        },
+        "text": "2 Background",
+        "type": "Title"
+    },
+    {
+        "element_id": "c7b9fe0cd79d04602cc589f793400429",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.5,
+                        1040.3
+                    ],
+                    [
+                        109.5,
+                        1068.0
+                    ],
+                    [
+                        499.8,
+                        1068.0
+                    ],
+                    [
+                        499.8,
+                        1040.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.86598,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 2,
+            "parent_id": "2afd1bad9fbd4ef968067f33548936e5"
+        },
+        "text": "2.1 General Game Playing",
+        "type": "Title"
+    },
+    {
+        "element_id": "bdddb0ea84001c70f4fa6532699bc72f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        105.3,
+                        1095.8
+                    ],
+                    [
+                        105.3,
+                        1422.4
+                    ],
+                    [
+                        1072.8,
+                        1422.4
+                    ],
+                    [
+                        1072.8,
+                        1095.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95462,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 2,
+            "parent_id": "c7b9fe0cd79d04602cc589f793400429"
+        },
+        "text": "State of the art in General Game Playing is revealed by the International General Game Playing competition, which was run from 2005 to 2016, where teams submitted algorithms that would compete in a set of unseen games. For each game, the rules are described to the players in the standard Game Description Language, and players are given a \ufb01xed amount of time to prepare for the game (in the order of minutes). At each step of the game, the game manager sends a play message to each of the players describing how everyone has played on the last turn. The players then have a \ufb01xed time limit to respond with their moves for the next turn. This is continued until the end of the game and the players are rewarded for how well they performed [9].",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a1062dd0dc89d81849cf72d4957c4097",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        104.0,
+                        1427.9
+                    ],
+                    [
+                        104.0,
+                        1655.1
+                    ],
+                    [
+                        1073.9,
+                        1655.1
+                    ],
+                    [
+                        1073.9,
+                        1427.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94967,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 2,
+            "parent_id": "c7b9fe0cd79d04602cc589f793400429"
+        },
+        "text": "Multiple approaches can be used for GGP. Over time they improve as would be expected, and as more research is put into a new technique, it can start to dominate the leaderboard. Initially, the prevailing technique was Minimax with a heuristic function for evaluating leaf nodes [6], then Upper Con\ufb01dence Bounds on Trees (UCT) dominated the \ufb01eld for the majority of the competition [8] until it was surpassed by a Constraint Satisfaction Programming (CSP) algorithm in 2016 [12].",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "10e7c57d7418886e2943c09ffe4fe4ed",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        171.4,
+                        82.6
+                    ],
+                    [
+                        171.4,
+                        111.1
+                    ],
+                    [
+                        1109.3,
+                        111.1
+                    ],
+                    [
+                        1109.3,
+                        82.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.8508,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 3,
+            "parent_id": "c7b9fe0cd79d04602cc589f793400429"
+        },
+        "text": "Hidden Information General Game Playing with Deep Learning and Search",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3902819296ee8612e646b3b8cc14080e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        148.8,
+                        154.8
+                    ],
+                    [
+                        148.8,
+                        482.7
+                    ],
+                    [
+                        1111.8,
+                        482.7
+                    ],
+                    [
+                        1111.8,
+                        154.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95526,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 3,
+            "parent_id": "c7b9fe0cd79d04602cc589f793400429"
+        },
+        "text": "GDL-II. GDL-II (Game Description Language with Incomplete Information) provides a fundamental extension of the existing game description language to describe truly general games [21]. The addition of just two keywords to the lan- guage can achieve this e\ufb00ect: In addition to the normal players, games are allowed to have a random player who can choose the outcome of stochastic events like the roll of a die. The other keyword is sees, which is used to control which, and how, players have access to hidden information. This simple and elegant modi\ufb01cation fundamentally changes the way agents must play the game. Games can no longer be fully described by the information available to a player, who now must reason about what other players know about each other and themselves [17].",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "212111ffccf277e779d8b22a02d219af",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        146.5,
+                        532.4
+                    ],
+                    [
+                        146.5,
+                        561.4
+                    ],
+                    [
+                        544.3,
+                        561.4
+                    ],
+                    [
+                        544.3,
+                        532.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.78806,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 3,
+            "parent_id": "2afd1bad9fbd4ef968067f33548936e5"
+        },
+        "text": "2.2 Generalised AlphaZero",
+        "type": "Title"
+    },
+    {
+        "element_id": "993519d1274df241af8b34f08774d017",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        148.8,
+                        585.4
+                    ],
+                    [
+                        148.8,
+                        978.5
+                    ],
+                    [
+                        1114.7,
+                        978.5
+                    ],
+                    [
+                        1114.7,
+                        585.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95218,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 3,
+            "parent_id": "212111ffccf277e779d8b22a02d219af"
+        },
+        "text": "In 2017 DeepMind released a system that the system could learn to play Go without any human knowledge, it learnt everything purely from self play. By just using Monte Carlo Tree Search and reinforcement learning, it was then also deployed to other games as well. As a result, AlphaZero learnt to play Go, Chess and Shogi and surpassed the previous state of the art in all three games [20]. But while AlphaZero may be able to play multiple games, it is still a long way from being able to play all games, so it was further generalised to a system that can read in any game rules in GDL and can learn to play via reinforcement learning using MCTS and a neural network similar to AlphaZero but with many of the restrictions removed [11]. The Generalised AlphaZero system is no longer restricted to only two-player, zero-sum, turn-based, and player-symmetric games [11]. However, it still cannot play hidden information games.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f42ea3e9f3a98b501b80c60ba2dc297c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        147.5,
+                        1029.2
+                    ],
+                    [
+                        147.5,
+                        1058.8
+                    ],
+                    [
+                        675.0,
+                        1058.8
+                    ],
+                    [
+                        675.0,
+                        1029.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84624,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 3,
+            "parent_id": "2afd1bad9fbd4ef968067f33548936e5"
+        },
+        "text": "2.3 Recursive Belief-Based Learning",
+        "type": "Title"
+    },
+    {
+        "element_id": "3193875da5907004aa6328409c4187e2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        146.1,
+                        1082.4
+                    ],
+                    [
+                        146.1,
+                        1575.0
+                    ],
+                    [
+                        1111.7,
+                        1575.0
+                    ],
+                    [
+                        1111.7,
+                        1082.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94972,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 3,
+            "parent_id": "f42ea3e9f3a98b501b80c60ba2dc297c"
+        },
+        "text": "Recursive Belief-based Learning (ReBeL) is a recent (2020) general RL and search algorithm applied to play the hidden information game of poker [2]. Fun- damentally this algorithm can translate any imperfect information game into a perfect information game. This is done through removing any information that is local (only seen by a subset of players), and instead of stating what actions to take, an agent states their policy (what is the probability they would make an action for all possible states they could currently be in). This process unfor- tunately will take a game from being discrete to having a continuous state and action space\u2014the policy probabilities. It would theoretically be possible to train an AlphaZero or MCTS type algorithm on a discretised version of this now, but the high dimensionality of it would cause it to take an impractical amount of time. Instead this continuous perfect information game can be solved better with \ufb01ctitious play (FP) [1] or counterfactual regret minimisation (CFR) [23], because the problem is a convex optimisation problem. While both FP and CFR can be used, it has been shown that CFR achieves superior performance [2].",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "afb9f22486321de0a264749383bc1e86",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        145.5,
+                        1580.5
+                    ],
+                    [
+                        145.5,
+                        1641.4
+                    ],
+                    [
+                        1120.2,
+                        1641.4
+                    ],
+                    [
+                        1120.2,
+                        1580.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.85828,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 3,
+            "parent_id": "f42ea3e9f3a98b501b80c60ba2dc297c"
+        },
+        "text": "For both training and inference the same procedure is used to \ufb01nd an optimal policy: sample many of the possible perfect information states from the current",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8457b021fbddcfb37b866c951d80b983",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        108.8,
+                        83.8
+                    ],
+                    [
+                        108.8,
+                        110.3
+                    ],
+                    [
+                        549.6,
+                        110.3
+                    ],
+                    [
+                        549.6,
+                        83.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.4179,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 4
+        },
+        "text": "164 Z. Partridge and M. Thielscher",
+        "type": "Header"
+    },
+    {
+        "element_id": "1c9ab529e5b0f41cf9a6170457a81a02",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        106.8,
+                        154.9
+                    ],
+                    [
+                        106.8,
+                        514.7
+                    ],
+                    [
+                        1076.5,
+                        514.7
+                    ],
+                    [
+                        1076.5,
+                        154.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95266,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 4,
+            "parent_id": "8457b021fbddcfb37b866c951d80b983"
+        },
+        "text": "imperfect information state, run a depth limited version of CFR (CFR-D) and evaluate leaf nodes with the learnt value network. This procedure is then iterated many times as the yielded policy is dependent on the original policy. The average policy will converge to a Nash equilibrium for two-player zero-sum games and is expected to also perform well outside of that domain [2]. The starting policy can just be uniform random, but faster convergence can be achieved by initialising it with a learnt policy network. At inference time the only limitation is that the policies of the other players are not known, so instead CFR-D is run for a random number of iterations and it is assumed that the players are following that policy. By stopping CFR-D at a random iteration it reduces exploitation even if the opponents have access to the algorithms being used.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "aa58ca80148fd6967d3326ee98307ec0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.0,
+                        564.7
+                    ],
+                    [
+                        109.0,
+                        599.4
+                    ],
+                    [
+                        295.7,
+                        599.4
+                    ],
+                    [
+                        295.7,
+                        564.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.81085,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 4,
+            "parent_id": "8457b021fbddcfb37b866c951d80b983"
+        },
+        "text": "3 Method",
+        "type": "Title"
+    },
+    {
+        "element_id": "fd5a692d159c8d3f50045fe788598bfe",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.5,
+                        632.3
+                    ],
+                    [
+                        109.5,
+                        660.6
+                    ],
+                    [
+                        679.4,
+                        660.6
+                    ],
+                    [
+                        679.4,
+                        632.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84684,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 4,
+            "parent_id": "8457b021fbddcfb37b866c951d80b983"
+        },
+        "text": "3.1 Propositional Networks for GDL-II",
+        "type": "Title"
+    },
+    {
+        "element_id": "87b3b2bbd15e4b7dfcd656069dbaafe8",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.3,
+                        682.8
+                    ],
+                    [
+                        109.3,
+                        1011.2
+                    ],
+                    [
+                        1073.4,
+                        1011.2
+                    ],
+                    [
+                        1073.4,
+                        682.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95351,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 4,
+            "parent_id": "fd5a692d159c8d3f50045fe788598bfe"
+        },
+        "text": "Adapting the aproach takein by Generalised AlphaZero for general GDL-games, GDL-II game descriptions can be converted into a propositional network (prop- net) as this provides a simpler interface for interacting with the game and a well de\ufb01ned state to input to the neural network [15]. This can be done based on freely available code from ggp-base [18], but needs to be extended to account for the additional sees keyword in GDL-II to feed into the neural network the state- dependent observations that players make according to the game rules. Once the game is in propnet format, we can build on previous work done on generalised AlphaZero [11] and again expand to include processing of the additional sees information.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d5cef4019a2e09484a18056dfa0e9007",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        108.0,
+                        1016.7
+                    ],
+                    [
+                        108.0,
+                        1443.6
+                    ],
+                    [
+                        1074.4,
+                        1443.6
+                    ],
+                    [
+                        1074.4,
+                        1016.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94972,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 4,
+            "parent_id": "fd5a692d159c8d3f50045fe788598bfe"
+        },
+        "text": "For each game that the agent is asked to play, the propnet that is generated can be queried for: extracting the game input state from the current game data\u2014 this is used for input to the neural network; the valid moves for a given role and game state; updating the game data to the next step when provided with a valid action for all players (for non-simultaneous games some agents will make a no-op action); speci\ufb01c to GDL-II and imperfect-information games, a list of all that is visible for a given role and game state. In a large number of games tested, the computational bottleneck is in transitioning from one state to the next. In [11], the whole propnet framework was optimised in Cython, which provided a 6x speedup. Here we note that the process of running CFR requires going back and forth between the same states many times over, and hence a least recently used cache (LRU) can be used to store these state transitions. We implemented an LRU in our system and found that it can provide up to a further 10x speedup.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0cc8d35a22b6acb3a870ee30b735a799",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.3,
+                        1495.0
+                    ],
+                    [
+                        109.3,
+                        1523.4
+                    ],
+                    [
+                        521.2,
+                        1523.4
+                    ],
+                    [
+                        521.2,
+                        1495.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.86034,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 4,
+            "parent_id": "8457b021fbddcfb37b866c951d80b983"
+        },
+        "text": "3.2 Sampling GDL-II States",
+        "type": "Title"
+    },
+    {
+        "element_id": "3273a622009f5519535102b6fbe97180",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        106.3,
+                        1546.6
+                    ],
+                    [
+                        106.3,
+                        1674.6
+                    ],
+                    [
+                        1074.7,
+                        1674.6
+                    ],
+                    [
+                        1074.7,
+                        1546.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94437,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 4,
+            "parent_id": "0cc8d35a22b6acb3a870ee30b735a799"
+        },
+        "text": "In order to estimate the optimal policy when there is hidden information, an agent samples plausible states based on all information it has gathered through- out the game. For each state, an optimal policy is found. The \ufb01nal policy is a weighted average of these policies, based on how likely it is in each state.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a25ce66752dd9228aa95e33eefc29201",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        171.9,
+                        82.7
+                    ],
+                    [
+                        171.9,
+                        110.9
+                    ],
+                    [
+                        1109.3,
+                        110.9
+                    ],
+                    [
+                        1109.3,
+                        82.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.82672,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 5,
+            "parent_id": "0cc8d35a22b6acb3a870ee30b735a799"
+        },
+        "text": "Hidden Information General Game Playing with Deep Learning and Search",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1b04111dd21fd2f2d116169247cc1116",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        147.3,
+                        154.8
+                    ],
+                    [
+                        147.3,
+                        216.5
+                    ],
+                    [
+                        1119.6,
+                        216.5
+                    ],
+                    [
+                        1119.6,
+                        154.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91022,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 5,
+            "parent_id": "0cc8d35a22b6acb3a870ee30b735a799"
+        },
+        "text": "Na\u00a8\u0131ve Sampling. A na\u00a8\u0131ve method for sampling possible states in general GDL- II games is to:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "17b0b5e5c237377badf695028723bec6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        148.8,
+                        188.1
+                    ],
+                    [
+                        148.8,
+                        216.1
+                    ],
+                    [
+                        328.4,
+                        216.1
+                    ],
+                    [
+                        328.4,
+                        188.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.472,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 5,
+            "parent_id": "0cc8d35a22b6acb3a870ee30b735a799"
+        },
+        "text": "II games is to:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "467494bccdad9508ea148d326532a45a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        147.9,
+                        249.0
+                    ],
+                    [
+                        147.9,
+                        276.7
+                    ],
+                    [
+                        402.9,
+                        276.7
+                    ],
+                    [
+                        402.9,
+                        249.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.8146,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 5,
+            "parent_id": "0cc8d35a22b6acb3a870ee30b735a799"
+        },
+        "text": "1. Start a new game",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "226095d86dea6d872c1f73ac1729adaa",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        140.7,
+                        282.2
+                    ],
+                    [
+                        140.7,
+                        343.1
+                    ],
+                    [
+                        1121.4,
+                        343.1
+                    ],
+                    [
+                        1121.4,
+                        282.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90803,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 5,
+            "parent_id": "0cc8d35a22b6acb3a870ee30b735a799"
+        },
+        "text": "2. Select the \ufb01rst action recorded for the agent and for all other agents, randomly select a valid move.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "4099e8bdfa5c4b8b6625f1e48f55ca88",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        147.1,
+                        347.4
+                    ],
+                    [
+                        147.1,
+                        377.7
+                    ],
+                    [
+                        790.8,
+                        377.7
+                    ],
+                    [
+                        790.8,
+                        347.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.86272,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 5,
+            "parent_id": "0cc8d35a22b6acb3a870ee30b735a799"
+        },
+        "text": "3. Repeat 2. until the recorded history is exhausted.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "825eaa67af1ed7d9dd0585ac37e75220",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        148.3,
+                        381.6
+                    ],
+                    [
+                        148.3,
+                        409.5
+                    ],
+                    [
+                        1105.6,
+                        409.5
+                    ],
+                    [
+                        1105.6,
+                        381.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.8448,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 5,
+            "parent_id": "0cc8d35a22b6acb3a870ee30b735a799"
+        },
+        "text": "4. If the sampled state ever does not match the recorded observations, restart.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "22a279084fc53e7c061894acd7aafdf0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        143.3,
+                        440.1
+                    ],
+                    [
+                        143.3,
+                        604.1
+                    ],
+                    [
+                        1119.5,
+                        604.1
+                    ],
+                    [
+                        1119.5,
+                        440.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95343,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 5,
+            "parent_id": "0cc8d35a22b6acb3a870ee30b735a799"
+        },
+        "text": "Unfortunately, this approach cannot be realistically scaled up to larger games. When searching for a state later in the game, there can be a vast number of possible states to choose from but there may only be a small handful of those states that match the recorded history. Finding this handful of valid states can be particularly di\ufb03cult if the states are only found to be invalid deep into the search.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b702a14194b14003a33bbf08e46f3a17",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        148.8,
+                        658.4
+                    ],
+                    [
+                        148.8,
+                        1187.5
+                    ],
+                    [
+                        1113.6,
+                        1187.5
+                    ],
+                    [
+                        1113.6,
+                        658.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95098,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 5,
+            "parent_id": "0cc8d35a22b6acb3a870ee30b735a799"
+        },
+        "text": "Training Method. We improve upon the na\u00a8\u0131ve method in two ways. Firstly, in order to reduce the computational limitations, we introduce a cache for all states that are invalid each game. If all the states a step deeper into the game are invalid, then the parent state is also added to the invalid state cache. This means that invalid states won\u2019t be investigated more than once and whole segments of the game tree will no longer need to be searched. Secondly, we introduce a bias into this sampling distribution. The neural network (NN) that is used for policy approximation for the output of CFR-D is also used here to bias the sampler towards choosing actions for the other players that the NN predicts are more likely to be played. Formally, the probability of choosing action a in state s for player i is given by P (s, i, a) = f (s, i, a) + |Actions(s,i)| , where the function f 1 represents the output of the policy neural network. This bias is not required, but we found that it drastically decreases the training time needed to reach convergence. Introducing this bias during training ensures that the true state is sampled with higher frequency and areas of the game tree that the NN views as more interesting get explored more.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2940087029462b48ba9baa186e5e0545",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        147.9,
+                        1242.6
+                    ],
+                    [
+                        147.9,
+                        1671.0
+                    ],
+                    [
+                        1113.3,
+                        1671.0
+                    ],
+                    [
+                        1113.3,
+                        1242.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95177,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 5,
+            "parent_id": "0cc8d35a22b6acb3a870ee30b735a799"
+        },
+        "text": "Evaluation Method. The method used for training is su\ufb03ciently fast and leads to e\ufb03cient game exploration during training but does not translate optimally to play against unknown other agents, which may play via a vastly di\ufb00erent policy. An additional problem with the caching method as used for training (without the bias) is that it eventually leads to all valid leaf nodes being sampled with equal frequency even when this should not be the case. As an example, in the Monty Hall problem [17] the agent would view the two possible valid states equally (similar to many humans) and would hence adopt a policy of switching only 50% of the time. In order to maintain the same leaf node selection distribution as the na\u00a8\u0131ve method whilst caching, the probabilities of reaching each node need to be stored on the node and updated every time it is accessed. The \ufb01rst time that a state node is accessed, all possible combinations of moves are listed, shu\ufb04ed randomly and the \ufb01rst child set of moves is chosen to act as the transition to",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4a7ccb2032e4400efa9c9fc5a899ba93",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.5,
+                        84.0
+                    ],
+                    [
+                        109.5,
+                        110.6
+                    ],
+                    [
+                        549.6,
+                        110.6
+                    ],
+                    [
+                        549.6,
+                        84.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.46193,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 6,
+            "parent_id": "0cc8d35a22b6acb3a870ee30b735a799"
+        },
+        "text": "166 Z. Partridge and M. Thielscher",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "41401cc7dbc39e29e95bdeacc5b5c506",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        107.9,
+                        153.1
+                    ],
+                    [
+                        107.9,
+                        348.6
+                    ],
+                    [
+                        1074.2,
+                        348.6
+                    ],
+                    [
+                        1074.2,
+                        153.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9522,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 6,
+            "parent_id": "0cc8d35a22b6acb3a870ee30b735a799"
+        },
+        "text": "the \ufb01rst child node. Also, the probability of reaching this node from the root is stored for future use. Upon subsequent access to the node, the next child set of moves c is returned until the list is exhausted. Once every child node has been explored exactly once, the probability of reaching this node from the root is updated on each access, as is the probability of reaching each child node conditional on having already reached the current node.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "563ae4a7e111d53657a74531fd8ffce8",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.5,
+                        402.2
+                    ],
+                    [
+                        109.5,
+                        430.3
+                    ],
+                    [
+                        352.7,
+                        430.3
+                    ],
+                    [
+                        352.7,
+                        402.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84751,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 6,
+            "parent_id": "8457b021fbddcfb37b866c951d80b983"
+        },
+        "text": "3.3 CFR Search",
+        "type": "Title"
+    },
+    {
+        "element_id": "1f5faa124b283c8117807907eee36395",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        104.8,
+                        454.5
+                    ],
+                    [
+                        104.8,
+                        849.0
+                    ],
+                    [
+                        1071.7,
+                        849.0
+                    ],
+                    [
+                        1071.7,
+                        454.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95185,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 6,
+            "parent_id": "563ae4a7e111d53657a74531fd8ffce8"
+        },
+        "text": "Systems for playing perfect information games, such as AlphaZero, use Monte Carlo Tree Search to explore future possible game states [20]. This does not translate well to the hidden information games as it does not depend on the policies of other agents. Instead, a form of Counterfactual Regret Minimisation (CFR) can be used to search for the optimal policies. The most suitable speci\ufb01c form of CFR is depth-limited deep CFR as is described by [2,4]. CFR is a self- play algorithm, meaning that it learns by playing repeatedly against itself. Our version of CFR-D can be run in any grounded sub-tree of the complete game. Once a state is sampled at the correct depth, we run the algorithm down the tree until the maximum depth or terminal leaf nodes are reached. The value of depth limited leaf nodes are approximated via a neural network whereas the known values are used for terminal states.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2a83865d0fb03ae36be510b44a2e4b81",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.5,
+                        908.7
+                    ],
+                    [
+                        109.5,
+                        1338.1
+                    ],
+                    [
+                        1070.1,
+                        1338.1
+                    ],
+                    [
+                        1070.1,
+                        908.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.71763,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 6,
+            "parent_id": "563ae4a7e111d53657a74531fd8ffce8"
+        },
+        "text": "Algorithm 1. High level training loop while Time left to train do Reinitialise game state while Game not finished do Perform CFR on current game state Add triple of (state, 7, q) to the replay buffer > 7 and q represent the policies and values for all agents for each agent do Perform CFR on states sampled with this agent\u2019s history Make moves proportionally to new policy probabilities end for Sample and train neural network on 20 mini-batches from replay buffer end while end while",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "185757d0bf16dff526066e5505b767d9",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        105.3,
+                        1414.5
+                    ],
+                    [
+                        105.3,
+                        1674.6
+                    ],
+                    [
+                        1070.2,
+                        1674.6
+                    ],
+                    [
+                        1070.2,
+                        1414.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95023,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 6,
+            "parent_id": "563ae4a7e111d53657a74531fd8ffce8"
+        },
+        "text": "CFR typically starts with uniform random policies, but to speed up conver- gence, all policies can be initialised using the neural network as an estimation of the \ufb01nal policies. Then it simulates playing the game against itself and after every game, it revisits each decision and \ufb01nds ways to improve the policy. This process can be iterated inde\ufb01nitely and it is the average policy that eventually approximates the game\u2019s optimal policy or Nash equilibrium. The \ufb01nal policy used for move selection is the weighted average of policies at all sampled states, weighted by how frequently each state is sampled.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "cf87828cdc779f3e68ff083245b9de9c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        171.2,
+                        82.6
+                    ],
+                    [
+                        171.2,
+                        111.0
+                    ],
+                    [
+                        1109.3,
+                        111.0
+                    ],
+                    [
+                        1109.3,
+                        82.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.8435,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 7,
+            "parent_id": "563ae4a7e111d53657a74531fd8ffce8"
+        },
+        "text": "Hidden Information General Game Playing with Deep Learning and Search",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "52d47bc8d83d198c7805a6aabaa8faaf",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        148.4,
+                        154.8
+                    ],
+                    [
+                        148.4,
+                        182.4
+                    ],
+                    [
+                        558.3,
+                        182.4
+                    ],
+                    [
+                        558.3,
+                        154.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.8643,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 7,
+            "parent_id": "8457b021fbddcfb37b866c951d80b983"
+        },
+        "text": "3.4 Reinforcement Learning",
+        "type": "Title"
+    },
+    {
+        "element_id": "98cdeeee966571942c392446140fc4d0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        145.7,
+                        208.0
+                    ],
+                    [
+                        145.7,
+                        403.7
+                    ],
+                    [
+                        1112.7,
+                        403.7
+                    ],
+                    [
+                        1112.7,
+                        208.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95444,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 7,
+            "parent_id": "52d47bc8d83d198c7805a6aabaa8faaf"
+        },
+        "text": "Large scale reinforcement learning projects often use a separate process dedicated to evaluating positions, one for training on new data and many for generating games [5]. On more modest hardware, for e\ufb03ciency and simplicity, it has been implemented by running a game, adding the recorded data to the replay bu\ufb00er, training on a small number, say 20, of mini-batches from the replay bu\ufb00er and repeating as indicated in Algorithm 1.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8293e36492096d10438089cc5b1dd492",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        155.5,
+                        423.6
+                    ],
+                    [
+                        155.5,
+                        838.4
+                    ],
+                    [
+                        1100.9,
+                        838.4
+                    ],
+                    [
+                        1100.9,
+                        423.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "image_path": "/home/msunkur/dev/projects/uol/Module5/midterm/CM3020_Artificial_Intelligence/parta/docs/tmp/tmp_ingest/output/figure-7-2.jpg",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 7
+        },
+        "text": "\u2018Additional hidden layer for policies Policy distribution over 4 possible Input size = state size Hidden layer size = input size ZO Se moves for player 1 EL Policy distribution over 3 possible moves for player 2 State value for each player",
+        "type": "Image"
+    },
+    {
+        "element_id": "62054bb4c176c6b3287935bf9050a344",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        374.5,
+                        879.3
+                    ],
+                    [
+                        374.5,
+                        904.7
+                    ],
+                    [
+                        875.3,
+                        904.7
+                    ],
+                    [
+                        875.3,
+                        879.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.7596,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 7
+        },
+        "text": "Fig. 1. Sample Neural Network Architecture",
+        "type": "FigureCaption"
+    },
+    {
+        "element_id": "3c128ad8ce1ec4daf6d5d8a849c20c74",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        147.0,
+                        939.4
+                    ],
+                    [
+                        147.0,
+                        1398.8
+                    ],
+                    [
+                        1115.7,
+                        1398.8
+                    ],
+                    [
+                        1115.7,
+                        939.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95286,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 7
+        },
+        "text": "The neural network takes in a single grounded game state, and outputs the value and policy for all agents. For each agent, the value of the state is the expected \ufb01nal reward and the policy is the estimated optimal policy in this current state. It is possible to have separate models for each player\u2019s values and each player\u2019s policies, but it should be noted that all of these models would learn to extract the same fea- tures. For this reason, it is possible to combine the early layers into a shared model head to extract the useful game features as shown in Fig. 1. From this shared inter- nal representation a single linear layer is used to estimate the values for all players, and an additional hidden layer is added before estimating the policies separately for each player. Figure 1 represents only a small toy game for simplicity. This sim- ple game only has a state size of 5 and two players, one with 4 possible actions and the other with 3. In a larger and more interesting game like, for example, Blind Tic Tac Toe [10], the input and hidden layers would be of size 199 and the output policy size for each player would be of 9.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "dcbf26d1179af2add3278cd7e70ccea6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        148.6,
+                        1454.7
+                    ],
+                    [
+                        148.6,
+                        1489.0
+                    ],
+                    [
+                        413.4,
+                        1489.0
+                    ],
+                    [
+                        413.4,
+                        1454.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.79304,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 7
+        },
+        "text": "4 Experiments",
+        "type": "Title"
+    },
+    {
+        "element_id": "a26a74940a813dccff7f8aa743f0dd9b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        148.6,
+                        1524.4
+                    ],
+                    [
+                        148.6,
+                        1554.2
+                    ],
+                    [
+                        563.5,
+                        1554.2
+                    ],
+                    [
+                        563.5,
+                        1524.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.86307,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 7
+        },
+        "text": "4.1 Evaluation Methodology",
+        "type": "Title"
+    },
+    {
+        "element_id": "cc8602fb544553a8a409ad5507c3c6fd",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        143.7,
+                        1578.5
+                    ],
+                    [
+                        143.7,
+                        1708.9
+                    ],
+                    [
+                        1115.3,
+                        1708.9
+                    ],
+                    [
+                        1115.3,
+                        1578.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94459,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 7,
+            "parent_id": "a26a74940a813dccff7f8aa743f0dd9b"
+        },
+        "text": "We have tested our solution on several GDL-II games known from the literature [7,17]. The easy games can be compared with known optimal solutions and harder games were tested against both random play and handcrafted solutions. The fol- lowing results tables for the harder games show the \ufb01nal scores over 100 games",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "51a9fb7faf841356f175edc8bc31e1d6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.3,
+                        85.1
+                    ],
+                    [
+                        109.3,
+                        110.0
+                    ],
+                    [
+                        549.6,
+                        110.0
+                    ],
+                    [
+                        549.6,
+                        85.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.4937,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 8
+        },
+        "text": "Z. Partridge and M. Thielscher",
+        "type": "Header"
+    },
+    {
+        "element_id": "3eb049efcda6b643490322b3dfdfc8b9",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.5,
+                        154.3
+                    ],
+                    [
+                        109.5,
+                        348.6
+                    ],
+                    [
+                        1073.1,
+                        348.6
+                    ],
+                    [
+                        1073.1,
+                        154.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95124,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 8,
+            "parent_id": "51a9fb7faf841356f175edc8bc31e1d6"
+        },
+        "text": "achieved by the agents listed on the left. Column names correspond to the oppo- nents that each of these agents were playing against; these opponents will be play- ing the opposing role to that listed next to the agent. The agents iteratively increase CFR search depth until the time expires and between 60 and 100 states have been generated with replacement at each depth. Explicitly, they search until maximum game depth or for a minimum of 1 s, and a maximum of 15 s.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d9a5718e7ba4e4e22516cf5b9417aa48",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        106.7,
+                        354.2
+                    ],
+                    [
+                        106.7,
+                        514.7
+                    ],
+                    [
+                        1075.0,
+                        514.7
+                    ],
+                    [
+                        1075.0,
+                        354.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94836,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 8,
+            "parent_id": "51a9fb7faf841356f175edc8bc31e1d6"
+        },
+        "text": "The two easy games that we tested on were the Monty Hall Problem (a game of probability that most people \ufb01nd very counterintuitive [14], formalised as a single-player GDL-II game [17]) and a variant of Scissors\u2013Paper\u2013Rock where winning with scissors is worth twice as much, so that optimal play probabilities are: Rock = 0.4, Paper = 0.4, Scissors = 0.2.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6a7a5c75bec57944fd6162d2d9195a70",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        194.6,
+                        574.7
+                    ],
+                    [
+                        194.6,
+                        599.8
+                    ],
+                    [
+                        975.6,
+                        599.8
+                    ],
+                    [
+                        975.6,
+                        574.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.71551,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 8,
+            "parent_id": "51a9fb7faf841356f175edc8bc31e1d6"
+        },
+        "text": "Table 1. Scores out of 100 games of Meier against various opponents",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3b5b15cad53b38f7815c39a9a27fc598",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        291.2,
+                        628.0
+                    ],
+                    [
+                        291.2,
+                        894.9
+                    ],
+                    [
+                        890.1,
+                        894.9
+                    ],
+                    [
+                        890.1,
+                        628.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92044,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "image_path": "/home/msunkur/dev/projects/uol/Module5/midterm/CM3020_Artificial_Intelligence/parta/docs/tmp/tmp_ingest/output/table-8-1.jpg",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 8,
+            "parent_id": "51a9fb7faf841356f175edc8bc31e1d6",
+            "text_as_html": "<table><thead><tr><th></th><th>Random |</th><th>Hand</th><th>crafted</th></tr></thead><tbody><tr><td>CFR + trained NN player 1</td><td>| 97</td><td>81</td><td></td></tr><tr><td>CFR + trained NN player 2</td><td>| 80</td><td>Al</td><td></td></tr><tr><td>CFR only player 1</td><td>83</td><td>64</td><td></td></tr><tr><td>CFR only player 2</td><td>80</td><td>40</td><td></td></tr><tr><td>Random player 1</td><td>33</td><td>21</td><td></td></tr><tr><td>Random player 2</td><td>72</td><td>35</td><td></td></tr></tbody></table>"
+        },
+        "text": "Random Hand crafted CFR + trained NN player 1 97 81 CFR + trained NN player 2 80 41 CFR only player 1 83 64 CFR only player 2 80 40 Random player 1 33 21 Random player 2 72 35",
+        "type": "Table"
+    },
+    {
+        "element_id": "8b38d17b059bbeba0b62f12c85cce989",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        104.7,
+                        973.0
+                    ],
+                    [
+                        104.7,
+                        1366.0
+                    ],
+                    [
+                        1074.8,
+                        1366.0
+                    ],
+                    [
+                        1074.8,
+                        973.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93026,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 8,
+            "parent_id": "51a9fb7faf841356f175edc8bc31e1d6"
+        },
+        "text": "The three harder games were Meier, Blind Tic Tac Toe and Biased Blind Tic Tac Toe. Meier, otherwise known as liar\u2019s dice [13], is an asymmetric dice game requiring the ability to deceive and to detect an opponent\u2019s deception. The game involves rolling two dice and announcing the outcome to the other player or blu\ufb03ng that it was a better roll. Unlike Meier, Blind Tic Tac Toe is a symmetrical and simultaneous game. The di\ufb00erence from the traditional Tic Tac Toe is that agents play simultaneously and cannot see where their opponents have played. They only get told if their last move was successful or not. If both players attempt to play in the same cell at the same time, one of them is chosen randomly to be successful [10]. Biased Blind Tic Tac Toe is very similar, but in cases where both agents choose the same cell at the same time, the \u201cX\u201d player is given the cell every time.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b13d5bc384a07885c7d0d28f190f4af0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.4,
+                        1421.2
+                    ],
+                    [
+                        109.4,
+                        1449.2
+                    ],
+                    [
+                        502.5,
+                        1449.2
+                    ],
+                    [
+                        502.5,
+                        1421.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.86235,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 8,
+            "parent_id": "51a9fb7faf841356f175edc8bc31e1d6"
+        },
+        "text": "4.2 Results and Discussion",
+        "type": "Title"
+    },
+    {
+        "element_id": "dd0480b8f317218af07603280776f88e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        103.7,
+                        1475.3
+                    ],
+                    [
+                        103.7,
+                        1670.4
+                    ],
+                    [
+                        1073.0,
+                        1670.4
+                    ],
+                    [
+                        1073.0,
+                        1475.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94922,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 8,
+            "parent_id": "b13d5bc384a07885c7d0d28f190f4af0"
+        },
+        "text": "Due to the small total number of states in the easy games, they can be completely searched to terminal states at inference time with CFR. In the Scissors\u2013Paper\u2013 Rock variant, the optimal solution of Rock = 0.4, Paper = 0.4, Scissors = 0.2 is found quickly at inference time even without any training time. For the Monty Hall Problem, the interesting feature of this game is how often the candidate switches\u2014where it is optimal to always switch. There are two possible states that",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3cbe07b7ac03625272780245860c28ef",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        171.9,
+                        83.3
+                    ],
+                    [
+                        171.9,
+                        110.6
+                    ],
+                    [
+                        1109.3,
+                        110.6
+                    ],
+                    [
+                        1109.3,
+                        83.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.82361,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 9,
+            "parent_id": "b13d5bc384a07885c7d0d28f190f4af0"
+        },
+        "text": "Hidden Information General Game Playing with Deep Learning and Search",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "77437c92a528dd8f3c7406cce120c4a0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        148.8,
+                        154.9
+                    ],
+                    [
+                        148.8,
+                        348.6
+                    ],
+                    [
+                        1110.0,
+                        348.6
+                    ],
+                    [
+                        1110.0,
+                        154.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95176,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 9,
+            "parent_id": "b13d5bc384a07885c7d0d28f190f4af0"
+        },
+        "text": "the agent could be in at this stage, and if the state sampling is done correctly, we should see the agent sample the \u201cswitch\u201d state twice as often as the state that already has the car. Therefore the weighted average policy that the agent plays by is to switch with p = 2 3 . While this is not optimal play, it is still superior to random or standard human play, and an extension is discussed in Sect. 5 in which it will switch with p = 1.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0f6a82f1bad60e2b12bfd570988c7dfd",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        146.0,
+                        354.2
+                    ],
+                    [
+                        146.0,
+                        614.3
+                    ],
+                    [
+                        1113.3,
+                        614.3
+                    ],
+                    [
+                        1113.3,
+                        354.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95705,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 9,
+            "parent_id": "b13d5bc384a07885c7d0d28f190f4af0"
+        },
+        "text": "As Table 1 shows, our agent playing Meier easily beats a random player select- ing valid moves from a uniform distribution and even the CFR only agent (using an untrained neural network) wins at least 80% of games. We also supplied a handcrafted opponent that will blu\ufb00 in proportion to the value of its own roll and will call the opponent\u2019s blu\ufb00 in proportion to their claim. Our untrained agent managed to play on a similar level to the handcrafted solution. After the neural network has \ufb01nished training, performance is signi\ufb01cantly improved against both the random and handcrafted agents.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "49858693b81314b2ae4747e872420ea3",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        159.1,
+                        674.4
+                    ],
+                    [
+                        159.1,
+                        700.0
+                    ],
+                    [
+                        1085.9,
+                        700.0
+                    ],
+                    [
+                        1085.9,
+                        674.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.58674,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 9,
+            "parent_id": "b13d5bc384a07885c7d0d28f190f4af0"
+        },
+        "text": "Table 2. Scores out of 100 games of Blind Tic Tac Toe against various opponents",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "79bf9cc5ce5f61bf2ec9a71b34616668",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        361.6,
+                        729.2
+                    ],
+                    [
+                        361.6,
+                        998.6
+                    ],
+                    [
+                        886.7,
+                        998.6
+                    ],
+                    [
+                        886.7,
+                        729.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9212,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "image_path": "/home/msunkur/dev/projects/uol/Module5/midterm/CM3020_Artificial_Intelligence/parta/docs/tmp/tmp_ingest/output/table-9-2.jpg",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 9,
+            "parent_id": "b13d5bc384a07885c7d0d28f190f4af0",
+            "text_as_html": "<table><thead><tr><th></th><th>Random |</th><th>Hand crafted</th></tr></thead><tbody><tr><td>CFR + trained NN x</td><td>| 79.5</td><td>48</td></tr><tr><td>CFR + trained NN o</td><td>| 79.5</td><td>55</td></tr><tr><td>CFR only x</td><td>54</td><td>25</td></tr><tr><td>CFR only o</td><td>60</td><td>20</td></tr><tr><td>Random x</td><td>48</td><td>23.5</td></tr><tr><td>Random o</td><td>52</td><td>21.5</td></tr></tbody></table>"
+        },
+        "text": "Random Hand crafted CFR + trained NN x 79.5 48 CFR + trained NN o 79.5 55 CFR only x 54 25 CFR only o 60 20 Random x 48 23.5 Random o 52 21.5",
+        "type": "Table"
+    },
+    {
+        "element_id": "6ef93888912dbaf74752dfc0fc9ea324",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        148.8,
+                        1072.6
+                    ],
+                    [
+                        148.8,
+                        1366.1
+                    ],
+                    [
+                        1113.8,
+                        1366.1
+                    ],
+                    [
+                        1113.8,
+                        1072.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91683,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 9,
+            "parent_id": "b13d5bc384a07885c7d0d28f190f4af0"
+        },
+        "text": "As Blind Tic Tac Toe is symmetrical, the small di\ufb00erences for X and O players in Table 2 must be attributed to random chance. By applying CFR with the untrained NN, performance is slightly improved over random but is still very weak in comparison to the handcrafted algorithm. After training, performance is improved signi\ufb01cantly against both a random opponent and the handcrafted solution. Our method is designed to approximate a non-exploitable policy but does not attempt to exploit other players. The handcrafted solution it played against was strong but could be easily exploited by an adversary that knows its policy, but it also does not attempt to exploit other players.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a96cbd17cbfafd45b93b31bfb5679fd5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        145.6,
+                        1371.5
+                    ],
+                    [
+                        145.6,
+                        1532.0
+                    ],
+                    [
+                        1111.5,
+                        1532.0
+                    ],
+                    [
+                        1111.5,
+                        1371.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94782,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 9,
+            "parent_id": "b13d5bc384a07885c7d0d28f190f4af0"
+        },
+        "text": "As can be expected from the removal of player symmetry, the results are in the favour of \u201cX\u201d. Table 3 shows that the trained defensive \u201cO\u201d players only win around 25% of games against the other trained players, but against the hand- crafted player they can win almost half the games while playing at a signi\ufb01cant disadvantage.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c81928e0c17f9a0f6e0da45bafaef4c3",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        148.8,
+                        1537.5
+                    ],
+                    [
+                        148.8,
+                        1665.2
+                    ],
+                    [
+                        1111.9,
+                        1665.2
+                    ],
+                    [
+                        1111.9,
+                        1537.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94071,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 9,
+            "parent_id": "b13d5bc384a07885c7d0d28f190f4af0"
+        },
+        "text": "Both seeds eventually settle into very similar strategies and consequently very similar performance against all opponents. This is not the case all the way through training however, for example if we evaluate a snapshot of the networks from halfway through the training process against a handcrafted \u201cO\u201d player,",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c00995b9dc09c33b15f1995bfc001ff3",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.5,
+                        83.6
+                    ],
+                    [
+                        109.5,
+                        110.7
+                    ],
+                    [
+                        549.6,
+                        110.7
+                    ],
+                    [
+                        549.6,
+                        83.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.47536,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 10,
+            "parent_id": "b13d5bc384a07885c7d0d28f190f4af0"
+        },
+        "text": "170 Z. Partridge and M. Thielscher",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "4822f9be76145dbf09faf90c6b6d73c4",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.5,
+                        146.6
+                    ],
+                    [
+                        109.5,
+                        202.1
+                    ],
+                    [
+                        1073.3,
+                        202.1
+                    ],
+                    [
+                        1073.3,
+                        146.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83412,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 10,
+            "parent_id": "b13d5bc384a07885c7d0d28f190f4af0"
+        },
+        "text": "Table 3. Scores out of 100 games of Very Biased Blind Tic Tac Toe against various opponents",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "606928dc1d7189a22633ae7a458f3bb0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        116.7,
+                        230.9
+                    ],
+                    [
+                        116.7,
+                        553.3
+                    ],
+                    [
+                        1071.3,
+                        553.3
+                    ],
+                    [
+                        1071.3,
+                        230.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93294,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "image_path": "/home/msunkur/dev/projects/uol/Module5/midterm/CM3020_Artificial_Intelligence/parta/docs/tmp/tmp_ingest/output/table-10-3.jpg",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 10,
+            "parent_id": "b13d5bc384a07885c7d0d28f190f4af0",
+            "text_as_html": "<table><thead><tr><th></th><th>Random</th><th>Hand crafted</th><th>Trained (seed 1)</th><th>Trained (seed 2)</th></tr></thead><tbody><tr><td>CFR + trained NN x (seed1)</td><td>| 89.5</td><td>79.5</td><td>66</td><td>75.5</td></tr><tr><td>CFR + trained NN o (seed1)</td><td>| 46</td><td>44</td><td>34</td><td>26</td></tr><tr><td>CFR + trained NN x (seed2)</td><td>| 91.5</td><td>80.5</td><td>74</td><td>73</td></tr><tr><td>CFR + trained NN o (seed2)</td><td>| 52</td><td>45</td><td>24.5</td><td>27</td></tr><tr><td>CFR only x</td><td>84</td><td>40.5</td><td></td><td></td></tr><tr><td>CFR only o</td><td>36</td><td>14.5</td><td></td><td></td></tr><tr><td>Random x</td><td>80.5</td><td>35</td><td></td><td></td></tr><tr><td>Random o</td><td>18</td><td>11</td><td></td><td></td></tr></tbody></table>"
+        },
+        "text": "Random Hand crafted Trained (seed 1) Trained (seed 2) CFR + trained NN x (seed1) 89.5 79.5 66 75.5 CFR + trained NN o (seed1) 46 44 34 26 CFR + trained NN x (seed2) 91.5 80.5 74 73 CFR + trained NN o (seed2) 52 45 24.5 27 CFR only x 84 40.5 CFR only o 36 14.5 Random x 80.5 35 Random o 18 11",
+        "type": "Table"
+    },
+    {
+        "element_id": "36fde61145765cfd74432563af4f2445",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        106.1,
+                        627.6
+                    ],
+                    [
+                        106.1,
+                        788.1
+                    ],
+                    [
+                        1078.6,
+                        788.1
+                    ],
+                    [
+                        1078.6,
+                        627.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95013,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 10,
+            "parent_id": "b13d5bc384a07885c7d0d28f190f4af0"
+        },
+        "text": "seed 1 wins 100% of games and seed 2 only wins 23%. These non-converged players are both quite exploitable at this stage in training, even seed 1 which won 100% of games against the handcrafted player just can be seen as lucky with its match-up because when it plays against the \ufb01nal version of seed 1, it only scores a very modest 54.5.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "be7ba5e3c8359109eb8d60eb859093ae",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.5,
+                        842.6
+                    ],
+                    [
+                        109.5,
+                        876.4
+                    ],
+                    [
+                        639.3,
+                        876.4
+                    ],
+                    [
+                        639.3,
+                        842.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.86943,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 10,
+            "parent_id": "51a9fb7faf841356f175edc8bc31e1d6"
+        },
+        "text": "5 Conclusion and Future Work",
+        "type": "Title"
+    },
+    {
+        "element_id": "7a6885278bd3fc6ef7924d9669da45a5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        104.6,
+                        912.2
+                    ],
+                    [
+                        104.6,
+                        1073.1
+                    ],
+                    [
+                        1073.9,
+                        1073.1
+                    ],
+                    [
+                        1073.9,
+                        912.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94497,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 10,
+            "parent_id": "be7ba5e3c8359109eb8d60eb859093ae"
+        },
+        "text": "Our work has successfully demonstrated that hidden information games can be played at a high standard by using a combination of CFR search, state sampling and reinforcement learning. This approach can, in principle, be applied to any GDL-II game and is not limited to zero-sum, a set number of players, turn-based or symmetrical games.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6ccb025293c098f1dd756c31ec0cf2e0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        105.9,
+                        1078.7
+                    ],
+                    [
+                        105.9,
+                        1239.2
+                    ],
+                    [
+                        1073.3,
+                        1239.2
+                    ],
+                    [
+                        1073.3,
+                        1078.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9466,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 10,
+            "parent_id": "be7ba5e3c8359109eb8d60eb859093ae"
+        },
+        "text": "An evaluation of the system shows that small games can be played opti- mally even without training or with only minimal training. Larger, more complex games can be learnt in the order of 24 h on a single CPU to such a degree that it outperforms even handcrafted algorithms speci\ufb01cally designed for the individual games.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3032dc098227dd4478cd71b4eed0c7e0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        102.1,
+                        1244.5
+                    ],
+                    [
+                        102.1,
+                        1372.2
+                    ],
+                    [
+                        1071.1,
+                        1372.2
+                    ],
+                    [
+                        1071.1,
+                        1244.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94709,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 10,
+            "parent_id": "be7ba5e3c8359109eb8d60eb859093ae"
+        },
+        "text": "The current time spent in training is much longer than a conventional 10 min start clock used in GGP competitions, however with parallelised training and further optimisations mentioned below, many games could still be played very well within the reduced time limitations.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c8b5e8378962aaad5f85e629ff2b79ab",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.5,
+                        1426.3
+                    ],
+                    [
+                        109.5,
+                        1454.0
+                    ],
+                    [
+                        289.8,
+                        1454.0
+                    ],
+                    [
+                        289.8,
+                        1426.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.8414,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 10,
+            "parent_id": "51a9fb7faf841356f175edc8bc31e1d6"
+        },
+        "text": "Future Work",
+        "type": "Title"
+    },
+    {
+        "element_id": "59fd20e7c4e74c480d0b5ec9ed1b78a3",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        104.8,
+                        1479.6
+                    ],
+                    [
+                        104.8,
+                        1674.6
+                    ],
+                    [
+                        1072.5,
+                        1674.6
+                    ],
+                    [
+                        1072.5,
+                        1479.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94845,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 10,
+            "parent_id": "c8b5e8378962aaad5f85e629ff2b79ab"
+        },
+        "text": "Optimisation. The proposed algorithm has the potential to be massively par- allelised. During training, almost the entire time is spent on playing out many self-play games and these games can e\ufb03ciently be played in parallel without any need for communication during the game as described in [5]. Even within a sin- gle game at training or inference time, there are many independent components that can be run in parallel. At inference time and sometimes during training",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "381397719e9674960449f22dd4297441",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        171.9,
+                        82.7
+                    ],
+                    [
+                        171.9,
+                        111.0
+                    ],
+                    [
+                        1109.3,
+                        111.0
+                    ],
+                    [
+                        1109.3,
+                        82.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84731,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 11,
+            "parent_id": "c8b5e8378962aaad5f85e629ff2b79ab"
+        },
+        "text": "Hidden Information General Game Playing with Deep Learning and Search",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3af387a1ceaabf0550711210614f9f68",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        148.8,
+                        153.6
+                    ],
+                    [
+                        148.8,
+                        348.6
+                    ],
+                    [
+                        1111.7,
+                        348.6
+                    ],
+                    [
+                        1111.7,
+                        153.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95348,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 11,
+            "parent_id": "c8b5e8378962aaad5f85e629ff2b79ab"
+        },
+        "text": "as well, sampling the states is the bottleneck, but every state could be sampled on a separate processor. During training, the bottleneck normally is in running CFR for longer on the true current state to use as the training target. There is no reason that this needs to be done at the same time as the practice game is being played. Instead only the states need to be stored and the optimal policy for each state could be calculated in parallel separately.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7ef885f13bce1184b8031f4ae9ff1ba1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        148.8,
+                        400.2
+                    ],
+                    [
+                        148.8,
+                        529.9
+                    ],
+                    [
+                        1112.6,
+                        529.9
+                    ],
+                    [
+                        1112.6,
+                        400.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94946,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 11,
+            "parent_id": "c8b5e8378962aaad5f85e629ff2b79ab"
+        },
+        "text": "Larger Games. Once su\ufb03cient optimisations have been made, our approach could be extended to larger, more di\ufb03cult games. Eventually, real-world prob- lems could be cast into GDL-II or the algorithm could be exported to other domains such that it could be used to make a positive impact on society.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7042d0b234ef0b6d586e9d208e100278",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        147.8,
+                        582.2
+                    ],
+                    [
+                        147.8,
+                        743.4
+                    ],
+                    [
+                        1116.5,
+                        743.4
+                    ],
+                    [
+                        1116.5,
+                        582.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95202,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 11,
+            "parent_id": "c8b5e8378962aaad5f85e629ff2b79ab"
+        },
+        "text": "Exploiting Opponents. Our approach aims to approximate a policy that is non-exploitable, but does not yet attempt to exploit other players. Future work on exploitation could model the policies of other players, estimate their weaknesses and slowly deviate from the existing policy to capitalise on any biases they may have.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "28add083e30b529e330958c5990453e2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        147.7,
+                        794.8
+                    ],
+                    [
+                        147.7,
+                        828.0
+                    ],
+                    [
+                        326.5,
+                        828.0
+                    ],
+                    [
+                        326.5,
+                        794.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83542,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 11,
+            "parent_id": "51a9fb7faf841356f175edc8bc31e1d6"
+        },
+        "text": "References",
+        "type": "Title"
+    },
+    {
+        "element_id": "48cd4e8bfeaf0045fccf52c79b9524a9",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        157.4,
+                        861.1
+                    ],
+                    [
+                        157.4,
+                        918.5
+                    ],
+                    [
+                        1110.7,
+                        918.5
+                    ],
+                    [
+                        1110.7,
+                        861.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91157,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 11,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "1. Brown, G.W.: Iterative solution of games by \ufb01ctitious play. In: Koopmans, T. (ed.) Activity Analysis of Production and Allocation. Wiley (1951)",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "fe567f290c4695835ea147ee79fe4063",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        161.6,
+                        923.1
+                    ],
+                    [
+                        161.6,
+                        1009.2
+                    ],
+                    [
+                        1117.4,
+                        1009.2
+                    ],
+                    [
+                        1117.4,
+                        923.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9278,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 11,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "2. Brown, N., Bakhtin, A., Lerer, A., Gong, Q.: Combining deep reinforcement learn- ing and search for imperfect-information games. CoRR abs/2007.13544 (2020). arXiv:2007.13544",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "b91c72e9ed0f0043d6d702748d4a6138",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        161.6,
+                        1012.2
+                    ],
+                    [
+                        161.6,
+                        1070.3
+                    ],
+                    [
+                        1117.8,
+                        1070.3
+                    ],
+                    [
+                        1117.8,
+                        1012.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91269,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 11,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "3. Brown, N., Sandholm, T.: Superhuman AI for multiplayer poker. Science 365(6456), 885\u2013890 (2019). https://doi.org/10.1126/science.aay2400",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "1911323fcfe244a941aa567d78ca7dec",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        161.6,
+                        1074.5
+                    ],
+                    [
+                        161.6,
+                        1160.3
+                    ],
+                    [
+                        1123.9,
+                        1160.3
+                    ],
+                    [
+                        1123.9,
+                        1074.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92973,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 11,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "4. Brown, N., Sandholm, T., Amos, B.: Depth-limited solving for imperfect- information games. In: Proceedings of NeurIPS, pp. 7674\u20137685 (2018). arXiv:1805.08195",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "b716b7afd9ed0c00a84f97d2af215a08",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        159.4,
+                        1163.2
+                    ],
+                    [
+                        159.4,
+                        1220.6
+                    ],
+                    [
+                        1113.9,
+                        1220.6
+                    ],
+                    [
+                        1113.9,
+                        1163.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.905,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 11,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "5. Clemente, A.V., Mart\u00b4\u0131nez, H.N.C., Chandra, A.: E\ufb03cient parallel methods for deep reinforcement learning. CoRR abs/1705.04862 (2017). arXiv:1705.04862",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "8376976d730f5ec63a7262a292b6d56f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        152.6,
+                        1225.6
+                    ],
+                    [
+                        152.6,
+                        1281.0
+                    ],
+                    [
+                        1118.6,
+                        1281.0
+                    ],
+                    [
+                        1118.6,
+                        1225.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90734,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 11,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "6. Clune, J.: Heuristic evaluation functions for general game playing. In: Proceedings of AAAI, pp. 1134\u20131139 (2007)",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "3ab9bf3ff50868ee238f222d37993aab",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        159.7,
+                        1285.9
+                    ],
+                    [
+                        159.7,
+                        1402.2
+                    ],
+                    [
+                        1124.6,
+                        1402.2
+                    ],
+                    [
+                        1124.6,
+                        1285.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93141,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 11,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "7. Edelkamp, S., Federholzner, T., Kissmann, P.: Searching with partial belief states in general games with incomplete information. In: Glimm, B., Kr\u00a8uger, A. (eds.) KI 2012. LNCS (LNAI), vol. 7526, pp. 25\u201336. Springer, Heidelberg (2012). https:// doi.org/10.1007/978-3-642-33347-7 3",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "27af10d108de2b90400673ae7cc2d764",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        161.0,
+                        1405.4
+                    ],
+                    [
+                        161.0,
+                        1462.5
+                    ],
+                    [
+                        1109.2,
+                        1462.5
+                    ],
+                    [
+                        1109.2,
+                        1405.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9027,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 11,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "8. Finnsson, H., Bj\u00a8ornsson, Y.: Simulation-based approach to general game playing. In: Proceedings of AAAI, pp. 259\u2013264 (2008)",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "e94cb0b132fcb8e5684e2abff2a7b1d2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        152.9,
+                        1467.5
+                    ],
+                    [
+                        152.9,
+                        1522.9
+                    ],
+                    [
+                        1112.5,
+                        1522.9
+                    ],
+                    [
+                        1112.5,
+                        1467.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90255,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 11,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "9. Genesereth, M., Bj\u00a8ornsson, Y.: The international general game playing competi- tion. AI Mag. 34(2), 107\u2013111 (2013)",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "09bdb6ea561399e6ca2abb7a3276cb49",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        145.0,
+                        1527.7
+                    ],
+                    [
+                        145.0,
+                        1583.2
+                    ],
+                    [
+                        1118.0,
+                        1583.2
+                    ],
+                    [
+                        1118.0,
+                        1527.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90419,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 11,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "10. Genesereth, M., Thielscher, M.: General Game Playing. Morgan & Claypool Pub- lishers (2014)",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "cf01f8ce56a748f6618ac20ee16fde5a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        148.8,
+                        1588.2
+                    ],
+                    [
+                        148.8,
+                        1675.2
+                    ],
+                    [
+                        1119.1,
+                        1675.2
+                    ],
+                    [
+                        1119.1,
+                        1588.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92455,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 11,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "11. Goldwaser, A., Thielscher, M.: Deep reinforcement learning for general game play- ing. In: Proceedings of AAAI, pp. 1701\u20131708, April 2020. https://doi.org/10.1609/ aaai.v34i02.5533, https://ojs.aaai.org/index.php/AAAI/article/view/5533",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "4eae23f70405ca34e5e21e5024f83342",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.5,
+                        83.6
+                    ],
+                    [
+                        109.5,
+                        110.4
+                    ],
+                    [
+                        549.6,
+                        110.4
+                    ],
+                    [
+                        549.6,
+                        83.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.75289,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 12,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "172 Z. Partridge and M. Thielscher",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "b5625805e394107e140f9816e2e10444",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        105.3,
+                        150.8
+                    ],
+                    [
+                        105.3,
+                        212.6
+                    ],
+                    [
+                        1077.1,
+                        212.6
+                    ],
+                    [
+                        1077.1,
+                        150.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9134,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 12,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "12. Koriche, F., Piette, S.L.\u00b4E., Tabary, S.: General game playing with stochastic CSP. Constraints 21(1), 95\u2013114 (2016)",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "2666c50e98cd03b252eb44d759e3fa07",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.5,
+                        216.7
+                    ],
+                    [
+                        109.5,
+                        273.5
+                    ],
+                    [
+                        1083.0,
+                        273.5
+                    ],
+                    [
+                        1083.0,
+                        216.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91059,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 12,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "13. Liar\u2019s dice: Liar\u2019s dice \u2013 Wikipedia, the free encyclopedia (2021). https://en. wikipedia.org/wiki/Liar%27s dice. Accessed Nov 2021",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "0fb457af05afab7d3bd0f04839ec60fb",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.4,
+                        278.1
+                    ],
+                    [
+                        109.4,
+                        304.1
+                    ],
+                    [
+                        1069.8,
+                        304.1
+                    ],
+                    [
+                        1069.8,
+                        278.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84751,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 12,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "14. Rosenhouse, J.: The Monty Hall Problem. Oxford University Press, Oxford (2009)",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "1ffd0775b4139ca19405a696beb8ac3f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        108.8,
+                        309.3
+                    ],
+                    [
+                        108.8,
+                        395.1
+                    ],
+                    [
+                        1083.9,
+                        395.1
+                    ],
+                    [
+                        1083.9,
+                        309.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92985,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 12,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "15. Schkufza, E., Love, N., Genesereth, M.: Propositional automata and cell automata: representational frameworks for discrete dynamic systems. In: Proceedings of the Australasian Joint Conference on AI. LNCS, vol. 5360, pp. 56\u201366 (2008)",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "e54126e3e3d513967d0d8ca89ddc37dc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        105.6,
+                        400.6
+                    ],
+                    [
+                        105.6,
+                        456.0
+                    ],
+                    [
+                        1078.5,
+                        456.0
+                    ],
+                    [
+                        1078.5,
+                        400.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90986,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 12,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "16. Schmid, M., et al.: Player of games. CoRR abs/2112.03178 arXiv:2112.03178 (2021).",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "ccd3e7b0bf5a6f33aa52783de3bc907b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        107.4,
+                        461.1
+                    ],
+                    [
+                        107.4,
+                        517.7
+                    ],
+                    [
+                        1077.3,
+                        517.7
+                    ],
+                    [
+                        1077.3,
+                        461.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90985,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 12,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "17. Scho\ufb01eld, M., Thielscher, M.: General game playing with imperfect information. J. Artif. Intell. Res. 66, 901\u2013935 (2019)",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "c4038fbfd0b3734527847d5c9bec6bdf",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        101.7,
+                        521.8
+                    ],
+                    [
+                        101.7,
+                        577.7
+                    ],
+                    [
+                        1076.6,
+                        577.7
+                    ],
+                    [
+                        1076.6,
+                        521.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90146,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 12,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "18. Schreiber, S., et al.: GGP-base. https://github.com/ggp-org/ggp-base (2010). Accessed June 2021",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "db8731fbf12b7e22dc1bdf6ca25004f4",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.4,
+                        580.6
+                    ],
+                    [
+                        109.4,
+                        638.6
+                    ],
+                    [
+                        1077.6,
+                        638.6
+                    ],
+                    [
+                        1077.6,
+                        580.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90097,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 12,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "19. Silver, D., et al.: Mastering the game of Go with deep neural networks and tree search. Nature 529, 484\u2013489 (2016). https://doi.org/10.1038/nature16961",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "38c7a87a89886a648897b5814365adeb",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        109.4,
+                        644.1
+                    ],
+                    [
+                        109.4,
+                        729.9
+                    ],
+                    [
+                        1082.5,
+                        729.9
+                    ],
+                    [
+                        1082.5,
+                        644.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92811,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 12,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "20. Silver, D., et al.: A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play. Science 362, 1140\u20131144 (2018). https://doi.org/ 10.1126/science.aar6404",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "767b56749166a00bf26587c6339a2782",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        99.8,
+                        735.0
+                    ],
+                    [
+                        99.8,
+                        791.2
+                    ],
+                    [
+                        1083.2,
+                        791.2
+                    ],
+                    [
+                        1083.2,
+                        735.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90985,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 12,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "21. Thielscher, M.: A general game description language for incomplete information games. In: Proceedings of AAAI, pp. 994\u2013999, January 2010",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "eace5683e4e4f24350d3b9be181dc9de",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        107.5,
+                        795.1
+                    ],
+                    [
+                        107.5,
+                        852.2
+                    ],
+                    [
+                        1073.1,
+                        852.2
+                    ],
+                    [
+                        1073.1,
+                        795.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90355,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 12,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "22. Vinyals, O., et al.: Grandmaster level in StarCraft II using multi-agent reinforce- ment learning. Nature 575 (2019). https://doi.org/10.1038/s41586-019-1724-z",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "f14c1fe7d08f54f9190dca0609caeb35",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 1851,
+                "layout_width": 1221,
+                "points": [
+                    [
+                        103.1,
+                        857.3
+                    ],
+                    [
+                        103.1,
+                        944.2
+                    ],
+                    [
+                        1080.1,
+                        944.2
+                    ],
+                    [
+                        1080.1,
+                        857.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9249,
+            "file_directory": "./uol-docs",
+            "filename": "978-3-031-20868-3_12.pdf",
+            "languages": [
+                "eng",
+                "tur"
+            ],
+            "last_modified": "2024-12-28T22:56:53",
+            "page_number": 12,
+            "parent_id": "28add083e30b529e330958c5990453e2"
+        },
+        "text": "23. Zinkevich, M., Johanson, M., Bowling, M., Piccione, C.: Regret minimization in games with incomplete information. In: Proceedings of NeurIPS, pp. 1729\u20131736 (2007)",
+        "type": "ListItem"
+    }
+]

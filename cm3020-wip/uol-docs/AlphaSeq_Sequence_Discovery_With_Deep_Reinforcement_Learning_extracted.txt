@@ -1,0 +1,23 @@
+The text explains that AI systems are trained to play games for several reasons, including:
+
+* **Understanding complex decision-making:** Games often involve strategic thinking, planning, and adaptation, which can help AI learn these skills.
+* **Developing algorithms for optimization:** Game playing requires finding the best possible moves in a given situation, leading to advancements in optimization algorithms.
+* **Testing and improving machine learning techniques:** Games provide a controlled environment to test and refine new machine learning approaches.
+
+The specific example in the text focuses on using deep reinforcement learning (DRL) to train an AI system called AlphaSeq for discovering optimal sequences in communication systems. 
+
+
+
+
+The text describes using AI systems to play games as a way to develop and test algorithms for complex problem solving, specifically mentioning AlphaSeq which is used to discover phase codes for pulse compression radar.
+
+It does not explicitly state why creating AI systems that play games is beneficial. However, it implies that the process of training an AI to play a game effectively involves developing strategies, learning from mistakes, and optimizing performance - skills that can be transferable to solving real-world problems. 
+
+
+The text does not mention why to create AI systems that play games.
+
+SOURCES:
+
+
+not found 
+SOURCES:
