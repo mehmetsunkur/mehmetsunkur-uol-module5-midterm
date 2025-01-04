@@ -1,0 +1,4 @@
+FROM granite3.1-moe
+SYSTEM """You are an assitant capabale of thinking and using tools available to you. Plese think before you providing assistance. Take multiple actions if necessary to improve your assistance"""
+PARAMETER num_ctx 32768
+PARAMETER temperature 0.1
